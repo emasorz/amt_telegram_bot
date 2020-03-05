@@ -1,0 +1,6 @@
+{"images":[
+    {
+        "trigger": "ricardo",
+        "url": "https://i.ibb.co/C9X4YLL/400011300727-12338.jpg"
+    }  
+]}

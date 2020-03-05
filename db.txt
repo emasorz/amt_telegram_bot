@@ -1,0 +1,9834 @@
+{"fermate":[
+    {
+        "id": "0001",
+        "name": "CARICAMENTO/ACQUARIO"
+    },
+    {
+        "id": "0003",
+        "name": "GRAMSCI 1/METRO' DARSENA"
+    },
+    {
+        "id": "0004",
+        "name": "GRAMSCI 2/STATUTO"
+    },
+    {
+        "id": "0005",
+        "name": "GRAMSCI 3/COMMENDA"
+    },
+    {
+        "id": "0006",
+        "name": "MARITTIMA/PRINCIPE FS"
+    },
+    {
+        "id": "0007",
+        "name": "BUOZZI 1/PIAZZA SAN TEODORO"
+    },
+    {
+        "id": "0008",
+        "name": "BUOZZI 2/METRO' DINEGRO"
+    },
+    {
+        "id": "0009",
+        "name": "FRANCIA 2/MATITONE"
+    },
+    {
+        "id": "0010",
+        "name": "FRANCIA 3/STAZIONE FS"
+    },
+    {
+        "id": "0011",
+        "name": "BURANELLO 1/BARABINO"
+    },
+    {
+        "id": "0012",
+        "name": "BURANELLO 2/GIOVANETTI"
+    },
+    {
+        "id": "0013",
+        "name": "AVIO 1/MOLTENI"
+    },
+    {
+        "id": "0014",
+        "name": "PACINOTTI/FIUMARA"
+    },
+    {
+        "id": "0015",
+        "name": "PIERAGOSTINI/FIUMARA"
+    },
+    {
+        "id": "0016",
+        "name": "CORNIGLIANO 1/GIARDINI MELIS"
+    },
+    {
+        "id": "0017",
+        "name": "CORNIGLIANO 2/RIZZOLIO"
+    },
+    {
+        "id": "0018",
+        "name": "CORNIGLIANO 3/PIAZZA CONTI"
+    },
+    {
+        "id": "0019",
+        "name": "CORNIGLIANO 4/STAZIONE FS"
+    },
+    {
+        "id": "0020",
+        "name": "SIFFREDI 2/ACCIAIO"
+    },
+    {
+        "id": "0021",
+        "name": "SIFFREDI 3/CALCINARA"
+    },
+    {
+        "id": "0022",
+        "name": "HERMADA/MENOTTI"
+    },
+    {
+        "id": "0023",
+        "name": "PUCCINI 1/TRAVI"
+    },
+    {
+        "id": "0024",
+        "name": "PUCCINI 2/SESTRI FS AEROPORTO"
+    },
+    {
+        "id": "0025",
+        "name": "SOLIMAN/CERRUTI"
+    },
+    {
+        "id": "0026",
+        "name": "MERANO 1/VILLA ROSSI"
+    },
+    {
+        "id": "0027",
+        "name": "MERANO 2/MONFALCONE"
+    },
+    {
+        "id": "0028",
+        "name": "MERANO 3/AMIU"
+    },
+    {
+        "id": "0029",
+        "name": "MULTEDO/VILLA CHIESA"
+    },
+    {
+        "id": "0030",
+        "name": "RONCHI/VIGILI DEL FUOCO"
+    },
+    {
+        "id": "0031",
+        "name": "LUNGOMARE DI PEGLI 1/VARENNA"
+    },
+    {
+        "id": "0032",
+        "name": "LUNGOMARE DI PEGLI 2/PEGLI FS"
+    },
+    {
+        "id": "0033",
+        "name": "PEGLI 1/PORTICCIOLO"
+    },
+    {
+        "id": "0034",
+        "name": "PEGLI 2/RISVEGLIO"
+    },
+    {
+        "id": "0035",
+        "name": "PEGLI 4/LIDO"
+    },
+    {
+        "id": "0036",
+        "name": "PEGLI 5/CASTELLUCCIO"
+    },
+    {
+        "id": "0037",
+        "name": "PRA' 2/FERRIERE"
+    },
+    {
+        "id": "0038",
+        "name": "PRA' 3/PRA' FS"
+    },
+    {
+        "id": "0039",
+        "name": "PRA' 5/CORDANIERI"
+    },
+    {
+        "id": "0040",
+        "name": "PRA' 6/LAURA"
+    },
+    {
+        "id": "0041",
+        "name": "PRA' 7/PALMARO CENTRO"
+    },
+    {
+        "id": "0042",
+        "name": "PRA' 8/DE MARI"
+    },
+    {
+        "id": "0043",
+        "name": "PRA' 9/VILLA PODESTA'"
+    },
+    {
+        "id": "0044",
+        "name": "PRA' 10/VERRINA"
+    },
+    {
+        "id": "0045",
+        "name": "VOLTRI/VOLTRI FS"
+    },
+    {
+        "id": "0046",
+        "name": "VERITA'/LERDA"
+    },
+    {
+        "id": "0047",
+        "name": "CAMOZZINI 1/GAGGERO"
+    },
+    {
+        "id": "0048",
+        "name": "CAMOZZINI 2/PRATI"
+    },
+    {
+        "id": "0049",
+        "name": "CAMOZZINI 3/CADUTI"
+    },
+    {
+        "id": "0050",
+        "name": "CAMOZZINI/CAPOLINEA"
+    },
+    {
+        "id": "0051",
+        "name": "CAMOZZINI 2/CADUTI"
+    },
+    {
+        "id": "0052",
+        "name": "CAMOZZINI 3/ODICINI"
+    },
+    {
+        "id": "0053",
+        "name": "CAMOZZINI 4/GAGGERO"
+    },
+    {
+        "id": "0054",
+        "name": "VERITA'/VOLTRI FS"
+    },
+    {
+        "id": "0055",
+        "name": "VOLTRI/VOLTRI FS"
+    },
+    {
+        "id": "0056",
+        "name": "PRA' 1/VERRINA"
+    },
+    {
+        "id": "0057",
+        "name": "PRA' 2/VILLA PODESTA'"
+    },
+    {
+        "id": "0058",
+        "name": "PRA' 3/DE MARI"
+    },
+    {
+        "id": "0059",
+        "name": "PRA' 4/PALMARO CENTRO"
+    },
+    {
+        "id": "0060",
+        "name": "PRA' 5/LAURA"
+    },
+    {
+        "id": "0061",
+        "name": "PRA' 6/CORDANIERI"
+    },
+    {
+        "id": "0062",
+        "name": "PRA' 7/PRA' FS"
+    },
+    {
+        "id": "0063",
+        "name": "PRA' 8/FERRIERE"
+    },
+    {
+        "id": "0064",
+        "name": "PRA' 9/CASTELLUCCIO"
+    },
+    {
+        "id": "0065",
+        "name": "PEGLI 1/LIDO"
+    },
+    {
+        "id": "0066",
+        "name": "PEGLI 2/RISVEGLIO"
+    },
+    {
+        "id": "0067",
+        "name": "PEGLI 3/PORTICCIOLO"
+    },
+    {
+        "id": "0068",
+        "name": "LUNGOMARE DI PEGLI 1/PEGLI FS"
+    },
+    {
+        "id": "0069",
+        "name": "LUNGOMARE DI PEGLI 2/VARENNA"
+    },
+    {
+        "id": "0070",
+        "name": "RONCHI/VIGILI DEL FUOCO"
+    },
+    {
+        "id": "0071",
+        "name": "MULTEDO/VILLA CHIESA"
+    },
+    {
+        "id": "0072",
+        "name": "MERANO 1/AMIU"
+    },
+    {
+        "id": "0073",
+        "name": "MERANO 2/MONFALCONE"
+    },
+    {
+        "id": "0074",
+        "name": "MERANO 3/VILLA ROSSI"
+    },
+    {
+        "id": "0075",
+        "name": "MENOTTI 2/CHIESA"
+    },
+    {
+        "id": "0076",
+        "name": "MENOTTI 3/HERMADA"
+    },
+    {
+        "id": "0079",
+        "name": "CORNIGLIANO 1/STAZIONE FS"
+    },
+    {
+        "id": "0080",
+        "name": "CORNIGLIANO 2/PIAZZA CONTI"
+    },
+    {
+        "id": "0081",
+        "name": "CORNIGLIANO 4/RIZZOLIO"
+    },
+    {
+        "id": "0082",
+        "name": "CORNIGLIANO 5/MASSENA"
+    },
+    {
+        "id": "0083",
+        "name": "PIERAGOSTINI/FIUMARA"
+    },
+    {
+        "id": "0084",
+        "name": "PACINOTTI/FIUMARA"
+    },
+    {
+        "id": "0085",
+        "name": "AVIO/MOLTENI"
+    },
+    {
+        "id": "0086",
+        "name": "CANTORE 1/MONTANO"
+    },
+    {
+        "id": "0087",
+        "name": "CANTORE 2/LA SPEZIA"
+    },
+    {
+        "id": "0088",
+        "name": "CANTORE 4/S.B. DEL FOSSATO"
+    },
+    {
+        "id": "0089",
+        "name": "CANTORE 6/MATITONE"
+    },
+    {
+        "id": "0090",
+        "name": "DINEGRO/TERMINAL TRAGHETTI"
+    },
+    {
+        "id": "0091",
+        "name": "BUOZZI/METRO' DINEGRO"
+    },
+    {
+        "id": "0092",
+        "name": "MARITTIMA/PRINCIPE FS"
+    },
+    {
+        "id": "0093",
+        "name": "GRAMSCI 2/METRO' DARSENA"
+    },
+    {
+        "id": "0094",
+        "name": "THAON DI REVEL/BRIGNOLE FS"
+    },
+    {
+        "id": "0096",
+        "name": "AVIO/FIUMARA"
+    },
+    {
+        "id": "0097",
+        "name": "SULFUREE 1/AUTOSTRADA"
+    },
+    {
+        "id": "0100",
+        "name": "DINEGRO/TERMINAL TRAGHETTI"
+    },
+    {
+        "id": "0101",
+        "name": "CANTORE 2/COL"
+    },
+    {
+        "id": "0102",
+        "name": "CANTORE 3/S.B. DEL FOSSATO"
+    },
+    {
+        "id": "0103",
+        "name": "CANTORE 5/VILLA SCASSI"
+    },
+    {
+        "id": "0104",
+        "name": "CANTORE 6/RONCO"
+    },
+    {
+        "id": "0105",
+        "name": "MONTANO/SAMPIERDARENA FS"
+    },
+    {
+        "id": "0107",
+        "name": "SAMPIERDARENA 1/MOLTENI"
+    },
+    {
+        "id": "0108",
+        "name": "SAMPIERDARENA 2/DELLA CELLA"
+    },
+    {
+        "id": "0109",
+        "name": "BARABINO/BURANELLO"
+    },
+    {
+        "id": "0110",
+        "name": "FRANCIA 1/WTC"
+    },
+    {
+        "id": "0111",
+        "name": "PINETTI 3"
+    },
+    {
+        "id": "0112",
+        "name": "PRINCIPE FS/CAPOLINEA"
+    },
+    {
+        "id": "0113",
+        "name": "DORIA/METRO' PRINCIPE"
+    },
+    {
+        "id": "0114",
+        "name": "SAN BENEDETTO/AMBA ALAGI"
+    },
+    {
+        "id": "0115",
+        "name": "FRANCIA 2/TERMINAL TRAGHETTI"
+    },
+    {
+        "id": "0116",
+        "name": "BRIGNOLE FS/CAPOLINEA"
+    },
+    {
+        "id": "0117",
+        "name": "BRIGATA BISAGNO/CADORNA"
+    },
+    {
+        "id": "0118",
+        "name": "SAFFI 1/QUESTURA"
+    },
+    {
+        "id": "0119",
+        "name": "SAFFI 2/PESCATORI"
+    },
+    {
+        "id": "0120",
+        "name": "SAFFI 3/VILLA CROCE"
+    },
+    {
+        "id": "0121",
+        "name": "SAFFI 4/FIODOR"
+    },
+    {
+        "id": "0122",
+        "name": "QUADRIO 1/ORTIZ"
+    },
+    {
+        "id": "0123",
+        "name": "QUADRIO 2/MARINA"
+    },
+    {
+        "id": "0124",
+        "name": "CAVOUR/MERCATO DEL PESCE"
+    },
+    {
+        "id": "0125",
+        "name": "SOLIMAN/MENOTTI"
+    },
+    {
+        "id": "0126",
+        "name": "CAVOUR/MERCATO DEL PESCE"
+    },
+    {
+        "id": "0127",
+        "name": "QUADRIO/MARINA"
+    },
+    {
+        "id": "0128",
+        "name": "SAFFI 2/RIVOLI"
+    },
+    {
+        "id": "0129",
+        "name": "SAFFI 3/FIODOR"
+    },
+    {
+        "id": "0130",
+        "name": "SAFFI 4/VILLA CROCE"
+    },
+    {
+        "id": "0131",
+        "name": "SAFFI 5/PESCATORI"
+    },
+    {
+        "id": "0132",
+        "name": "SAFFI 6/QUESTURA"
+    },
+    {
+        "id": "0133",
+        "name": "DIAZ 2/PIAZZA DELLA VITTORIA"
+    },
+    {
+        "id": "0134",
+        "name": "FIUME/THAON DI REVEL"
+    },
+    {
+        "id": "0135",
+        "name": "ARIMONDI/POLI"
+    },
+    {
+        "id": "0136",
+        "name": "BRIN/METRO'"
+    },
+    {
+        "id": "0137",
+        "name": "CANEPARI 1/BRIN"
+    },
+    {
+        "id": "0138",
+        "name": "CANEPARI 2/DANDOLO"
+    },
+    {
+        "id": "0139",
+        "name": "CANEPARI 3/PIOMBELLI"
+    },
+    {
+        "id": "0140",
+        "name": "PALLAVICINI/VEZZANI"
+    },
+    {
+        "id": "0141",
+        "name": "RIVAROLO 1/CARNIA"
+    },
+    {
+        "id": "0142",
+        "name": "RIVAROLO 2/LANZA"
+    },
+    {
+        "id": "0143",
+        "name": "RIVAROLO 3/CENTRO COMMERCIALE"
+    },
+    {
+        "id": "0144",
+        "name": "RIVAROLO 4/TEGLIA"
+    },
+    {
+        "id": "0145",
+        "name": "RIVARA/MONTE SEI BUSI"
+    },
+    {
+        "id": "0146",
+        "name": "TEGLIA 1/MARITANO"
+    },
+    {
+        "id": "0147",
+        "name": "RETA 1/GIRO DEL VENTO"
+    },
+    {
+        "id": "0148",
+        "name": "RETA 2/VIGILI DEL FUOCO"
+    },
+    {
+        "id": "0149",
+        "name": "RISSOTTO/BOLZANETO FS"
+    },
+    {
+        "id": "0150",
+        "name": "COLANO/OSPEDALE PASTORINO"
+    },
+    {
+        "id": "0152",
+        "name": "SARDORELLA 1/MERCATO"
+    },
+    {
+        "id": "0153",
+        "name": "BRIGNOLE FS/CAPOLINEA"
+    },
+    {
+        "id": "0154",
+        "name": "LUNGOTORRENTE SECCA/CAPOLINEA"
+    },
+    {
+        "id": "0155",
+        "name": "FERRIERE BRUZZO 2/BRATTE"
+    },
+    {
+        "id": "0156",
+        "name": "OSPEDALE PASTORINO"
+    },
+    {
+        "id": "0157",
+        "name": "RISMONDO/BOLZANETO FS"
+    },
+    {
+        "id": "0158",
+        "name": "RETA 1/BARCHETTA"
+    },
+    {
+        "id": "0159",
+        "name": "RETA 2/GIRO DEL VENTO"
+    },
+    {
+        "id": "0160",
+        "name": "TEGLIA 2/MARITANO"
+    },
+    {
+        "id": "0161",
+        "name": "TEGLIA 3/RIVARA"
+    },
+    {
+        "id": "0162",
+        "name": "RIVAROLO 1/TEGLIA"
+    },
+    {
+        "id": "0163",
+        "name": "RIVAROLO 2/CENTRO COMMERCIALE"
+    },
+    {
+        "id": "0164",
+        "name": "RIVAROLO 3/LANZA"
+    },
+    {
+        "id": "0165",
+        "name": "RIVAROLO 4/CARNIA"
+    },
+    {
+        "id": "0166",
+        "name": "PALLAVICINI/CELESIA"
+    },
+    {
+        "id": "0167",
+        "name": "JORI 1/PONGOLI"
+    },
+    {
+        "id": "0168",
+        "name": "JORI 2/DANDOLO"
+    },
+    {
+        "id": "0169",
+        "name": "JORI 3/BRIN"
+    },
+    {
+        "id": "0170",
+        "name": "CARICAMENTO/ACQUARIO"
+    },
+    {
+        "id": "0171",
+        "name": "MONTANO/SAMPIERDARENA FS"
+    },
+    {
+        "id": "0172",
+        "name": "RETI/STORACE"
+    },
+    {
+        "id": "0173",
+        "name": "FILLAK 1/MASNATA"
+    },
+    {
+        "id": "0174",
+        "name": "FILLAK 2/CAMPASSO"
+    },
+    {
+        "id": "0175",
+        "name": "FILLAK 3/PONTE AUTOSTRADA"
+    },
+    {
+        "id": "0176",
+        "name": "FILLAK 4/CERTOSA"
+    },
+    {
+        "id": "0177",
+        "name": "SAN QUIRICO 1/MORIGALLO"
+    },
+    {
+        "id": "0178",
+        "name": "SAN QUIRICO 2/SERRO"
+    },
+    {
+        "id": "0179",
+        "name": "SAN QUIRICO 3/PONTE BARBIERI"
+    },
+    {
+        "id": "0180",
+        "name": "SAN QUIRICO 4/BUDULLI"
+    },
+    {
+        "id": "0181",
+        "name": "SAN QUIRICO 5/RIO FULLE"
+    },
+    {
+        "id": "0182",
+        "name": "SAN QUIRICO 6/CHIESA"
+    },
+    {
+        "id": "0183",
+        "name": "SAN QUIRICO 7/FORESTALE"
+    },
+    {
+        "id": "0184",
+        "name": "ANFOSSI 1"
+    },
+    {
+        "id": "0185",
+        "name": "ANFOSSI 2/PONTEDECIMO FS"
+    },
+    {
+        "id": "0186",
+        "name": "ANFOSSI 3/POLI"
+    },
+    {
+        "id": "0187",
+        "name": "PIAZZA PONTEDECIMO/DAL CANTO"
+    },
+    {
+        "id": "0188",
+        "name": "GALLINO/CAPOLINEA"
+    },
+    {
+        "id": "0189",
+        "name": "PIAZZA PONTEDECIMO/PERINO"
+    },
+    {
+        "id": "0190",
+        "name": "ANFOSSI 1/POLI"
+    },
+    {
+        "id": "0191",
+        "name": "ANFOSSI 3/PONTEDECIMO FS"
+    },
+    {
+        "id": "0192",
+        "name": "ANFOSSI 4"
+    },
+    {
+        "id": "0193",
+        "name": "SAN QUIRICO 1/FORESTALE"
+    },
+    {
+        "id": "0194",
+        "name": "SAN QUIRICO 2/CHIESA"
+    },
+    {
+        "id": "0195",
+        "name": "SAN QUIRICO 3/RIO FULLE"
+    },
+    {
+        "id": "0196",
+        "name": "SAN QUIRICO 4/PONTE BARBIERI"
+    },
+    {
+        "id": "0197",
+        "name": "SAN QUIRICO 5/SERRO"
+    },
+    {
+        "id": "0198",
+        "name": "SAN QUIRICO 6/MORIGALLO"
+    },
+    {
+        "id": "0199",
+        "name": "FERRIERE BRUZZO 1/MERCATO"
+    },
+    {
+        "id": "0200",
+        "name": "FILLAK 1/CERTOSA"
+    },
+    {
+        "id": "0201",
+        "name": "FILLAK 2/PONTE AUTOSTRADA"
+    },
+    {
+        "id": "0202",
+        "name": "FILLAK 3/CAMPASSO"
+    },
+    {
+        "id": "0203",
+        "name": "RETI 1/MASNATA"
+    },
+    {
+        "id": "0204",
+        "name": "RETI 2/DEGOLA"
+    },
+    {
+        "id": "0207",
+        "name": "TURATI/METRO' SAN GIORGIO"
+    },
+    {
+        "id": "0209",
+        "name": "BRIGATA BISAGNO 1/BARABINO"
+    },
+    {
+        "id": "0210",
+        "name": "BRIGATA BISAGNO 2/BUENOS AIRES"
+    },
+    {
+        "id": "0211",
+        "name": "DUCA D'AOSTA/BRIGNOLE FS"
+    },
+    {
+        "id": "0212",
+        "name": "CANEVARI/SANT'AGATA METRO'"
+    },
+    {
+        "id": "0213",
+        "name": "MORESCO 1/PIAZZA FIRPO"
+    },
+    {
+        "id": "0214",
+        "name": "MORESCO 2/ROMAGNOSI"
+    },
+    {
+        "id": "0215",
+        "name": "BOBBIO 1/SCALINATA MONTALDO"
+    },
+    {
+        "id": "0216",
+        "name": "BOBBIO 2/PONTETTO"
+    },
+    {
+        "id": "0217",
+        "name": "BOBBIO 3/DA PASSANO"
+    },
+    {
+        "id": "0218",
+        "name": "BOBBIO 4/MONTALDO"
+    },
+    {
+        "id": "0219",
+        "name": "BOBBIO 5/CADERIVA"
+    },
+    {
+        "id": "0220",
+        "name": "PIACENZA 1/CIMITERO STAGLIENO"
+    },
+    {
+        "id": "0221",
+        "name": "PIACENZA 3/ZUCCHE"
+    },
+    {
+        "id": "0222",
+        "name": "PIACENZA 4/PONTE BEZZECCA"
+    },
+    {
+        "id": "0223",
+        "name": "PIACENZA 5/PONTE VERONELLI"
+    },
+    {
+        "id": "0224",
+        "name": "PIACENZA 6/PONTE CARREGA"
+    },
+    {
+        "id": "0225",
+        "name": "PIACENZA 7/SAN SEBASTIANO"
+    },
+    {
+        "id": "0226",
+        "name": "EMILIA 1/PONTE FERITORE"
+    },
+    {
+        "id": "0227",
+        "name": "EMILIA 2/FOSSATO CICALA"
+    },
+    {
+        "id": "0228",
+        "name": "EMILIA 3/SAN GOTTARDO"
+    },
+    {
+        "id": "0229",
+        "name": "EMILIA 4/SCIORBA"
+    },
+    {
+        "id": "0230",
+        "name": "EMILIA 5/FIDENZA"
+    },
+    {
+        "id": "0231",
+        "name": "EMILIA 6/ROCCA"
+    },
+    {
+        "id": "0232",
+        "name": "MOLASSANA 2/GEIRATO"
+    },
+    {
+        "id": "0233",
+        "name": "MOLASSANA 3/GHERZI"
+    },
+    {
+        "id": "0234",
+        "name": "MOLASSANA 4/BOSCO"
+    },
+    {
+        "id": "0235",
+        "name": "MOLASSANA 5/COSTA DI SAN SIRO"
+    },
+    {
+        "id": "0236",
+        "name": "STRUPPA 1/GIRO DEL FULLO"
+    },
+    {
+        "id": "0237",
+        "name": "STRUPPA 2/SAN BAZA'"
+    },
+    {
+        "id": "0238",
+        "name": "STRUPPA 3/LIGORNA"
+    },
+    {
+        "id": "0239",
+        "name": "STRUPPA 4/LUCARNO"
+    },
+    {
+        "id": "0240",
+        "name": "STRUPPA 5/DORIA"
+    },
+    {
+        "id": "0241",
+        "name": "STRUPPA 6/CRETO"
+    },
+    {
+        "id": "0242",
+        "name": "STRUPPA 7/ROSATA"
+    },
+    {
+        "id": "0243",
+        "name": "STRUPPA 8/TROSSARELLI"
+    },
+    {
+        "id": "0244",
+        "name": "STRUPPA 9/CANOVA"
+    },
+    {
+        "id": "0245",
+        "name": "STRUPPA 10/SUPPINI"
+    },
+    {
+        "id": "0246",
+        "name": "PRATO/PIAN MARTELLO"
+    },
+    {
+        "id": "0247",
+        "name": "STRUPPA 2/CANOVA"
+    },
+    {
+        "id": "0248",
+        "name": "STRUPPA 3/TROSSARELLI"
+    },
+    {
+        "id": "0249",
+        "name": "STRUPPA 4/ROSATA"
+    },
+    {
+        "id": "0250",
+        "name": "STRUPPA 5/CRETO"
+    },
+    {
+        "id": "0251",
+        "name": "STRUPPA 6/DORIA"
+    },
+    {
+        "id": "0252",
+        "name": "STRUPPA 7/LUCARNO"
+    },
+    {
+        "id": "0253",
+        "name": "STRUPPA 8/LIGORNA"
+    },
+    {
+        "id": "0254",
+        "name": "STRUPPA 9/SAN BAZA'"
+    },
+    {
+        "id": "0255",
+        "name": "STRUPPA 10/GIRO DEL FULLO"
+    },
+    {
+        "id": "0256",
+        "name": "MOLASSANA 1/COSTA DI SAN SIRO"
+    },
+    {
+        "id": "0257",
+        "name": "MOLASSANA 2/BOSCO"
+    },
+    {
+        "id": "0258",
+        "name": "MOLASSANA 3/GHERZI"
+    },
+    {
+        "id": "0259",
+        "name": "MOLASSANA 4/GEIRATO"
+    },
+    {
+        "id": "0260",
+        "name": "MOLASSANA 5/EMILIA"
+    },
+    {
+        "id": "0261",
+        "name": "PIACENZA 1/ROCCA"
+    },
+    {
+        "id": "0262",
+        "name": "PIACENZA 2/FIDENZA"
+    },
+    {
+        "id": "0263",
+        "name": "PIACENZA 3/SAN GOTTARDO"
+    },
+    {
+        "id": "0264",
+        "name": "PIACENZA 4/FOSSATO CICALA"
+    },
+    {
+        "id": "0265",
+        "name": "PIACENZA 5/PONTE FERITORE"
+    },
+    {
+        "id": "0266",
+        "name": "PIACENZA 6/SAN SEBASTIANO"
+    },
+    {
+        "id": "0267",
+        "name": "PIACENZA 7/PONTE CARREGA"
+    },
+    {
+        "id": "0268",
+        "name": "PIACENZA 8/PONTE VERONELLI"
+    },
+    {
+        "id": "0269",
+        "name": "PIACENZA 9/PONTE BEZZECCA"
+    },
+    {
+        "id": "0270",
+        "name": "PIACENZA 10/ZUCCHE"
+    },
+    {
+        "id": "0271",
+        "name": "PIACENZA 12/CIMITERO STAGLIENO"
+    },
+    {
+        "id": "0272",
+        "name": "BOBBIO 1/CADERIVA"
+    },
+    {
+        "id": "0273",
+        "name": "BOBBIO 2/MONTALDO"
+    },
+    {
+        "id": "0274",
+        "name": "BOBBIO 3/DA PASSANO"
+    },
+    {
+        "id": "0275",
+        "name": "BOBBIO 4/PONTETTO"
+    },
+    {
+        "id": "0276",
+        "name": "BOBBIO 5/STADIO"
+    },
+    {
+        "id": "0277",
+        "name": "CANEVARI 1/ROMAGNOSI"
+    },
+    {
+        "id": "0278",
+        "name": "CANEVARI 2/PIAZZA FIRPO"
+    },
+    {
+        "id": "0279",
+        "name": "CANEVARI 3/SANT'AGATA METRO'"
+    },
+    {
+        "id": "0280",
+        "name": "DUCA D'AOSTA/BRIGNOLE FS"
+    },
+    {
+        "id": "0283",
+        "name": "BRIGATE PARTIGIANE 1/ASL"
+    },
+    {
+        "id": "0284",
+        "name": "BRIGATE PARTIGIANE 2/RUSPOLI"
+    },
+    {
+        "id": "0285",
+        "name": "GNEO 2"
+    },
+    {
+        "id": "0286",
+        "name": "BRIGATE PARTIGIANE 1/DIAZ"
+    },
+    {
+        "id": "0287",
+        "name": "BRIGATE PARTIGIANE 2/ASL"
+    },
+    {
+        "id": "0288",
+        "name": "MOLASSANA/CAPOLINEA"
+    },
+    {
+        "id": "0289",
+        "name": "GNEO"
+    },
+    {
+        "id": "0290",
+        "name": "GUIDO ROSSA"
+    },
+    {
+        "id": "0291",
+        "name": "PIAZZA DANTE"
+    },
+    {
+        "id": "0292",
+        "name": "MACAGGI/CESAREA"
+    },
+    {
+        "id": "0293",
+        "name": "CADORNA/PIAZZA DELLA VITTORIA"
+    },
+    {
+        "id": "0294",
+        "name": "XX SETTEMBRE 1/MERC. ORIENTALE"
+    },
+    {
+        "id": "0295",
+        "name": "XX SETTEMBRE 2/PORTORIA"
+    },
+    {
+        "id": "0296",
+        "name": "RESASCO/CAPOLINEA"
+    },
+    {
+        "id": "0297",
+        "name": "OSPEDALE DI VOLTRI/GIANASSO"
+    },
+    {
+        "id": "0298",
+        "name": "BUENOS AIRES 1/LAMBRUSCHINI"
+    },
+    {
+        "id": "0299",
+        "name": "BUENOS AIRES 2/CASAREGIS"
+    },
+    {
+        "id": "0300",
+        "name": "TOMMASEO/MONTESUELLO"
+    },
+    {
+        "id": "0301",
+        "name": "POZZO 1/DASSORI"
+    },
+    {
+        "id": "0302",
+        "name": "POZZO 2/FASCE"
+    },
+    {
+        "id": "0303",
+        "name": "POZZO 3/TRENTO"
+    },
+    {
+        "id": "0304",
+        "name": "ALBARO/CAUSA"
+    },
+    {
+        "id": "0305",
+        "name": "LEONARDO DA VINCI"
+    },
+    {
+        "id": "0306",
+        "name": "BOSELLI/GUERRAZZI"
+    },
+    {
+        "id": "0307",
+        "name": "PISA/GIORDANO BRUNO"
+    },
+    {
+        "id": "0308",
+        "name": "CAPRERA/ORSINI"
+    },
+    {
+        "id": "0309",
+        "name": "GEIRATO 8/RIO LAGOLUNGO"
+    },
+    {
+        "id": "0310",
+        "name": "MILLE/BRIGATA SALERNO"
+    },
+    {
+        "id": "0311",
+        "name": "V MAGGIO 1/OSPEDALE GASLINI"
+    },
+    {
+        "id": "0312",
+        "name": "V MAGGIO 2/CARRARA"
+    },
+    {
+        "id": "0313",
+        "name": "V MAGGIO 3/VILLA CARRARA"
+    },
+    {
+        "id": "0314",
+        "name": "V MAGGIO 4/QUARTO FS"
+    },
+    {
+        "id": "0315",
+        "name": "QUARTO 1/PRIARUGGIA"
+    },
+    {
+        "id": "0316",
+        "name": "QUARTO 2/CAPO SAN ROCCO"
+    },
+    {
+        "id": "0317",
+        "name": "QUARTO 3/QUARTARA"
+    },
+    {
+        "id": "0318",
+        "name": "QUARTO 4/FABRIZI"
+    },
+    {
+        "id": "0319",
+        "name": "QUINTO/BAGNARA"
+    },
+    {
+        "id": "0320",
+        "name": "GIANELLI 1/BOLZANO"
+    },
+    {
+        "id": "0321",
+        "name": "GIANELLI 2/QUINTO FS"
+    },
+    {
+        "id": "0322",
+        "name": "MURCAROLO/ROMANA DI MURCAROLO"
+    },
+    {
+        "id": "0323",
+        "name": "OBERDAN 1/SANTAROSA"
+    },
+    {
+        "id": "0324",
+        "name": "OBERDAN 2/PONTE DI NERVI"
+    },
+    {
+        "id": "0325",
+        "name": "OBERDAN 4/DUCA DEGLI ABRUZZI"
+    },
+    {
+        "id": "0326",
+        "name": "FRANCHINI/CAPOLINEA"
+    },
+    {
+        "id": "0327",
+        "name": "OBERDAN 1/DUCA DEGLI ABRUZZI"
+    },
+    {
+        "id": "0328",
+        "name": "OBERDAN 2/PONTE DI NERVI"
+    },
+    {
+        "id": "0329",
+        "name": "OBERDAN 4/SANTAROSA"
+    },
+    {
+        "id": "0330",
+        "name": "GIANELLI 1/ROMANA DI MURCAROLO"
+    },
+    {
+        "id": "0331",
+        "name": "GIANELLI 2/QUINTO FS"
+    },
+    {
+        "id": "0332",
+        "name": "GIANELLI 3/BOLZANO"
+    },
+    {
+        "id": "0333",
+        "name": "QUINTO/BAGNARA"
+    },
+    {
+        "id": "0334",
+        "name": "QUARTO 1/FABRIZI"
+    },
+    {
+        "id": "0335",
+        "name": "QUARTO 2/QUARTARA"
+    },
+    {
+        "id": "0336",
+        "name": "QUARTO 3/CAPO SAN ROCCO"
+    },
+    {
+        "id": "0337",
+        "name": "V MAGGIO 1/PRIARUGGIA"
+    },
+    {
+        "id": "0338",
+        "name": "V MAGGIO 2/QUARTO FS"
+    },
+    {
+        "id": "0339",
+        "name": "V MAGGIO 3/VILLA CARRARA"
+    },
+    {
+        "id": "0340",
+        "name": "V MAGGIO 4/CARRARA"
+    },
+    {
+        "id": "0341",
+        "name": "V MAGGIO 6/OSPEDALE GASLINI"
+    },
+    {
+        "id": "0342",
+        "name": "V MAGGIO 7/REDIPUGLIA"
+    },
+    {
+        "id": "0343",
+        "name": "PIAZZA STURLA/CAPRERA"
+    },
+    {
+        "id": "0344",
+        "name": "CAPRERA/ORSINI"
+    },
+    {
+        "id": "0345",
+        "name": "PISA/AMALFI"
+    },
+    {
+        "id": "0346",
+        "name": "BOSELLI/GUERRAZZI"
+    },
+    {
+        "id": "0347",
+        "name": "LEONARDO DA VINCI"
+    },
+    {
+        "id": "0348",
+        "name": "ALBARO/CAUSA"
+    },
+    {
+        "id": "0349",
+        "name": "POZZO 1/TRENTO"
+    },
+    {
+        "id": "0350",
+        "name": "POZZO 2/FASCE"
+    },
+    {
+        "id": "0351",
+        "name": "POZZO 3/DASSORI"
+    },
+    {
+        "id": "0352",
+        "name": "TOMMASEO/MONTESUELLO"
+    },
+    {
+        "id": "0353",
+        "name": "BUENOS AIRES 1/DA NOVI"
+    },
+    {
+        "id": "0354",
+        "name": "BUENOS AIRES 2/LAMBRUSCHINI"
+    },
+    {
+        "id": "0355",
+        "name": "DANTE 2/CASA DI COLOMBO"
+    },
+    {
+        "id": "0356",
+        "name": "GUIDO ROSSA"
+    },
+    {
+        "id": "0357",
+        "name": "GEIRATO 1/RIO LAGOLUNGO"
+    },
+    {
+        "id": "0360",
+        "name": "BRIGNOLE FS"
+    },
+    {
+        "id": "0361",
+        "name": "INVREA/CASAREGIS"
+    },
+    {
+        "id": "0362",
+        "name": "ODESSA/ALIMONDA"
+    },
+    {
+        "id": "0363",
+        "name": "GASTALDI 1/PONTE DI TERRALBA"
+    },
+    {
+        "id": "0364",
+        "name": "GASTALDI 2/CASA DELLO STUDENTE"
+    },
+    {
+        "id": "0365",
+        "name": "EUROPA 1/OSPEDALE SAN MARTINO"
+    },
+    {
+        "id": "0366",
+        "name": "EUROPA 2/PRONTO SOCCORSO"
+    },
+    {
+        "id": "0367",
+        "name": "EUROPA 3/PIAZZETTA"
+    },
+    {
+        "id": "0368",
+        "name": "EUROPA 4/ISONZO"
+    },
+    {
+        "id": "0369",
+        "name": "EUROPA 5/SWINBURNE"
+    },
+    {
+        "id": "0370",
+        "name": "EUROPA 6/SHELLEY"
+    },
+    {
+        "id": "0371",
+        "name": "EUROPA 7/CARRARA"
+    },
+    {
+        "id": "0372",
+        "name": "EUROPA 8/PIAZZA NIEVO"
+    },
+    {
+        "id": "0373",
+        "name": "EUROPA 9/SCHIAFFINO"
+    },
+    {
+        "id": "0374",
+        "name": "EUROPA 10/QUARTO CASTAGNA"
+    },
+    {
+        "id": "0375",
+        "name": "EUROPA 11/AUTOSTRADA"
+    },
+    {
+        "id": "0376",
+        "name": "EUROPA 12/TOGLIATTI"
+    },
+    {
+        "id": "0377",
+        "name": "EUROPA 13/MAJORANA"
+    },
+    {
+        "id": "0378",
+        "name": "EUROPA 14/SAN PIETRO"
+    },
+    {
+        "id": "0379",
+        "name": "EUROPA 15/QUINTO"
+    },
+    {
+        "id": "0380",
+        "name": "EUROPA 16/CABRUNA"
+    },
+    {
+        "id": "0381",
+        "name": "EUROPA 17/OSPEDALE DI NERVI"
+    },
+    {
+        "id": "0382",
+        "name": "PITTALUGA/NERVI FS"
+    },
+    {
+        "id": "0383",
+        "name": "CASOTTI/VILLA GROPALLO"
+    },
+    {
+        "id": "0384",
+        "name": "CAPOLUNGO 1/VILLA SERRA"
+    },
+    {
+        "id": "0385",
+        "name": "CAPOLUNGO 3/ANCONA"
+    },
+    {
+        "id": "0386",
+        "name": "AURELIA 1/STAZIONE SANT'ILARIO"
+    },
+    {
+        "id": "0387",
+        "name": "AURELIA 2/SOMMA"
+    },
+    {
+        "id": "0388",
+        "name": "SOMMA 1/CAPOLUNGO"
+    },
+    {
+        "id": "0389",
+        "name": "SOMMA 3/SANT'ILARIO"
+    },
+    {
+        "id": "0390",
+        "name": "SOMMA 4/RAVINA"
+    },
+    {
+        "id": "0391",
+        "name": "SOMMA 5/VASSALLI"
+    },
+    {
+        "id": "0392",
+        "name": "SOMMA 6/DUCA DEGLI ABRUZZI"
+    },
+    {
+        "id": "0393",
+        "name": "OBERDAN 3/PONTE DI NERVI"
+    },
+    {
+        "id": "0394",
+        "name": "EUROPA 1/OSPEDALE DI NERVI"
+    },
+    {
+        "id": "0395",
+        "name": "EUROPA 2/CABRUNA"
+    },
+    {
+        "id": "0396",
+        "name": "EUROPA 3/QUINTO"
+    },
+    {
+        "id": "0397",
+        "name": "EUROPA 4/SAN PIETRO"
+    },
+    {
+        "id": "0398",
+        "name": "EUROPA 5/MAJORANA"
+    },
+    {
+        "id": "0399",
+        "name": "EUROPA 6/TOGLIATTI"
+    },
+    {
+        "id": "0400",
+        "name": "EUROPA 7/AUTOSTRADA"
+    },
+    {
+        "id": "0401",
+        "name": "EUROPA 8/QUARTO CASTAGNA"
+    },
+    {
+        "id": "0402",
+        "name": "EUROPA 9/SCHIAFFINO"
+    },
+    {
+        "id": "0403",
+        "name": "EUROPA 10/PIAZZA NIEVO"
+    },
+    {
+        "id": "0404",
+        "name": "EUROPA 11/CARRARA"
+    },
+    {
+        "id": "0405",
+        "name": "EUROPA 12/SHELLEY"
+    },
+    {
+        "id": "0406",
+        "name": "EUROPA 13/SWINBURNE"
+    },
+    {
+        "id": "0407",
+        "name": "EUROPA 14/TIMAVO"
+    },
+    {
+        "id": "0408",
+        "name": "EUROPA 15/PIAZZETTA"
+    },
+    {
+        "id": "0409",
+        "name": "EUROPA 16/PRONTO SOCCORSO"
+    },
+    {
+        "id": "0410",
+        "name": "EUROPA 17/OSPEDALE SAN MARTINO"
+    },
+    {
+        "id": "0411",
+        "name": "GASTALDI 1/BENEDETTO XV"
+    },
+    {
+        "id": "0412",
+        "name": "GASTALDI 2/CASA DELLO STUDENTE"
+    },
+    {
+        "id": "0413",
+        "name": "GASTALDI 3/PONTE DI TERRALBA"
+    },
+    {
+        "id": "0414",
+        "name": "TOLEMAIDE 1/TORINO"
+    },
+    {
+        "id": "0415",
+        "name": "TOLEMAIDE 2/ARCHIMEDE"
+    },
+    {
+        "id": "0416",
+        "name": "BRIGNOLE FS"
+    },
+    {
+        "id": "0417",
+        "name": "FIUME/XX SETTEMBRE"
+    },
+    {
+        "id": "0419",
+        "name": "COMMERCIO/CAPOLINEA"
+    },
+    {
+        "id": "0420",
+        "name": "BIANCHI 2/PERINI"
+    },
+    {
+        "id": "0422",
+        "name": "THAON DI REVEL/BRIGNOLE FS"
+    },
+    {
+        "id": "0423",
+        "name": "MOSSO/PRONTO SOCCORSO"
+    },
+    {
+        "id": "0424",
+        "name": "TORTI 1/BARRILI"
+    },
+    {
+        "id": "0425",
+        "name": "TORTI 2/MANUZIO"
+    },
+    {
+        "id": "0426",
+        "name": "TORTI 3/TERRALBA"
+    },
+    {
+        "id": "0427",
+        "name": "MARTINEZ/GIACOMETTI"
+    },
+    {
+        "id": "0428",
+        "name": "GIUSTI/SARDEGNA"
+    },
+    {
+        "id": "0430",
+        "name": "ROMA/CORVETTO"
+    },
+    {
+        "id": "0431",
+        "name": "PORTELLO/CAFFARO"
+    },
+    {
+        "id": "0432",
+        "name": "ZECCA/CARMINE"
+    },
+    {
+        "id": "0433",
+        "name": "PRINCIPE FS"
+    },
+    {
+        "id": "0435",
+        "name": "NUNZIATA"
+    },
+    {
+        "id": "0436",
+        "name": "PORTELLO/INTERIANO"
+    },
+    {
+        "id": "0437",
+        "name": "GIACOMO E FILIPPO/CORVETTO"
+    },
+    {
+        "id": "0438",
+        "name": "DE AMICIS/PIAZZA BRIGNOLE"
+    },
+    {
+        "id": "0439",
+        "name": "BRIGNOLE FS"
+    },
+    {
+        "id": "0441",
+        "name": "GIACOMETTI/PIAZZA GIUSTI"
+    },
+    {
+        "id": "0442",
+        "name": "MARTINEZ/CASONI"
+    },
+    {
+        "id": "0443",
+        "name": "TERRALBA/TORTI"
+    },
+    {
+        "id": "0444",
+        "name": "TORTI/DONGHI"
+    },
+    {
+        "id": "0445",
+        "name": "BARRILI/TORTI"
+    },
+    {
+        "id": "0446",
+        "name": "SAN MARTINO 1/UNIVERSITA'"
+    },
+    {
+        "id": "0447",
+        "name": "SAN MARTINO 2/PAPIGLIANO"
+    },
+    {
+        "id": "0448",
+        "name": "SAN MARTINO 3/RAI"
+    },
+    {
+        "id": "0449",
+        "name": "LAGUSTENA 1/CHIESA SAN MARTINO"
+    },
+    {
+        "id": "0450",
+        "name": "OSPEDALE SAN MARTINO/CAPOLINEA"
+    },
+    {
+        "id": "0451",
+        "name": "PRINCIPE FS/CAPOLINEA"
+    },
+    {
+        "id": "0452",
+        "name": "FANTI D'ITALIA/PRINCIPE FS"
+    },
+    {
+        "id": "0453",
+        "name": "PERINI 1/CAMPI"
+    },
+    {
+        "id": "0455",
+        "name": "FONTANE MAROSE"
+    },
+    {
+        "id": "0458",
+        "name": "ROBINO 1/AMEGLIO"
+    },
+    {
+        "id": "0459",
+        "name": "XX SETTEMBRE 2/MONUMENTALE"
+    },
+    {
+        "id": "0460",
+        "name": "XX SETTEMBRE 3/MERC. ORIENTALE"
+    },
+    {
+        "id": "0461",
+        "name": "CADORNA/PIAZZA DELLA VITTORIA"
+    },
+    {
+        "id": "0462",
+        "name": "TORINO 2/SAVONAROLA"
+    },
+    {
+        "id": "0463",
+        "name": "TORINO 3/BARABINO"
+    },
+    {
+        "id": "0464",
+        "name": "TORINO 4/RUSPOLI"
+    },
+    {
+        "id": "0465",
+        "name": "RIMASSA/MORIN"
+    },
+    {
+        "id": "0466",
+        "name": "TORINO 1/RUSPOLI"
+    },
+    {
+        "id": "0467",
+        "name": "TORINO 2/BARABINO"
+    },
+    {
+        "id": "0469",
+        "name": "MONTANO/SAMPIERDARENA FS"
+    },
+    {
+        "id": "0471",
+        "name": "TRAVI 2/MENOTTI"
+    },
+    {
+        "id": "0472",
+        "name": "BORZOLI 1/SAN NICOLA"
+    },
+    {
+        "id": "0473",
+        "name": "SPARTA"
+    },
+    {
+        "id": "0474",
+        "name": "SANT'ELIA 1/SANTA CRISTINA"
+    },
+    {
+        "id": "0475",
+        "name": "SANT'ELIA 2"
+    },
+    {
+        "id": "0476",
+        "name": "SANT'ELIA 3"
+    },
+    {
+        "id": "0477",
+        "name": "SANT'ELIA 4"
+    },
+    {
+        "id": "0478",
+        "name": "SANT'ELIA 2"
+    },
+    {
+        "id": "0479",
+        "name": "SANT'ELIA 3"
+    },
+    {
+        "id": "0480",
+        "name": "SANT'ELIA 4/SANTA CRISTINA"
+    },
+    {
+        "id": "0481",
+        "name": "SPARTA"
+    },
+    {
+        "id": "0482",
+        "name": "BORZOLI 12/SAN NICOLA"
+    },
+    {
+        "id": "0483",
+        "name": "TRAVI 1/SESTRI FS AEROPORTO"
+    },
+    {
+        "id": "0484",
+        "name": "MARCONI 1/FIERA"
+    },
+    {
+        "id": "0485",
+        "name": "MARCONI 2/RIMASSA"
+    },
+    {
+        "id": "0486",
+        "name": "ITALIA 1/PUNTA VAGNO"
+    },
+    {
+        "id": "0487",
+        "name": "ITALIA 2/PIAVE"
+    },
+    {
+        "id": "0488",
+        "name": "ITALIA 3/ZARA"
+    },
+    {
+        "id": "0489",
+        "name": "ITALIA 4/SAURO"
+    },
+    {
+        "id": "0490",
+        "name": "ITALIA 5/LIDO"
+    },
+    {
+        "id": "0491",
+        "name": "CAVALLOTTI 1/DE GASPARI"
+    },
+    {
+        "id": "0492",
+        "name": "CAVALLOTTI 2/CAPRERA"
+    },
+    {
+        "id": "0494",
+        "name": "CAVALLOTTI 1/MONLEONE"
+    },
+    {
+        "id": "0495",
+        "name": "CAVALLOTTI 2/BOCCADASSE"
+    },
+    {
+        "id": "0496",
+        "name": "ITALIA 1/LIDO"
+    },
+    {
+        "id": "0497",
+        "name": "ITALIA 2/SAURO"
+    },
+    {
+        "id": "0498",
+        "name": "ITALIA 3/ZARA"
+    },
+    {
+        "id": "0499",
+        "name": "ITALIA 5/PIAVE"
+    },
+    {
+        "id": "0500",
+        "name": "ITALIA 6/PUNTA VAGNO"
+    },
+    {
+        "id": "0501",
+        "name": "MARCONI 1/RIMASSA"
+    },
+    {
+        "id": "0502",
+        "name": "MARCONI 2/FIERA"
+    },
+    {
+        "id": "0504",
+        "name": "FIESCHI/DANTE"
+    },
+    {
+        "id": "0506",
+        "name": "CARIGNANO/ALGHERO"
+    },
+    {
+        "id": "0508",
+        "name": "DINEGRO/MERCATO"
+    },
+    {
+        "id": "0509",
+        "name": "VENEZIA 1/SOPRANIS"
+    },
+    {
+        "id": "0510",
+        "name": "VENEZIA 2/ALIZERI"
+    },
+    {
+        "id": "0511",
+        "name": "BOLOGNA 1/SAN MARCELLINO"
+    },
+    {
+        "id": "0512",
+        "name": "BOLOGNA 2/FAENZA"
+    },
+    {
+        "id": "0513",
+        "name": "BOLOGNA 3/PESTARINO"
+    },
+    {
+        "id": "0514",
+        "name": "BOLOGNA 5/LUGO"
+    },
+    {
+        "id": "0515",
+        "name": "S.F. DA PAOLA"
+    },
+    {
+        "id": "0516",
+        "name": "BOLOGNA 1/LUGO"
+    },
+    {
+        "id": "0517",
+        "name": "BOLOGNA 3/PESTARINO"
+    },
+    {
+        "id": "0518",
+        "name": "BOLOGNA 4/FAENZA"
+    },
+    {
+        "id": "0519",
+        "name": "BOLOGNA 5/SAN MARCELLINO"
+    },
+    {
+        "id": "0520",
+        "name": "VENEZIA 1/ALIZERI"
+    },
+    {
+        "id": "0521",
+        "name": "VENEZIA 2/SOPRANIS"
+    },
+    {
+        "id": "0522",
+        "name": "DINEGRO/MERCATO"
+    },
+    {
+        "id": "0523",
+        "name": "BRIGNOLE FS/CAPOLINEA"
+    },
+    {
+        "id": "0525",
+        "name": "ASSAROTTI 2/PROVVEDITORATO"
+    },
+    {
+        "id": "0526",
+        "name": "MANIN/ARMELLINI"
+    },
+    {
+        "id": "0527",
+        "name": "ARMELLINI/ISTITUTO CHIOSSONE"
+    },
+    {
+        "id": "0528",
+        "name": "SOLFERINO/OSPEDALE EVANGELICO"
+    },
+    {
+        "id": "0529",
+        "name": "MAGENTA 1/SANTA MARIA SANITA'"
+    },
+    {
+        "id": "0530",
+        "name": "MAGENTA 2/SANT'ANNA"
+    },
+    {
+        "id": "0531",
+        "name": "PAGANINI/PONTE CAFFARO"
+    },
+    {
+        "id": "0532",
+        "name": "VILLA/SPIANATA CASTELLETTO"
+    },
+    {
+        "id": "0533",
+        "name": "FIRENZE 2/GIARDINI ROSSI"
+    },
+    {
+        "id": "0534",
+        "name": "FIRENZE 3/SALVAGO"
+    },
+    {
+        "id": "0535",
+        "name": "FIRENZE 4/SAN NICOLA"
+    },
+    {
+        "id": "0536",
+        "name": "FIRENZE 5/PELLIZZARI"
+    },
+    {
+        "id": "0537",
+        "name": "FIRENZE 6/SAN BARNABA"
+    },
+    {
+        "id": "0538",
+        "name": "DOGALI 2/BASSI"
+    },
+    {
+        "id": "0539",
+        "name": "BASSI 1/SPINOLA"
+    },
+    {
+        "id": "0540",
+        "name": "BASSI 2/OSSERVATORIO"
+    },
+    {
+        "id": "0541",
+        "name": "SANT'UGO/FERREIRA"
+    },
+    {
+        "id": "0542",
+        "name": "PROVVIDENZA/AVEZZANA"
+    },
+    {
+        "id": "0543",
+        "name": "PRINCIPE FS/CAPOLINEA"
+    },
+    {
+        "id": "0544",
+        "name": "ASSAROTTI 1/CALATAFIMI"
+    },
+    {
+        "id": "0545",
+        "name": "SANT'UGO/ALMERIA"
+    },
+    {
+        "id": "0546",
+        "name": "ALMERIA/OSSERVATORIO"
+    },
+    {
+        "id": "0547",
+        "name": "BASSI/GIARDINI MONTALE"
+    },
+    {
+        "id": "0548",
+        "name": "FIRENZE 1/DOGALI"
+    },
+    {
+        "id": "0549",
+        "name": "FIRENZE 2/SAN BARNABA"
+    },
+    {
+        "id": "0550",
+        "name": "FIRENZE 3/PELLIZZARI"
+    },
+    {
+        "id": "0551",
+        "name": "FIRENZE 4/SAN NICOLA"
+    },
+    {
+        "id": "0552",
+        "name": "FIRENZE 5/SALVAGO"
+    },
+    {
+        "id": "0553",
+        "name": "FIRENZE 6/GIARDINI ROSSI"
+    },
+    {
+        "id": "0554",
+        "name": "VILLA/SPIANATA CASTELLETTO"
+    },
+    {
+        "id": "0555",
+        "name": "MAGENTA 1/SANT'ANNA"
+    },
+    {
+        "id": "0556",
+        "name": "MAGENTA 2/SANTA MARIA SANITA'"
+    },
+    {
+        "id": "0557",
+        "name": "SOLFERINO/OSPEDALE EVANGELICO"
+    },
+    {
+        "id": "0558",
+        "name": "ARMELLINI 2/MANIN"
+    },
+    {
+        "id": "0559",
+        "name": "ASSAROTTI/PESCHIERA"
+    },
+    {
+        "id": "0561",
+        "name": "MONTALDO 1/DA PASSANO"
+    },
+    {
+        "id": "0562",
+        "name": "MONTALDO 2/SALITA MELONI"
+    },
+    {
+        "id": "0563",
+        "name": "MONTALDO 3/CHIAPPAZZO"
+    },
+    {
+        "id": "0564",
+        "name": "MONTALDO 4/SCALINATA MONTALDO"
+    },
+    {
+        "id": "0565",
+        "name": "MANIN"
+    },
+    {
+        "id": "0566",
+        "name": "CORVETTO/PIAGGIO"
+    },
+    {
+        "id": "0567",
+        "name": "MOLASSANA 1/OLMO"
+    },
+    {
+        "id": "0568",
+        "name": "PRINCIPE FS"
+    },
+    {
+        "id": "0569",
+        "name": "CANEVARI 3/MONTEGRAPPA"
+    },
+    {
+        "id": "0570",
+        "name": "MANIN"
+    },
+    {
+        "id": "0571",
+        "name": "MONTALDO 1/SCALINATA MONTALDO"
+    },
+    {
+        "id": "0572",
+        "name": "MONTALDO 2/CHIAPPAZZO"
+    },
+    {
+        "id": "0573",
+        "name": "MONTALDO 3/SALITA MELONI"
+    },
+    {
+        "id": "0574",
+        "name": "MONTALDO 4/DA PASSANO"
+    },
+    {
+        "id": "0576",
+        "name": "VANNUCCI/VILLA CROCE"
+    },
+    {
+        "id": "0577",
+        "name": "MURA CAPPUCCINE/VANNUCCI"
+    },
+    {
+        "id": "0578",
+        "name": "VOLTA 1/CAPPUCCINE"
+    },
+    {
+        "id": "0579",
+        "name": "VOLTA 2/OSPEDALE GALLIERA"
+    },
+    {
+        "id": "0580",
+        "name": "MURA DI SANTA CHIARA/ALESSI"
+    },
+    {
+        "id": "0581",
+        "name": "CORSICA/BIXIO"
+    },
+    {
+        "id": "0582",
+        "name": "INNOCENZO IV/CARIGNANO"
+    },
+    {
+        "id": "0583",
+        "name": "ARSENALE/PRINCIPE FS"
+    },
+    {
+        "id": "0584",
+        "name": "SPINOLA/BASSI"
+    },
+    {
+        "id": "0585",
+        "name": "NAPOLI 1/SPINOLA"
+    },
+    {
+        "id": "0586",
+        "name": "NAPOLI 2/SAPORITI"
+    },
+    {
+        "id": "0587",
+        "name": "NAPOLI 3/BOINE"
+    },
+    {
+        "id": "0588",
+        "name": "NAPOLI 4/GAETA"
+    },
+    {
+        "id": "0589",
+        "name": "NAPOLI 5/VESUVIO"
+    },
+    {
+        "id": "0590",
+        "name": "NAPOLI 6/SCUOLA MAZZA"
+    },
+    {
+        "id": "0591",
+        "name": "PONTE DON ACCIAI/LAGACCIO"
+    },
+    {
+        "id": "0592",
+        "name": "BARI 1/TARANTO"
+    },
+    {
+        "id": "0593",
+        "name": "BARI 2/BRINDISI"
+    },
+    {
+        "id": "0594",
+        "name": "BARI 4/ASCENSORE FUNICOLARE"
+    },
+    {
+        "id": "0595",
+        "name": "BARI 1/ASCENSORE FUNICOLARE"
+    },
+    {
+        "id": "0597",
+        "name": "BARI 3/TARANTO"
+    },
+    {
+        "id": "0598",
+        "name": "PONTE DON ACCIAI/LAGACCIO"
+    },
+    {
+        "id": "0599",
+        "name": "NAPOLI 1/SCUOLA MAZZA"
+    },
+    {
+        "id": "0600",
+        "name": "NAPOLI 2/VESUVIO"
+    },
+    {
+        "id": "0601",
+        "name": "NAPOLI 3/GAETA"
+    },
+    {
+        "id": "0602",
+        "name": "NAPOLI 4/BOINE"
+    },
+    {
+        "id": "0603",
+        "name": "NAPOLI 5/SAPORITI"
+    },
+    {
+        "id": "0604",
+        "name": "NAPOLI 6/SPINOLA"
+    },
+    {
+        "id": "0605",
+        "name": "CORSICA/MENTANA"
+    },
+    {
+        "id": "0606",
+        "name": "MURA DI SANTA CHIARA/ALESSI"
+    },
+    {
+        "id": "0607",
+        "name": "VOLTA 1/OSPEDALE GALLIERA"
+    },
+    {
+        "id": "0608",
+        "name": "VOLTA 2/CAPPUCCINE"
+    },
+    {
+        "id": "0609",
+        "name": "MURA CAPPUCCINE/VANNUCCI"
+    },
+    {
+        "id": "0610",
+        "name": "VESUVIO 1/CHIESA"
+    },
+    {
+        "id": "0611",
+        "name": "VESUVIO 2/CAPRI"
+    },
+    {
+        "id": "0612",
+        "name": "VESUVIO/CAPOLINEA INFERIORE"
+    },
+    {
+        "id": "0613",
+        "name": "VESUVIO 3/CAPRI"
+    },
+    {
+        "id": "0614",
+        "name": "VESUVIO 4/CHIESA"
+    },
+    {
+        "id": "0615",
+        "name": "BRIGNOLE FS/CAPOLINEA"
+    },
+    {
+        "id": "0617",
+        "name": "NIZZA 1/SAN PIETRO"
+    },
+    {
+        "id": "0618",
+        "name": "NIZZA 2/SCALINATA GUERRIERI"
+    },
+    {
+        "id": "0620",
+        "name": "NIZZA 1/SCALINATA GUERRIERI"
+    },
+    {
+        "id": "0621",
+        "name": "NIZZA 2/SAN PIETRO"
+    },
+    {
+        "id": "0623",
+        "name": "BATTISTI/SCUOLE"
+    },
+    {
+        "id": "0624",
+        "name": "MERANI/CAPOLINEA"
+    },
+    {
+        "id": "0625",
+        "name": "TRENTO/CADORE"
+    },
+    {
+        "id": "0626",
+        "name": "TORINO 4/TOLEMAIDE"
+    },
+    {
+        "id": "0627",
+        "name": "SARDEGNA 1/PIAZZA GIUSTI"
+    },
+    {
+        "id": "0628",
+        "name": "SARDEGNA 2/CHIESA SANTA FEDE"
+    },
+    {
+        "id": "0629",
+        "name": "SARDEGNA 3/BONIFACIO"
+    },
+    {
+        "id": "0630",
+        "name": "DE STEFANIS 1/MONTICELLI"
+    },
+    {
+        "id": "0631",
+        "name": "DE STEFANIS 2/BERTUCCIONI"
+    },
+    {
+        "id": "0633",
+        "name": "RICCA/SALITA SPAGNOLETTA"
+    },
+    {
+        "id": "0634",
+        "name": "PLATANI/SCUOLA"
+    },
+    {
+        "id": "0635",
+        "name": "RICCA/SALITA SPAGNOLETTA"
+    },
+    {
+        "id": "0636",
+        "name": "BERTUCCIONI 1/GUICCIARDINI"
+    },
+    {
+        "id": "0637",
+        "name": "BERTUCCIONI 2/DE STEFANIS"
+    },
+    {
+        "id": "0638",
+        "name": "DE STEFANIS 5/MONTICELLI"
+    },
+    {
+        "id": "0639",
+        "name": "SARDEGNA 1/BONIFACIO"
+    },
+    {
+        "id": "0640",
+        "name": "SARDEGNA 2/CAGLIARI"
+    },
+    {
+        "id": "0641",
+        "name": "SARDEGNA 3/NICOLODI"
+    },
+    {
+        "id": "0642",
+        "name": "ARCHIMEDE/ASL"
+    },
+    {
+        "id": "0644",
+        "name": "GUICCIARDINI/PASSO BRACELLI"
+    },
+    {
+        "id": "0646",
+        "name": "SAN MARINO 1/FERRARA"
+    },
+    {
+        "id": "0647",
+        "name": "SAN MARINO 2"
+    },
+    {
+        "id": "0648",
+        "name": "SAN MARINO 3/MARZABOTTO"
+    },
+    {
+        "id": "0649",
+        "name": "CADUTI SENZA CROCE"
+    },
+    {
+        "id": "0650",
+        "name": "GRANAROLO/CAPOLINEA"
+    },
+    {
+        "id": "0651",
+        "name": "CADUTI SENZA CROCE"
+    },
+    {
+        "id": "0652",
+        "name": "SAN MARINO 1/MARZABOTTO"
+    },
+    {
+        "id": "0653",
+        "name": "SAN MARINO 2"
+    },
+    {
+        "id": "0654",
+        "name": "FERRARA"
+    },
+    {
+        "id": "0655",
+        "name": "BRIGNOLE FS/CAPOLINEA"
+    },
+    {
+        "id": "0656",
+        "name": "NUNZIATA/BANDIERA"
+    },
+    {
+        "id": "0657",
+        "name": "BRIGNOLE DE FERRARI/CARMINE"
+    },
+    {
+        "id": "0658",
+        "name": "ALBERGO DEI POVERI/UNIVERSITA'"
+    },
+    {
+        "id": "0659",
+        "name": "DOGALI 1/KASSALA"
+    },
+    {
+        "id": "0660",
+        "name": "SAPORITI/NAPOLI"
+    },
+    {
+        "id": "0661",
+        "name": "PALEOCAPA 1/BASSANO"
+    },
+    {
+        "id": "0662",
+        "name": "PALEOCAPA 2/PIAZZA OREGINA"
+    },
+    {
+        "id": "0663",
+        "name": "CARBONE/CASACCIA"
+    },
+    {
+        "id": "0664",
+        "name": "DELLA CELLA/MACULANO"
+    },
+    {
+        "id": "0665",
+        "name": "BALESTRAZZI 1/BELVEDERE"
+    },
+    {
+        "id": "0666",
+        "name": "BALESTRAZZI 2/ISCHIA"
+    },
+    {
+        "id": "0667",
+        "name": "VESUVIO 1/PERALTO"
+    },
+    {
+        "id": "0668",
+        "name": "VESUVIO 2/CASE INA"
+    },
+    {
+        "id": "0669",
+        "name": "VESUVIO/CAPOLINEA SUPERIORE"
+    },
+    {
+        "id": "0670",
+        "name": "VESUVIO 3/CASE INA"
+    },
+    {
+        "id": "0671",
+        "name": "VESUVIO 4/PERALTO"
+    },
+    {
+        "id": "0672",
+        "name": "BALESTRAZZI/ISCHIA"
+    },
+    {
+        "id": "0674",
+        "name": "DELLA CELLA/MACULANO"
+    },
+    {
+        "id": "0675",
+        "name": "CARBONE/CASACCIA"
+    },
+    {
+        "id": "0676",
+        "name": "PALEOCAPA 1/PIAZZA OREGINA"
+    },
+    {
+        "id": "0677",
+        "name": "PALEOCAPA 2/BASSANO"
+    },
+    {
+        "id": "0678",
+        "name": "SAPORITI/NAPOLI"
+    },
+    {
+        "id": "0679",
+        "name": "DOGALI 1/BASSI"
+    },
+    {
+        "id": "0680",
+        "name": "ALBERGO DEI POVERI/UNIVERSITA'"
+    },
+    {
+        "id": "0681",
+        "name": "BRIGNOLE DE FERRARI/CARMINE"
+    },
+    {
+        "id": "0682",
+        "name": "GIUSSO 1/BELVEDERE"
+    },
+    {
+        "id": "0683",
+        "name": "COSTANZI 1/GIUSSO"
+    },
+    {
+        "id": "0684",
+        "name": "COSTANZI 3/FUMAGALLI"
+    },
+    {
+        "id": "0685",
+        "name": "COSTANZI 4/OSTELLO"
+    },
+    {
+        "id": "0686",
+        "name": "BELVEDERE DA PASSANO/GIUSSO"
+    },
+    {
+        "id": "0687",
+        "name": "ORSINI 1/CAPRERA"
+    },
+    {
+        "id": "0688",
+        "name": "ORSINI 2/SAN PIO X"
+    },
+    {
+        "id": "0689",
+        "name": "ORSINI 3/PARODI"
+    },
+    {
+        "id": "0690",
+        "name": "ORSINI 4/STURLA"
+    },
+    {
+        "id": "0691",
+        "name": "STURLA 3/MARRAS"
+    },
+    {
+        "id": "0692",
+        "name": "ISONZO 1/STURLA FS"
+    },
+    {
+        "id": "0693",
+        "name": "RAGAZZI DEL 99/CAPOLINEA"
+    },
+    {
+        "id": "0694",
+        "name": "ISONZO 3/STURLA FS"
+    },
+    {
+        "id": "0695",
+        "name": "STURLA 2/MARRAS"
+    },
+    {
+        "id": "0696",
+        "name": "ORSINI 1/STURLA"
+    },
+    {
+        "id": "0697",
+        "name": "ORSINI 2/PARODI"
+    },
+    {
+        "id": "0698",
+        "name": "ORSINI 3/SAN PIO X"
+    },
+    {
+        "id": "0699",
+        "name": "RIBALDONE/AUTOSTRADA"
+    },
+    {
+        "id": "0700",
+        "name": "DIAZ/BRIGATE PARTIGIANE"
+    },
+    {
+        "id": "0701",
+        "name": "BARABINO/TORINO"
+    },
+    {
+        "id": "0702",
+        "name": "PALERMO/PARETO"
+    },
+    {
+        "id": "0703",
+        "name": "ROSSELLI 1/PIAVE"
+    },
+    {
+        "id": "0704",
+        "name": "ROSSELLI 2/ZARA"
+    },
+    {
+        "id": "0705",
+        "name": "GOBETTI/SAURO"
+    },
+    {
+        "id": "0706",
+        "name": "RIGHETTI/MINZONI"
+    },
+    {
+        "id": "0707",
+        "name": "DE GASPARI 1/BRUNO"
+    },
+    {
+        "id": "0708",
+        "name": "DE GASPARI 2/BOCCADASSE"
+    },
+    {
+        "id": "0709",
+        "name": "BRUNO 1/ITALIA"
+    },
+    {
+        "id": "0711",
+        "name": "RIGHETTI/PEROSI"
+    },
+    {
+        "id": "0712",
+        "name": "GOBETTI 1/SAURO"
+    },
+    {
+        "id": "0713",
+        "name": "GOBETTI 2/ZARA"
+    },
+    {
+        "id": "0714",
+        "name": "ROSSELLI/PIAVE"
+    },
+    {
+        "id": "0715",
+        "name": "BARABINO 1/PALERMO"
+    },
+    {
+        "id": "0716",
+        "name": "DIAZ 1/BRIGATE PARTIGIANE"
+    },
+    {
+        "id": "0717",
+        "name": "BRIGATA LIGURIA 2/FIUME"
+    },
+    {
+        "id": "0718",
+        "name": "THAON DI REVEL/BRIGNOLE FS"
+    },
+    {
+        "id": "0719",
+        "name": "CORRIDONI 2/MONTALLEGRO"
+    },
+    {
+        "id": "0720",
+        "name": "MONTEZOVETTO 1/CUS"
+    },
+    {
+        "id": "0721",
+        "name": "MONTEZOVETTO 2/SCUOLE"
+    },
+    {
+        "id": "0724",
+        "name": "BRIGATA SALERNO/ERA"
+    },
+    {
+        "id": "0725",
+        "name": "ROMANA DI QUARTO 1/CEMBRANO"
+    },
+    {
+        "id": "0726",
+        "name": "ROMANA DI QUARTO 2/FRANGIONI"
+    },
+    {
+        "id": "0727",
+        "name": "CIMAROSA/GIOVANNI MAGGIO"
+    },
+    {
+        "id": "0730",
+        "name": "SCHIAFFINO/NIEVO"
+    },
+    {
+        "id": "0731",
+        "name": "PRASCA/CHIESA"
+    },
+    {
+        "id": "0732",
+        "name": "CARRARA 1/PRASCA"
+    },
+    {
+        "id": "0733",
+        "name": "CARRARA 2/TURR"
+    },
+    {
+        "id": "0734",
+        "name": "ROMANA DI QUARTO 1/FRANGIONI"
+    },
+    {
+        "id": "0735",
+        "name": "ROMANA DI QUARTO 2/CEMBRANO"
+    },
+    {
+        "id": "0736",
+        "name": "ERA/BRIGATA SALERNO"
+    },
+    {
+        "id": "0737",
+        "name": "LEONARDO DA VINCI"
+    },
+    {
+        "id": "0738",
+        "name": "MONTEZOVETTO 1/SCUOLE"
+    },
+    {
+        "id": "0739",
+        "name": "MONTEZOVETTO 2/CUS"
+    },
+    {
+        "id": "0740",
+        "name": "CORRIDONI 1/MONTALLEGRO"
+    },
+    {
+        "id": "0743",
+        "name": "TOMMASEO/MONTEVIDEO"
+    },
+    {
+        "id": "0744",
+        "name": "LAGUSTENA 2/MOSSO"
+    },
+    {
+        "id": "0745",
+        "name": "BORGORATTI 1/SAPETO"
+    },
+    {
+        "id": "0746",
+        "name": "BORGORATTI 2/BOERO"
+    },
+    {
+        "id": "0747",
+        "name": "POSALUNGA 1/TIMAVO"
+    },
+    {
+        "id": "0748",
+        "name": "POSALUNGA 2/SCUOLA"
+    },
+    {
+        "id": "0749",
+        "name": "ROTONDA/CADIGHIARA"
+    },
+    {
+        "id": "0750",
+        "name": "ROTONDA/CAPOLINEA"
+    },
+    {
+        "id": "0751",
+        "name": "POSALUNGA 1/SCUOLA"
+    },
+    {
+        "id": "0752",
+        "name": "POSALUNGA 2/TIMAVO"
+    },
+    {
+        "id": "0753",
+        "name": "BORGORATTI 1/SAN ROCCO"
+    },
+    {
+        "id": "0754",
+        "name": "BORGORATTI 2/SAPETO"
+    },
+    {
+        "id": "0755",
+        "name": "LAGUSTENA/MOSSO"
+    },
+    {
+        "id": "0756",
+        "name": "SAN MARTINO/PUGGIA"
+    },
+    {
+        "id": "0757",
+        "name": "SCRIBANTI/SALITA DELLA NOCE"
+    },
+    {
+        "id": "0758",
+        "name": "TOMMASEO/CAFFA"
+    },
+    {
+        "id": "0759",
+        "name": "STURLA 1/SAN MARTINO"
+    },
+    {
+        "id": "0760",
+        "name": "STURLA 2/ORSINI"
+    },
+    {
+        "id": "0761",
+        "name": "STURLA 4/STURLA FS"
+    },
+    {
+        "id": "0762",
+        "name": "STURLA 5/ISTITUTO KING"
+    },
+    {
+        "id": "0763",
+        "name": "PIAZZA STURLA/CHIGHIZOLA"
+    },
+    {
+        "id": "0765",
+        "name": "PIAZZA STURLA/CHIESA"
+    },
+    {
+        "id": "0766",
+        "name": "STURLA 1/STURLA FS"
+    },
+    {
+        "id": "0767",
+        "name": "STURLA 3/BERNABO' BREA"
+    },
+    {
+        "id": "0768",
+        "name": "DONGHI 1/CHIESA"
+    },
+    {
+        "id": "0769",
+        "name": "DONGHI 2/MADONNETTA"
+    },
+    {
+        "id": "0770",
+        "name": "DONGHI 3/MANZASCO"
+    },
+    {
+        "id": "0771",
+        "name": "DONGHI/CAPOLINEA"
+    },
+    {
+        "id": "0772",
+        "name": "DONGHI 1/MANZASCO"
+    },
+    {
+        "id": "0773",
+        "name": "DONGHI 2/MADONNETTA"
+    },
+    {
+        "id": "0774",
+        "name": "MANUZIO 1/GAULLI"
+    },
+    {
+        "id": "0775",
+        "name": "MANUZIO 2/MARINA DI ROBILANT"
+    },
+    {
+        "id": "0776",
+        "name": "MONTICELLI 1/CARLOFORTE"
+    },
+    {
+        "id": "0777",
+        "name": "FEREGGIANO 1/GALILEO FERRARIS"
+    },
+    {
+        "id": "0779",
+        "name": "FEREGGIANO 3/MORO"
+    },
+    {
+        "id": "0780",
+        "name": "MERLO/CAPOLINEA"
+    },
+    {
+        "id": "0781",
+        "name": "FEREGGIANO 1/MORO"
+    },
+    {
+        "id": "0782",
+        "name": "FEREGGIANO 2/BIGA"
+    },
+    {
+        "id": "0783",
+        "name": "FEREGGIANO 3/GALILEO FERRARIS"
+    },
+    {
+        "id": "0784",
+        "name": "TEGLIA 2/INPS"
+    },
+    {
+        "id": "0785",
+        "name": "GALLIERA 1/CARLOFORTE"
+    },
+    {
+        "id": "0786",
+        "name": "GALLIERA 2/DON ORIONE"
+    },
+    {
+        "id": "0787",
+        "name": "GALLIERA 3/MIGLIO"
+    },
+    {
+        "id": "0788",
+        "name": "TEGLIA 1/INPS"
+    },
+    {
+        "id": "0789",
+        "name": "BRIGATA LIGURIA 1/CAPOLINEA"
+    },
+    {
+        "id": "0790",
+        "name": "TORINO 3/BUENOS AIRES"
+    },
+    {
+        "id": "0791",
+        "name": "DE STEFANIS 3/STADIO"
+    },
+    {
+        "id": "0792",
+        "name": "DE STEFANIS 4/COSTA"
+    },
+    {
+        "id": "0793",
+        "name": "DE STEFANIS 5/PARENZO"
+    },
+    {
+        "id": "0794",
+        "name": "ISTRIA 1/MERCATO"
+    },
+    {
+        "id": "0795",
+        "name": "ISTRIA 2/GARASSINI"
+    },
+    {
+        "id": "0796",
+        "name": "ISTRIA 3/PONTE MONTEVERDE"
+    },
+    {
+        "id": "0797",
+        "name": "ISTRIA 4/PASSERELLA"
+    },
+    {
+        "id": "0798",
+        "name": "DALMAZIA 1/PONTE BEZZECCA"
+    },
+    {
+        "id": "0799",
+        "name": "DALMAZIA 2/ADRIATICO"
+    },
+    {
+        "id": "0800",
+        "name": "DALMAZIA 3/PONTE CARREGA"
+    },
+    {
+        "id": "0801",
+        "name": "DALMAZIA 4/GUGLIELMETTI"
+    },
+    {
+        "id": "0802",
+        "name": "DALMAZIA 5/PONTE FERITORE"
+    },
+    {
+        "id": "0803",
+        "name": "ADAMOLI 1/SPALATO"
+    },
+    {
+        "id": "0804",
+        "name": "ADAMOLI 3/SCIORBA"
+    },
+    {
+        "id": "0805",
+        "name": "ADAMOLI 5/CAVA"
+    },
+    {
+        "id": "0806",
+        "name": "ADAMOLI 6/MOLASSANA"
+    },
+    {
+        "id": "0807",
+        "name": "ADAMOLI 1/MOLASSANA"
+    },
+    {
+        "id": "0808",
+        "name": "ADAMOLI 2/CAVA"
+    },
+    {
+        "id": "0809",
+        "name": "ADAMOLI 3/PONTE GALLO"
+    },
+    {
+        "id": "0810",
+        "name": "ADAMOLI 5/SPALATO"
+    },
+    {
+        "id": "0811",
+        "name": "DALMAZIA 1/PONTE FERITORE"
+    },
+    {
+        "id": "0812",
+        "name": "LORIA 7/MAGRETTI"
+    },
+    {
+        "id": "0813",
+        "name": "DALMAZIA 3/PONTE CARREGA"
+    },
+    {
+        "id": "0814",
+        "name": "DALMAZIA 4/ADRIATICO"
+    },
+    {
+        "id": "0815",
+        "name": "DALMAZIA 5/PONTE BEZZECCA"
+    },
+    {
+        "id": "0816",
+        "name": "ISTRIA 1/PASSERELLA"
+    },
+    {
+        "id": "0817",
+        "name": "ISTRIA 2/PONTE MONTEVERDE"
+    },
+    {
+        "id": "0818",
+        "name": "ISTRIA 3/MERCATO"
+    },
+    {
+        "id": "0819",
+        "name": "DE STEFANIS 1/PARENZO"
+    },
+    {
+        "id": "0820",
+        "name": "DE STEFANIS 2/MONTEBRUNO"
+    },
+    {
+        "id": "0821",
+        "name": "DE STEFANIS 4/STADIO"
+    },
+    {
+        "id": "0822",
+        "name": "SARDEGNA 4/PIAZZA GIUSTI"
+    },
+    {
+        "id": "0823",
+        "name": "TORINO 1/BUENOS AIRES"
+    },
+    {
+        "id": "0824",
+        "name": "RESASCO/CAPOLINEA"
+    },
+    {
+        "id": "0825",
+        "name": "BASSANO/SAPORITI"
+    },
+    {
+        "id": "0826",
+        "name": "MONTEGRAPPA 1/MONTESANO"
+    },
+    {
+        "id": "0827",
+        "name": "MONTEGRAPPA 2/BANCHERO"
+    },
+    {
+        "id": "0828",
+        "name": "MONTEGRAPPA 3/ASIAGO"
+    },
+    {
+        "id": "0829",
+        "name": "MONTEGRAPPA 4/MONTE CENGIO"
+    },
+    {
+        "id": "0830",
+        "name": "MONTEGRAPPA 5/MAGISTERO"
+    },
+    {
+        "id": "0831",
+        "name": "GIARDINO/MONTEGRAPPA"
+    },
+    {
+        "id": "0832",
+        "name": "BURLANDO 1/SALITA MONTALDO"
+    },
+    {
+        "id": "0833",
+        "name": "BURLANDO 2/PRIVATA BURLANDO"
+    },
+    {
+        "id": "0834",
+        "name": "BURLANDO 3/OLIVERI"
+    },
+    {
+        "id": "0835",
+        "name": "BURLANDO 4/SCUOLE"
+    },
+    {
+        "id": "0836",
+        "name": "GINESTRE 1/CHIESA"
+    },
+    {
+        "id": "0837",
+        "name": "GINESTRE 2/GIARDINI DI TOMASO"
+    },
+    {
+        "id": "0838",
+        "name": "GINESTRE/CAPOLINEA"
+    },
+    {
+        "id": "0839",
+        "name": "GINESTRE 1/SCALINATA"
+    },
+    {
+        "id": "0840",
+        "name": "GINESTRE 2/CHIESA"
+    },
+    {
+        "id": "0841",
+        "name": "BURLANDO 1/SCUOLE"
+    },
+    {
+        "id": "0842",
+        "name": "BURLANDO 2/OLIVERI"
+    },
+    {
+        "id": "0843",
+        "name": "BURLANDO 3/PRIVATA BURLANDO"
+    },
+    {
+        "id": "0844",
+        "name": "BURLANDO 4/SALITA MONTALDO"
+    },
+    {
+        "id": "0845",
+        "name": "GIARDINO/BURLANDO"
+    },
+    {
+        "id": "0846",
+        "name": "MONTEGRAPPA 1/MAGISTERO"
+    },
+    {
+        "id": "0847",
+        "name": "MONTEGRAPPA 2/MONTE CENGIO"
+    },
+    {
+        "id": "0848",
+        "name": "MONTEGRAPPA 3/ASIAGO"
+    },
+    {
+        "id": "0849",
+        "name": "MONTEGRAPPA 4/BANCHERO"
+    },
+    {
+        "id": "0850",
+        "name": "MONTEGRAPPA 5/MONTESANO"
+    },
+    {
+        "id": "0851",
+        "name": "BIANCHERI/CAPOLINEA"
+    },
+    {
+        "id": "0852",
+        "name": "SANT'ALBERTO 1/MERANO"
+    },
+    {
+        "id": "0853",
+        "name": "SANT'ALBERTO 2/CASE LIBERTAS"
+    },
+    {
+        "id": "0854",
+        "name": "SANT'ALBERTO 3"
+    },
+    {
+        "id": "0855",
+        "name": "SANT'ALBERTO 4/MOLINASSI"
+    },
+    {
+        "id": "0856",
+        "name": "MOLINASSI/ROLLINO"
+    },
+    {
+        "id": "0857",
+        "name": "ROLLINO 1/BRISCATA"
+    },
+    {
+        "id": "0858",
+        "name": "ROLLINO 2"
+    },
+    {
+        "id": "0859",
+        "name": "ROLLINO 3"
+    },
+    {
+        "id": "0860",
+        "name": "ROLLINO 4"
+    },
+    {
+        "id": "0861",
+        "name": "ROLLINO 5"
+    },
+    {
+        "id": "0862",
+        "name": "ROLLINO 6"
+    },
+    {
+        "id": "0863",
+        "name": "ROLLINO 7"
+    },
+    {
+        "id": "0864",
+        "name": "ROLLINO 8/SUPERIORE CATALDI"
+    },
+    {
+        "id": "0865",
+        "name": "ROLLINO/CAPOLINEA"
+    },
+    {
+        "id": "0866",
+        "name": "ROLLINO 3/SUPERIORE CATALDI"
+    },
+    {
+        "id": "0867",
+        "name": "ROLLINO 4"
+    },
+    {
+        "id": "0868",
+        "name": "ROLLINO 5"
+    },
+    {
+        "id": "0869",
+        "name": "ROLLINO 6"
+    },
+    {
+        "id": "0870",
+        "name": "ROLLINO 7"
+    },
+    {
+        "id": "0871",
+        "name": "ROLLINO 8"
+    },
+    {
+        "id": "0872",
+        "name": "ROLLINO 9"
+    },
+    {
+        "id": "0873",
+        "name": "ROLLINO 10/BRISCATA"
+    },
+    {
+        "id": "0874",
+        "name": "MOLINASSI/BRISCATA"
+    },
+    {
+        "id": "0875",
+        "name": "SANT'ALBERTO 5/MOLINASSI"
+    },
+    {
+        "id": "0876",
+        "name": "SANT'ALBERTO 6"
+    },
+    {
+        "id": "0877",
+        "name": "SANT'ALBERTO 7/CASE LIBERTAS"
+    },
+    {
+        "id": "0878",
+        "name": "CASE LIBERTAS/INSURREZIONE"
+    },
+    {
+        "id": "0879",
+        "name": "SANT'ALBERTO 5"
+    },
+    {
+        "id": "0880",
+        "name": "SANT'ALBERTO 6"
+    },
+    {
+        "id": "0881",
+        "name": "SANT'ALBERTO 7"
+    },
+    {
+        "id": "0882",
+        "name": "SANT'ALBERTO 8"
+    },
+    {
+        "id": "0883",
+        "name": "SANT'ALBERTO 9"
+    },
+    {
+        "id": "0884",
+        "name": "SANT'ALBERTO/CIMITERO SESTRI"
+    },
+    {
+        "id": "0885",
+        "name": "SANT'ALBERTO 1"
+    },
+    {
+        "id": "0886",
+        "name": "SANT'ALBERTO 2"
+    },
+    {
+        "id": "0887",
+        "name": "SANT'ALBERTO 3"
+    },
+    {
+        "id": "0888",
+        "name": "SANT'ALBERTO 4"
+    },
+    {
+        "id": "0889",
+        "name": "BORZOLI 2/LEONARDI"
+    },
+    {
+        "id": "0890",
+        "name": "BORZOLI 3/DA BISSONE"
+    },
+    {
+        "id": "0891",
+        "name": "BORZOLI 4/AUTOSTRADA"
+    },
+    {
+        "id": "0892",
+        "name": "BORZOLI 5/FRINGUELLO"
+    },
+    {
+        "id": "0893",
+        "name": "BORZOLI 6/CAMPO SPORTIVO"
+    },
+    {
+        "id": "0894",
+        "name": "BORZOLI 7/CIMITERO"
+    },
+    {
+        "id": "0895",
+        "name": "BORZOLI 8/MONTE SLEME"
+    },
+    {
+        "id": "0896",
+        "name": "BORZOLI 9/VENZANO"
+    },
+    {
+        "id": "0897",
+        "name": "BORZOLI 10/CRISTO DI MARMO"
+    },
+    {
+        "id": "0898",
+        "name": "BORZOLI 11/BURLO"
+    },
+    {
+        "id": "0899",
+        "name": "BORZOLI 12"
+    },
+    {
+        "id": "0900",
+        "name": "BORZOLI 13/FEGINO"
+    },
+    {
+        "id": "0901",
+        "name": "BORZOLI 14/INTERMEDIO"
+    },
+    {
+        "id": "0902",
+        "name": "FERRI 1/FEGINO"
+    },
+    {
+        "id": "0903",
+        "name": "AVEZZANA"
+    },
+    {
+        "id": "0904",
+        "name": "PALLAVICINI/CAPOLINEA"
+    },
+    {
+        "id": "0905",
+        "name": "RAGAZZI DEL 99/CAPOLINEA"
+    },
+    {
+        "id": "0906",
+        "name": "FERRI 5/FEGINO"
+    },
+    {
+        "id": "0907",
+        "name": "BORZOLI 1/INTERMEDIO"
+    },
+    {
+        "id": "0908",
+        "name": "BORZOLI 2/FEGINO"
+    },
+    {
+        "id": "0909",
+        "name": "BORZOLI 3"
+    },
+    {
+        "id": "0910",
+        "name": "BORZOLI 4/BURLO"
+    },
+    {
+        "id": "0911",
+        "name": "BORZOLI 5/CRISTO DI MARMO"
+    },
+    {
+        "id": "0912",
+        "name": "BORZOLI 6/VENZANO"
+    },
+    {
+        "id": "0913",
+        "name": "BORZOLI 7/MONTE SLEME"
+    },
+    {
+        "id": "0914",
+        "name": "BORZOLI 8/CIMITERO"
+    },
+    {
+        "id": "0915",
+        "name": "BORZOLI 9/CAMPO SPORTIVO"
+    },
+    {
+        "id": "0916",
+        "name": "BORZOLI 10/FRINGUELLO"
+    },
+    {
+        "id": "0917",
+        "name": "BORZOLI 11/AUTOSTRADA"
+    },
+    {
+        "id": "0918",
+        "name": "BORZOLI 12/DA BISSONE"
+    },
+    {
+        "id": "0919",
+        "name": "CHIARAVAGNA 8/DA BISSONE"
+    },
+    {
+        "id": "0920",
+        "name": "CHIARAVAGNA 9/BELARDI"
+    },
+    {
+        "id": "0921",
+        "name": "CHIARAVAGNA 10/GIOTTO"
+    },
+    {
+        "id": "0927",
+        "name": "PERRONE 2/BOSCHETTO"
+    },
+    {
+        "id": "0928",
+        "name": "PERRONE 3/QUATTRO PALAZZI"
+    },
+    {
+        "id": "0930",
+        "name": "PERRONE 4/LORENZI"
+    },
+    {
+        "id": "0931",
+        "name": "PERRONE 5/QUATTRO PALAZZI"
+    },
+    {
+        "id": "0932",
+        "name": "PERRONE 6/BOSCHETTO"
+    },
+    {
+        "id": "0934",
+        "name": "LAGACCIO 1/SAN ROCCO"
+    },
+    {
+        "id": "0935",
+        "name": "LAGACCIO 2/CENTURIONE"
+    },
+    {
+        "id": "0936",
+        "name": "LAGACCIO 3/CASERMA"
+    },
+    {
+        "id": "0937",
+        "name": "LAGACCIO 4/AVEZZANA"
+    },
+    {
+        "id": "0938",
+        "name": "PALLAVICINI"
+    },
+    {
+        "id": "0939",
+        "name": "VEZZANI 2/CAMBIASO"
+    },
+    {
+        "id": "0940",
+        "name": "VEZZANI 3/STUGGIA"
+    },
+    {
+        "id": "0941",
+        "name": "VEZZANI 4"
+    },
+    {
+        "id": "0942",
+        "name": "VEZZANI 5/FORNACE DEL GARBO"
+    },
+    {
+        "id": "0943",
+        "name": "FORNACE DEL GARBO 1/RONCASOLO"
+    },
+    {
+        "id": "0944",
+        "name": "FORNACE DEL GARBO 2/PENTEMA"
+    },
+    {
+        "id": "0945",
+        "name": "FORNACE DEL GARBO 3/CAREGHINO"
+    },
+    {
+        "id": "0946",
+        "name": "FORNACE DEL GARBO 4"
+    },
+    {
+        "id": "0947",
+        "name": "FORNACE DEL GARBO 5/OLIVERI"
+    },
+    {
+        "id": "0948",
+        "name": "CHIESA DEL GARBO/CAPOLINEA"
+    },
+    {
+        "id": "0949",
+        "name": "FORNACE DEL GARBO 1/OLIVERI"
+    },
+    {
+        "id": "0950",
+        "name": "FORNACE DEL GARBO 2"
+    },
+    {
+        "id": "0951",
+        "name": "FORNACE DEL GARBO 3/CAREGHINO"
+    },
+    {
+        "id": "0952",
+        "name": "FORNACE DEL GARBO 4/PENTEMA"
+    },
+    {
+        "id": "0953",
+        "name": "FORNACE DEL GARBO 5/RONCASOLO"
+    },
+    {
+        "id": "0954",
+        "name": "VEZZANI 1/FORNACE DEL GARBO"
+    },
+    {
+        "id": "0955",
+        "name": "VEZZANI 2"
+    },
+    {
+        "id": "0956",
+        "name": "VEZZANI 4/CAMBIASO"
+    },
+    {
+        "id": "0957",
+        "name": "BARACCA/VIGNA"
+    },
+    {
+        "id": "0958",
+        "name": "CANEPA 2/DEL CARRETTO"
+    },
+    {
+        "id": "0959",
+        "name": "OLIVA 1/OSPEDALE DI SESTRI"
+    },
+    {
+        "id": "0960",
+        "name": "OLIVA 2/AQUILEIA"
+    },
+    {
+        "id": "0961",
+        "name": "SEDICI GIUGNO 1/TRAVERSA"
+    },
+    {
+        "id": "0962",
+        "name": "CONSIGLIERE/COSTA FS"
+    },
+    {
+        "id": "0963",
+        "name": "SEDICI GIUGNO 2/TRAVERSA"
+    },
+    {
+        "id": "0964",
+        "name": "LANDI 2/CAPOLINEA"
+    },
+    {
+        "id": "0965",
+        "name": "LANDI 3/SCALINATA"
+    },
+    {
+        "id": "0966",
+        "name": "BALBI PIOVERA/PASCOLI"
+    },
+    {
+        "id": "0967",
+        "name": "SCASSI/OSPEDALE"
+    },
+    {
+        "id": "0968",
+        "name": "MAGELLANO 1/SAN BARBORINO"
+    },
+    {
+        "id": "0969",
+        "name": "MAGELLANO 2/SCALINATA"
+    },
+    {
+        "id": "0970",
+        "name": "MARTINETTI 2/VASCO DA GAMA"
+    },
+    {
+        "id": "0971",
+        "name": "MARTINETTI 3/CEVASCO"
+    },
+    {
+        "id": "0972",
+        "name": "MARTINETTI 4/POSTE"
+    },
+    {
+        "id": "0973",
+        "name": "MARTINETTI 5"
+    },
+    {
+        "id": "0974",
+        "name": "MARTINETTI 6"
+    },
+    {
+        "id": "0975",
+        "name": "MARTINETTI 7/BIVIO BELVEDERE"
+    },
+    {
+        "id": "0976",
+        "name": "BELVEDERE 1/POWELL"
+    },
+    {
+        "id": "0977",
+        "name": "POWELL 1"
+    },
+    {
+        "id": "0978",
+        "name": "POWELL 2"
+    },
+    {
+        "id": "0979",
+        "name": "BELVEDERE 2/SCALINATA"
+    },
+    {
+        "id": "0980",
+        "name": "BELVEDERE/CAPOLINEA"
+    },
+    {
+        "id": "0981",
+        "name": "BELVEDERE 1/SCALINATA"
+    },
+    {
+        "id": "0982",
+        "name": "CANTORE 3/VILLA SCASSI"
+    },
+    {
+        "id": "0983",
+        "name": "BELVEDERE 2/POWELL"
+    },
+    {
+        "id": "0984",
+        "name": "BELVEDERE 3/MARTINETTI"
+    },
+    {
+        "id": "0985",
+        "name": "MARTINETTI 2"
+    },
+    {
+        "id": "0986",
+        "name": "MARTINETTI 3"
+    },
+    {
+        "id": "0987",
+        "name": "MARTINETTI 4/POSTE"
+    },
+    {
+        "id": "0988",
+        "name": "MARTINETTI 5/CEVASCO"
+    },
+    {
+        "id": "0989",
+        "name": "MARTINETTI 6/VASCO DA GAMA"
+    },
+    {
+        "id": "0990",
+        "name": "MAGELLANO 1/SCALINATA"
+    },
+    {
+        "id": "0991",
+        "name": "SCASSI/OSPEDALE"
+    },
+    {
+        "id": "0992",
+        "name": "BALBI PIOVERA/BECCARIA"
+    },
+    {
+        "id": "0993",
+        "name": "CANTORE 4/BALBI PIOVERA"
+    },
+    {
+        "id": "0994",
+        "name": "FARINI/MONTI"
+    },
+    {
+        "id": "0995",
+        "name": "MONTI 1/LANDI"
+    },
+    {
+        "id": "0996",
+        "name": "MONTI 2/TOSA"
+    },
+    {
+        "id": "0997",
+        "name": "LANDI 1/BATTAGLINI"
+    },
+    {
+        "id": "0998",
+        "name": "ARRIVABENE"
+    },
+    {
+        "id": "0999",
+        "name": "PIAZZA ARRIVABENE"
+    },
+    {
+        "id": "1000",
+        "name": "CHIARAVAGNA 2/BUXIO"
+    },
+    {
+        "id": "1001",
+        "name": "CHIARAVAGNA 3/PANIGARO"
+    },
+    {
+        "id": "1002",
+        "name": "CHIARAVAGNA 4/CASSINELLE"
+    },
+    {
+        "id": "1003",
+        "name": "CHIARAVAGNA 5"
+    },
+    {
+        "id": "1004",
+        "name": "CHIARAVAGNA 1/MONTE TIMONE"
+    },
+    {
+        "id": "1005",
+        "name": "CHIARAVAGNA 2"
+    },
+    {
+        "id": "1006",
+        "name": "CHIARAVAGNA 3/CASSINELLE"
+    },
+    {
+        "id": "1007",
+        "name": "CHIARAVAGNA 4/PANIGARO"
+    },
+    {
+        "id": "1008",
+        "name": "CHIARAVAGNA 5/BUXIO"
+    },
+    {
+        "id": "1009",
+        "name": "PIAZZA ARRIVABENE"
+    },
+    {
+        "id": "1010",
+        "name": "ARRIVABENE"
+    },
+    {
+        "id": "1011",
+        "name": "MOLTENI/CAPOLINEA"
+    },
+    {
+        "id": "1012",
+        "name": "MASSENA/CORONATA"
+    },
+    {
+        "id": "1013",
+        "name": "CORONATA 1"
+    },
+    {
+        "id": "1014",
+        "name": "CORONATA 2/CALASANZIO"
+    },
+    {
+        "id": "1015",
+        "name": "CORONATA 3/DON BOSCO"
+    },
+    {
+        "id": "1016",
+        "name": "CORONATA 4/SAN RAFFAELE"
+    },
+    {
+        "id": "1017",
+        "name": "MONTE GUANO 1/SANTUARIO"
+    },
+    {
+        "id": "1018",
+        "name": "MONTE GUANO 2/SAN GIACOMO"
+    },
+    {
+        "id": "1019",
+        "name": "MONTE GUANO 3/CIMITERO"
+    },
+    {
+        "id": "1020",
+        "name": "MONTE GUANO 4/ZINGARELLO"
+    },
+    {
+        "id": "1021",
+        "name": "MONTE GUANO 5/PURGATORIO"
+    },
+    {
+        "id": "1022",
+        "name": "TESTA DI CAVALLO/CAPOLINEA"
+    },
+    {
+        "id": "1023",
+        "name": "MONTE GUANO 1/PURGATORIO"
+    },
+    {
+        "id": "1024",
+        "name": "MONTE GUANO 2/ZINGARELLO"
+    },
+    {
+        "id": "1025",
+        "name": "MONTE GUANO 3/CIMITERO"
+    },
+    {
+        "id": "1026",
+        "name": "MONTE GUANO 4/SAN GIACOMO"
+    },
+    {
+        "id": "1027",
+        "name": "MONTE GUANO 5/SANTUARIO"
+    },
+    {
+        "id": "1028",
+        "name": "CORONATA 1/SAN RAFFAELE"
+    },
+    {
+        "id": "1029",
+        "name": "CORONATA 2/DON BOSCO"
+    },
+    {
+        "id": "1030",
+        "name": "CORONATA 3/CALASANZIO"
+    },
+    {
+        "id": "1031",
+        "name": "CORONATA 4"
+    },
+    {
+        "id": "1032",
+        "name": "MASSENA/CORNIGLIANO"
+    },
+    {
+        "id": "1034",
+        "name": "MASSENA/PERRONE"
+    },
+    {
+        "id": "1035",
+        "name": "PERRONE 1/BIANCHI"
+    },
+    {
+        "id": "1036",
+        "name": "BIANCHI 1/BAGNASCO"
+    },
+    {
+        "id": "1037",
+        "name": "PERRONE 2/CAMPI"
+    },
+    {
+        "id": "1038",
+        "name": "PERRONE 3/VILLA PICASSO"
+    },
+    {
+        "id": "1039",
+        "name": "PERRONE 7/BORZOLI"
+    },
+    {
+        "id": "1040",
+        "name": "FERRI 2/SANT'AMBROGIO"
+    },
+    {
+        "id": "1041",
+        "name": "FERRI 3/QUARTINI"
+    },
+    {
+        "id": "1042",
+        "name": "FERRI 4/DE CALBOLI"
+    },
+    {
+        "id": "1043",
+        "name": "FERRI 5/SAN DONA'"
+    },
+    {
+        "id": "1044",
+        "name": "POLONIO 1/TRASTA"
+    },
+    {
+        "id": "1045",
+        "name": "POLONIO 2/SALITA MURTA"
+    },
+    {
+        "id": "1046",
+        "name": "N.S. GUARDIA 1/BOLZANETO FS"
+    },
+    {
+        "id": "1047",
+        "name": "N.S. GUARDIA 2/PINO DI MURTA"
+    },
+    {
+        "id": "1048",
+        "name": "N.S. GUARDIA 3"
+    },
+    {
+        "id": "1049",
+        "name": "N.S. GUARDIA 4/PONTE RATTO"
+    },
+    {
+        "id": "1050",
+        "name": "ROMAIRONE 1/SCALA"
+    },
+    {
+        "id": "1051",
+        "name": "ROMAIRONE 2/SAN BIAGIO"
+    },
+    {
+        "id": "1052",
+        "name": "ROMAIRONE 3/PONTE BARBIERI"
+    },
+    {
+        "id": "1053",
+        "name": "SEMINI 1/GASTALDI"
+    },
+    {
+        "id": "1054",
+        "name": "SEMINI 2/SAN BIAGIO FS"
+    },
+    {
+        "id": "1055",
+        "name": "SEMINI 3/ISOLA ECOLOGICA"
+    },
+    {
+        "id": "1056",
+        "name": "ISOCORTE/OTTONELLI"
+    },
+    {
+        "id": "1057",
+        "name": "FONDERIE GRONDONA/VALSUGANA"
+    },
+    {
+        "id": "1059",
+        "name": "POLONIO 2/TRASTA"
+    },
+    {
+        "id": "1060",
+        "name": "CASTEL MORRONE 2/CORVI"
+    },
+    {
+        "id": "1061",
+        "name": "BASSANO/SAPORITI"
+    },
+    {
+        "id": "1062",
+        "name": "SEMINI 1/FORESTALE"
+    },
+    {
+        "id": "1063",
+        "name": "SEMINI 2/ISOLA ECOLOGICA"
+    },
+    {
+        "id": "1064",
+        "name": "SEMINI 3/SAN BIAGIO FS"
+    },
+    {
+        "id": "1065",
+        "name": "SEMINI 4/GASTALDI"
+    },
+    {
+        "id": "1066",
+        "name": "ROMAIRONE 1/PONTE BARBIERI"
+    },
+    {
+        "id": "1067",
+        "name": "ROMAIRONE 2/SAN BIAGIO"
+    },
+    {
+        "id": "1068",
+        "name": "ROMAIRONE 3/SCALA"
+    },
+    {
+        "id": "1069",
+        "name": "LEVATI 1/CENTRO COMMERCIALE"
+    },
+    {
+        "id": "1070",
+        "name": "N.S. GUARDIA 1/ARTIGIANI"
+    },
+    {
+        "id": "1071",
+        "name": "N.S. GUARDIA 2/PONTE RATTO"
+    },
+    {
+        "id": "1072",
+        "name": "N.S. GUARDIA 3"
+    },
+    {
+        "id": "1073",
+        "name": "N.S. GUARDIA 4/PINO DI MURTA"
+    },
+    {
+        "id": "1074",
+        "name": "N.S. GUARDIA 5/BOLZANETO FS"
+    },
+    {
+        "id": "1075",
+        "name": "POLONIO 1/SALITA MURTA"
+    },
+    {
+        "id": "1076",
+        "name": "NERVI/CAPOLINEA"
+    },
+    {
+        "id": "1077",
+        "name": "CASTEL MORRONE 1/TRASTA"
+    },
+    {
+        "id": "1078",
+        "name": "FERRI 1/SAN DONA'"
+    },
+    {
+        "id": "1079",
+        "name": "FERRI 2/DE CALBOLI"
+    },
+    {
+        "id": "1080",
+        "name": "FERRI 3/QUARTINI"
+    },
+    {
+        "id": "1081",
+        "name": "FERRI 4/SANT'AMBROGIO"
+    },
+    {
+        "id": "1082",
+        "name": "PERRONE 1/BORZOLI"
+    },
+    {
+        "id": "1083",
+        "name": "PERRONE 4/LORENZI"
+    },
+    {
+        "id": "1084",
+        "name": "PERRONE 5/VILLA PICASSO"
+    },
+    {
+        "id": "1085",
+        "name": "PERRONE 6/CAMPI"
+    },
+    {
+        "id": "1086",
+        "name": "PERINI/CAMPI"
+    },
+    {
+        "id": "1087",
+        "name": "PERRONE 6/BIANCHI"
+    },
+    {
+        "id": "1088",
+        "name": "PERRONE 7/MASSENA"
+    },
+    {
+        "id": "1089",
+        "name": "BRIN 1/METRO'"
+    },
+    {
+        "id": "1090",
+        "name": "MAGELLANO 2/SAN BARBORINO"
+    },
+    {
+        "id": "1091",
+        "name": "ALBISOLA 1/CAMPOLIGURE"
+    },
+    {
+        "id": "1092",
+        "name": "ALBISOLA 2/ARTIGIANI"
+    },
+    {
+        "id": "1093",
+        "name": "ARTIGIANI 1/N.S. DELLA GUARDIA"
+    },
+    {
+        "id": "1094",
+        "name": "ARTIGIANI 2/ALBISOLA"
+    },
+    {
+        "id": "1095",
+        "name": "COSTA DI PINO/TORRAZZA"
+    },
+    {
+        "id": "1096",
+        "name": "MANIN/CAPOLINEA"
+    },
+    {
+        "id": "1097",
+        "name": "STAZIONE PER CASELLA"
+    },
+    {
+        "id": "1098",
+        "name": "SAN BARTOLOMEO/CABELLA"
+    },
+    {
+        "id": "1099",
+        "name": "CARSO 1/CABELLA"
+    },
+    {
+        "id": "1100",
+        "name": "CARSO 2/SAN BERNARDINO"
+    },
+    {
+        "id": "1101",
+        "name": "CARSO 3/SAN PANTALEO"
+    },
+    {
+        "id": "1102",
+        "name": "CARSO 4/CHIODO"
+    },
+    {
+        "id": "1103",
+        "name": "CARSO 5/CIMA SAN PANTALEO"
+    },
+    {
+        "id": "1104",
+        "name": "CARSO 6"
+    },
+    {
+        "id": "1105",
+        "name": "CARSO 7/RIGHI"
+    },
+    {
+        "id": "1106",
+        "name": "COSTANZI 1/PERALTO"
+    },
+    {
+        "id": "1107",
+        "name": "COSTANZI 2/PARCO DELLE MURA"
+    },
+    {
+        "id": "1108",
+        "name": "COSTANZI 3/FUMAGALLI"
+    },
+    {
+        "id": "1109",
+        "name": "COSTANZI 5/GIUSSO"
+    },
+    {
+        "id": "1110",
+        "name": "BELVEDERE DA PASSANO/CAPOLINEA"
+    },
+    {
+        "id": "1111",
+        "name": "COSTANZI 4/PARCO DELLE MURA"
+    },
+    {
+        "id": "1112",
+        "name": "COSTANZI 5/PERALTO"
+    },
+    {
+        "id": "1113",
+        "name": "CARSO 1/RIGHI"
+    },
+    {
+        "id": "1114",
+        "name": "CARSO 2"
+    },
+    {
+        "id": "1115",
+        "name": "CARSO 3/CIMA SAN PANTALEO"
+    },
+    {
+        "id": "1116",
+        "name": "CARSO 4/CHIODO"
+    },
+    {
+        "id": "1117",
+        "name": "CARSO 5/SAN PANTALEO"
+    },
+    {
+        "id": "1118",
+        "name": "CARSO 6/SAN BERNARDINO"
+    },
+    {
+        "id": "1119",
+        "name": "CARSO 7/CABELLA"
+    },
+    {
+        "id": "1120",
+        "name": "CABELLA 1/SAN BERNARDINO"
+    },
+    {
+        "id": "1121",
+        "name": "CABELLA 2/CONTARDO"
+    },
+    {
+        "id": "1122",
+        "name": "CABELLA 3/PASSO BISCUOLA"
+    },
+    {
+        "id": "1123",
+        "name": "RIGHI/CAPOLINEA"
+    },
+    {
+        "id": "1124",
+        "name": "SAN CIPRIANO/CAPOLINEA"
+    },
+    {
+        "id": "1125",
+        "name": "CARLI 1/MADONNETTA"
+    },
+    {
+        "id": "1126",
+        "name": "CARLI 2"
+    },
+    {
+        "id": "1127",
+        "name": "CARLI 3"
+    },
+    {
+        "id": "1128",
+        "name": "CARLI 4"
+    },
+    {
+        "id": "1129",
+        "name": "CARLI 5"
+    },
+    {
+        "id": "1130",
+        "name": "CARLI 6"
+    },
+    {
+        "id": "1131",
+        "name": "VAL D'ASTICO 1"
+    },
+    {
+        "id": "1132",
+        "name": "VAL D'ASTICO 2/FRATELLI GAZZO"
+    },
+    {
+        "id": "1133",
+        "name": "VAL D'ASTICO 3/ANFOSSI"
+    },
+    {
+        "id": "1134",
+        "name": "BENEDETTO CESINO 1/CAMPOMORONE"
+    },
+    {
+        "id": "1135",
+        "name": "BENEDETTO CESINO 2"
+    },
+    {
+        "id": "1136",
+        "name": "BENEDETTO CESINO 3"
+    },
+    {
+        "id": "1137",
+        "name": "BENEDETTO CESINO 4"
+    },
+    {
+        "id": "1138",
+        "name": "BENEDETTO CESINO 5"
+    },
+    {
+        "id": "1139",
+        "name": "BENEDETTO CESINO 6"
+    },
+    {
+        "id": "1140",
+        "name": "BENEDETTO CESINO 7"
+    },
+    {
+        "id": "1141",
+        "name": "BENEDETTO CESINO 8/CIMITERO"
+    },
+    {
+        "id": "1142",
+        "name": "CHIESA DI CESINO/CAPOLINEA"
+    },
+    {
+        "id": "1143",
+        "name": "BENEDETTO CESINO 1/CIMITERO"
+    },
+    {
+        "id": "1144",
+        "name": "BENEDETTO CESINO 2"
+    },
+    {
+        "id": "1145",
+        "name": "BENEDETTO CESINO 3"
+    },
+    {
+        "id": "1146",
+        "name": "BENEDETTO CESINO 4"
+    },
+    {
+        "id": "1147",
+        "name": "BENEDETTO CESINO 5"
+    },
+    {
+        "id": "1148",
+        "name": "BENEDETTO CESINO 6"
+    },
+    {
+        "id": "1149",
+        "name": "BENEDETTO CESINO 7"
+    },
+    {
+        "id": "1150",
+        "name": "BENEDETTO CESINO 8/CAMPOMORONE"
+    },
+    {
+        "id": "1152",
+        "name": "PARTIGIANI CADUTI/POLI"
+    },
+    {
+        "id": "1153",
+        "name": "ARIMONDI/POLI"
+    },
+    {
+        "id": "1154",
+        "name": "VAL D'ASTICO 1/ANFOSSI"
+    },
+    {
+        "id": "1155",
+        "name": "VAL D'ASTICO 2/FRATELLI GAZZO"
+    },
+    {
+        "id": "1156",
+        "name": "VAL D'ASTICO 3"
+    },
+    {
+        "id": "1157",
+        "name": "CARLI 1"
+    },
+    {
+        "id": "1158",
+        "name": "CARLI 2"
+    },
+    {
+        "id": "1159",
+        "name": "CARLI 3"
+    },
+    {
+        "id": "1160",
+        "name": "CARLI 4"
+    },
+    {
+        "id": "1161",
+        "name": "CARLI 5"
+    },
+    {
+        "id": "1162",
+        "name": "CARLI 6/MADONNETTA"
+    },
+    {
+        "id": "1163",
+        "name": "LINNEO 5/CHERUBINI"
+    },
+    {
+        "id": "1164",
+        "name": "DINEGRO/TERMINAL TRAGHETTI"
+    },
+    {
+        "id": "1165",
+        "name": "S.B. DEL FOSSATO 1/CANTORE"
+    },
+    {
+        "id": "1166",
+        "name": "S.B. DEL FOSSATO 2/CHIESA"
+    },
+    {
+        "id": "1167",
+        "name": "S.B. DEL FOSSATO 3/DANTE CONTE"
+    },
+    {
+        "id": "1168",
+        "name": "S.B. DEL FOSSATO 4/CASE PORTO"
+    },
+    {
+        "id": "1169",
+        "name": "S.B. DEL FOSSATO 5"
+    },
+    {
+        "id": "1170",
+        "name": "S.B. DEL FOSSATO 6/GIARDINI"
+    },
+    {
+        "id": "1171",
+        "name": "S.B. DEL FOSSATO 7/RIGOLA"
+    },
+    {
+        "id": "1172",
+        "name": "MURA ANGELI/BUONVICINI"
+    },
+    {
+        "id": "1173",
+        "name": "PORTA ANGELI 1/BARACCHETTA"
+    },
+    {
+        "id": "1174",
+        "name": "PORTA ANGELI 2/CASTAGNA"
+    },
+    {
+        "id": "1175",
+        "name": "PORTA ANGELI 3/PROMONTORIO"
+    },
+    {
+        "id": "1176",
+        "name": "MARTINETTI 1/BIVIO BELVEDERE"
+    },
+    {
+        "id": "1177",
+        "name": "MARTINETTI 7/MONTI"
+    },
+    {
+        "id": "1178",
+        "name": "MONTANO/SAMPIERDARENA FS"
+    },
+    {
+        "id": "1179",
+        "name": "MARTINETTI 1/MONTI"
+    },
+    {
+        "id": "1180",
+        "name": "PORTA ANGELI 1/PROMONTORIO"
+    },
+    {
+        "id": "1181",
+        "name": "PORTA ANGELI 2/CASTAGNA"
+    },
+    {
+        "id": "1182",
+        "name": "PORTA ANGELI 3/BARACCHETTA"
+    },
+    {
+        "id": "1183",
+        "name": "MURA ANGELI/BUONVICINI"
+    },
+    {
+        "id": "1184",
+        "name": "S.B. DEL FOSSATO 1/RIGOLA"
+    },
+    {
+        "id": "1185",
+        "name": "S.B. DEL FOSSATO 2/GIARDINI"
+    },
+    {
+        "id": "1186",
+        "name": "S.B. DEL FOSSATO 3"
+    },
+    {
+        "id": "1187",
+        "name": "S.B. DEL FOSSATO 4/CASE PORTO"
+    },
+    {
+        "id": "1188",
+        "name": "S.B. DEL FOSSATO 5/DANTE CONTE"
+    },
+    {
+        "id": "1189",
+        "name": "S.B. DEL FOSSATO 6/CHIESA"
+    },
+    {
+        "id": "1190",
+        "name": "S.B. DEL FOSSATO 7/CANTORE"
+    },
+    {
+        "id": "1192",
+        "name": "DONGHI 4/BERNO"
+    },
+    {
+        "id": "1193",
+        "name": "BERGHINI 1/GALEAZZO"
+    },
+    {
+        "id": "1194",
+        "name": "BERGHINI 2"
+    },
+    {
+        "id": "1195",
+        "name": "BERGHINI 3"
+    },
+    {
+        "id": "1196",
+        "name": "BERGHINI 4/BONACCHI"
+    },
+    {
+        "id": "1197",
+        "name": "BERGHINI 5"
+    },
+    {
+        "id": "1198",
+        "name": "BERGHINI 6"
+    },
+    {
+        "id": "1199",
+        "name": "BERGHINI 7/SANTA TECLA"
+    },
+    {
+        "id": "1200",
+        "name": "BERGHINI 9/PIANDERLINO"
+    },
+    {
+        "id": "1201",
+        "name": "BERGHINI 11/GIARDINI"
+    },
+    {
+        "id": "1202",
+        "name": "BERGHINI 12"
+    },
+    {
+        "id": "1203",
+        "name": "CAMALDOLI/CAPOLINEA"
+    },
+    {
+        "id": "1204",
+        "name": "BERGHINI 1"
+    },
+    {
+        "id": "1205",
+        "name": "BERGHINI 2/GIARDINI"
+    },
+    {
+        "id": "1206",
+        "name": "BERGHINI 4/PIANDERLINO"
+    },
+    {
+        "id": "1207",
+        "name": "BERGHINI 6/SANTA TECLA"
+    },
+    {
+        "id": "1208",
+        "name": "BERGHINI 7"
+    },
+    {
+        "id": "1209",
+        "name": "BERGHINI 8"
+    },
+    {
+        "id": "1210",
+        "name": "BERGHINI 9/BONACCHI"
+    },
+    {
+        "id": "1211",
+        "name": "BERGHINI 10"
+    },
+    {
+        "id": "1212",
+        "name": "BERGHINI 11"
+    },
+    {
+        "id": "1213",
+        "name": "BERGHINI 12/GALEAZZO"
+    },
+    {
+        "id": "1214",
+        "name": "BERGHINI 13/BERNO"
+    },
+    {
+        "id": "1216",
+        "name": "MOSSO/PRONTO SOCCORSO"
+    },
+    {
+        "id": "1217",
+        "name": "FRANCHINI/FINE CORSA"
+    },
+    {
+        "id": "1218",
+        "name": "ACQUASANTA 2/PICCARDO"
+    },
+    {
+        "id": "1219",
+        "name": "CHIESA SANT'ILARIO/CAPOLINEA"
+    },
+    {
+        "id": "1220",
+        "name": "SANT'ILARIO 1/SOCIETA' OPERAIA"
+    },
+    {
+        "id": "1221",
+        "name": "SANT'ILARIO 2"
+    },
+    {
+        "id": "1222",
+        "name": "SANT'ILARIO 3/RIO FONTANINO"
+    },
+    {
+        "id": "1223",
+        "name": "SANT'ILARIO 4"
+    },
+    {
+        "id": "1224",
+        "name": "SANT'ILARIO 5"
+    },
+    {
+        "id": "1225",
+        "name": "SANT'ILARIO 6/SALITA NOFFI"
+    },
+    {
+        "id": "1226",
+        "name": "NERVI/CAPOLINEA"
+    },
+    {
+        "id": "1227",
+        "name": "BASSANITE/SALA"
+    },
+    {
+        "id": "1228",
+        "name": "SANT'ILARIO 1/PASQUA"
+    },
+    {
+        "id": "1229",
+        "name": "SANT'ILARIO 2/SOMMA"
+    },
+    {
+        "id": "1230",
+        "name": "SANT'ILARIO 3/SALITA NOFFI"
+    },
+    {
+        "id": "1231",
+        "name": "SANT'ILARIO 4"
+    },
+    {
+        "id": "1232",
+        "name": "SANT'ILARIO 5"
+    },
+    {
+        "id": "1233",
+        "name": "SANT'ILARIO 6/RIO FONTANINO"
+    },
+    {
+        "id": "1234",
+        "name": "SANT'ILARIO 7"
+    },
+    {
+        "id": "1235",
+        "name": "SANT'ILARIO 8/SOCIETA' OPERAIA"
+    },
+    {
+        "id": "1236",
+        "name": "CIMITERO DI NERVI"
+    },
+    {
+        "id": "1237",
+        "name": "COMMERCIO 6"
+    },
+    {
+        "id": "1238",
+        "name": "COMMERCIO 7"
+    },
+    {
+        "id": "1239",
+        "name": "COMMERCIO 8"
+    },
+    {
+        "id": "1240",
+        "name": "COMMERCIO 9"
+    },
+    {
+        "id": "1241",
+        "name": "COMMERCIO 10/BELSITO"
+    },
+    {
+        "id": "1242",
+        "name": "TOSONOTTI"
+    },
+    {
+        "id": "1243",
+        "name": "GIANASSO/MORSELLI"
+    },
+    {
+        "id": "1244",
+        "name": "COMMERCIO 1/OBERDAN"
+    },
+    {
+        "id": "1245",
+        "name": "COMMERCIO 2"
+    },
+    {
+        "id": "1246",
+        "name": "COMMERCIO 3"
+    },
+    {
+        "id": "1247",
+        "name": "COMMERCIO 4"
+    },
+    {
+        "id": "1248",
+        "name": "COMMERCIO 5"
+    },
+    {
+        "id": "1249",
+        "name": "GAGGERO 1/DA BISSONE"
+    },
+    {
+        "id": "1250",
+        "name": "GAGGERO 2/MUSCOLA"
+    },
+    {
+        "id": "1251",
+        "name": "VIRGO POTENS/FINE CORSA"
+    },
+    {
+        "id": "1252",
+        "name": "VIRGO POTENS/CAPOLINEA"
+    },
+    {
+        "id": "1253",
+        "name": "GAGGERO/MUSCOLA"
+    },
+    {
+        "id": "1254",
+        "name": "RAPISARDI/CAPOLINEA"
+    },
+    {
+        "id": "1255",
+        "name": "OPISSO 2/CIALLI"
+    },
+    {
+        "id": "1256",
+        "name": "VARENNA 1/PONTE COLLA"
+    },
+    {
+        "id": "1257",
+        "name": "VARENNA 2"
+    },
+    {
+        "id": "1258",
+        "name": "VARENNA 3"
+    },
+    {
+        "id": "1259",
+        "name": "VARENNA 4/TRE PONTI"
+    },
+    {
+        "id": "1260",
+        "name": "CARPENARA 1/GRANARA FS"
+    },
+    {
+        "id": "1261",
+        "name": "CARPENARA 2/PROFONDO"
+    },
+    {
+        "id": "1262",
+        "name": "CARPENARA 3"
+    },
+    {
+        "id": "1263",
+        "name": "CARPENARA 5"
+    },
+    {
+        "id": "1264",
+        "name": "CARPENARA 6"
+    },
+    {
+        "id": "1265",
+        "name": "CARPENARA 7"
+    },
+    {
+        "id": "1266",
+        "name": "CARPENARA 8"
+    },
+    {
+        "id": "1267",
+        "name": "SAN CARLO DI CESE 1"
+    },
+    {
+        "id": "1268",
+        "name": "SAN CARLO DI CESE 2"
+    },
+    {
+        "id": "1269",
+        "name": "SAN CARLO DI CESE 3/OGGIA'"
+    },
+    {
+        "id": "1270",
+        "name": "SAN CARLO DI CESE 4/SPOTTI"
+    },
+    {
+        "id": "1271",
+        "name": "SAN CARLO DI CESE 5/FERREN"
+    },
+    {
+        "id": "1272",
+        "name": "SAN CARLO DI CESE 7"
+    },
+    {
+        "id": "1273",
+        "name": "SAN CARLO DI CESE 8/CHIESA"
+    },
+    {
+        "id": "1274",
+        "name": "SAN CARLO DI CESE/CAPOLINEA"
+    },
+    {
+        "id": "1275",
+        "name": "SAN CARLO DI CESE 2/CHIESA"
+    },
+    {
+        "id": "1276",
+        "name": "SAN CARLO DI CESE 3"
+    },
+    {
+        "id": "1277",
+        "name": "SAN CARLO DI CESE 5/FERREN"
+    },
+    {
+        "id": "1278",
+        "name": "SAN CARLO DI CESE 6/SPOTTI"
+    },
+    {
+        "id": "1279",
+        "name": "SAN CARLO DI CESE 7/OGGIA'"
+    },
+    {
+        "id": "1280",
+        "name": "SAN CARLO DI CESE 8"
+    },
+    {
+        "id": "1281",
+        "name": "SAN CARLO DI CESE 9"
+    },
+    {
+        "id": "1282",
+        "name": "CARPENARA 1"
+    },
+    {
+        "id": "1283",
+        "name": "CARPENARA 2"
+    },
+    {
+        "id": "1284",
+        "name": "CARPENARA 3"
+    },
+    {
+        "id": "1285",
+        "name": "CARPENARA 5"
+    },
+    {
+        "id": "1286",
+        "name": "CARPENARA 7"
+    },
+    {
+        "id": "1287",
+        "name": "CARPENARA 8/PROFONDO"
+    },
+    {
+        "id": "1288",
+        "name": "CARPENARA 9/GRANARA FS"
+    },
+    {
+        "id": "1289",
+        "name": "VARENNA 1/TRE PONTI"
+    },
+    {
+        "id": "1290",
+        "name": "VARENNA 2"
+    },
+    {
+        "id": "1291",
+        "name": "VARENNA 3"
+    },
+    {
+        "id": "1292",
+        "name": "VARENNA 4/PONTE COLLA"
+    },
+    {
+        "id": "1293",
+        "name": "OPISSO 1/CIALLI"
+    },
+    {
+        "id": "1294",
+        "name": "CIMITERO DI RIVAROLO"
+    },
+    {
+        "id": "1295",
+        "name": "VEZZANI 3/STUGGIA"
+    },
+    {
+        "id": "1296",
+        "name": "CHIESA DI MURTA/CAPOLINEA"
+    },
+    {
+        "id": "1297",
+        "name": "DOGE DA MURTA 1"
+    },
+    {
+        "id": "1298",
+        "name": "DOGE DA MURTA 2/ASILO"
+    },
+    {
+        "id": "1299",
+        "name": "DOGE DA MURTA 3"
+    },
+    {
+        "id": "1300",
+        "name": "MASSUCCONE MAZZINI 1/MONFENERA"
+    },
+    {
+        "id": "1301",
+        "name": "MASSUCCONE MAZZINI 2/SCUOLE"
+    },
+    {
+        "id": "1302",
+        "name": "MASSUCCONE MAZZINI 3"
+    },
+    {
+        "id": "1303",
+        "name": "MASSUCCONE MAZZINI 4"
+    },
+    {
+        "id": "1304",
+        "name": "MASSUCCONE MAZZINI 6"
+    },
+    {
+        "id": "1305",
+        "name": "MASSUCCONE MAZZINI 7"
+    },
+    {
+        "id": "1306",
+        "name": "CUSTO/RISSOTTO"
+    },
+    {
+        "id": "1307",
+        "name": "BOLZANETO 3/PASTORINO"
+    },
+    {
+        "id": "1308",
+        "name": "CUSTO/BOLZANETO FS"
+    },
+    {
+        "id": "1309",
+        "name": "MASSUCCONE MAZZINI 1"
+    },
+    {
+        "id": "1310",
+        "name": "MASSUCCONE MAZZINI 2"
+    },
+    {
+        "id": "1311",
+        "name": "MASSUCCONE MAZZINI 4"
+    },
+    {
+        "id": "1312",
+        "name": "MASSUCCONE MAZZINI 5"
+    },
+    {
+        "id": "1313",
+        "name": "MASSUCCONE MAZZINI 6/SCUOLE"
+    },
+    {
+        "id": "1314",
+        "name": "MASSUCCONE MAZZINI 7/MONFENERA"
+    },
+    {
+        "id": "1315",
+        "name": "DOGE DA MURTA 1"
+    },
+    {
+        "id": "1316",
+        "name": "DOGE DA MURTA 2/ASILO"
+    },
+    {
+        "id": "1317",
+        "name": "DOGE DA MURTA 3"
+    },
+    {
+        "id": "1318",
+        "name": "CHIODO/BACHERNIA"
+    },
+    {
+        "id": "1319",
+        "name": "CHIODO 1/CAVALLO"
+    },
+    {
+        "id": "1320",
+        "name": "CHIODO 2/PIAGGIO"
+    },
+    {
+        "id": "1321",
+        "name": "PIAGGIO 1/SAN SIMONE"
+    },
+    {
+        "id": "1322",
+        "name": "PIAGGIO 2/PREVE"
+    },
+    {
+        "id": "1323",
+        "name": "PIAGGIO 3"
+    },
+    {
+        "id": "1324",
+        "name": "PIAGGIO 4/VILLA MARIA"
+    },
+    {
+        "id": "1325",
+        "name": "PIAGGIO 5/MARCO POLO"
+    },
+    {
+        "id": "1328",
+        "name": "CANCELLIERE 4/FERRARI"
+    },
+    {
+        "id": "1329",
+        "name": "CANCELLIERE 5/BARSANTI"
+    },
+    {
+        "id": "1330",
+        "name": "BARSANTI/PONTE CAFFARO"
+    },
+    {
+        "id": "1331",
+        "name": "VILLA/SPIANATA CASTELLETTO"
+    },
+    {
+        "id": "1332",
+        "name": "CASTELLETTO/SPIANATA"
+    },
+    {
+        "id": "1333",
+        "name": "ACQUARONE 1/PONTE CAFFARO"
+    },
+    {
+        "id": "1334",
+        "name": "ACQUARONE 2/FERRARI"
+    },
+    {
+        "id": "1335",
+        "name": "ACQUARONE 3/CABRINI"
+    },
+    {
+        "id": "1336",
+        "name": "CANCELLIERE 1/CAVALLO"
+    },
+    {
+        "id": "1337",
+        "name": "CANCELLIERE 2/PANE"
+    },
+    {
+        "id": "1340",
+        "name": "PIAGGIO 1/MARCO POLO"
+    },
+    {
+        "id": "1341",
+        "name": "PIAGGIO 2/VILLA MARIA"
+    },
+    {
+        "id": "1342",
+        "name": "PIAGGIO 3"
+    },
+    {
+        "id": "1343",
+        "name": "PIAGGIO 4/PREVE"
+    },
+    {
+        "id": "1344",
+        "name": "PIAGGIO 5/SAN SIMONE"
+    },
+    {
+        "id": "1345",
+        "name": "CHIODO 1/PIAGGIO"
+    },
+    {
+        "id": "1346",
+        "name": "CHIODO 2/CAVALLO"
+    },
+    {
+        "id": "1347",
+        "name": "CARTAGENOVA/CAPOLINEA"
+    },
+    {
+        "id": "1348",
+        "name": "SAN FELICE 1/CADEIA"
+    },
+    {
+        "id": "1349",
+        "name": "SAN FELICE 2/PERDONO"
+    },
+    {
+        "id": "1350",
+        "name": "SAN FELICE 3/MANEGGIO"
+    },
+    {
+        "id": "1351",
+        "name": "SAN FELICE 4/FONTANELLA"
+    },
+    {
+        "id": "1352",
+        "name": "SAN FELICE 5/OLIVO"
+    },
+    {
+        "id": "1353",
+        "name": "SAN FELICE 6/BRUGHE"
+    },
+    {
+        "id": "1354",
+        "name": "SAN FELICE 7/COTELLA SUPERIORE"
+    },
+    {
+        "id": "1355",
+        "name": "SAN FELICE 8/COTELLA INFERIORE"
+    },
+    {
+        "id": "1356",
+        "name": "SAN FELICE 9/ACACIE"
+    },
+    {
+        "id": "1357",
+        "name": "SAN FELICE 10/ARIZONA"
+    },
+    {
+        "id": "1358",
+        "name": "GEIRATO 1/MOLASSANA"
+    },
+    {
+        "id": "1359",
+        "name": "GEIRATO 2/BERNARDINI"
+    },
+    {
+        "id": "1360",
+        "name": "GEIRATO 3/CODEVIOLA"
+    },
+    {
+        "id": "1361",
+        "name": "GEIRATO 4/SCUOLE"
+    },
+    {
+        "id": "1362",
+        "name": "GEIRATO 5/PASSERELLA"
+    },
+    {
+        "id": "1363",
+        "name": "GEIRATO 6"
+    },
+    {
+        "id": "1364",
+        "name": "GEIRATO 7/CARPI"
+    },
+    {
+        "id": "1365",
+        "name": "GEIRATO/CAPOLINEA"
+    },
+    {
+        "id": "1366",
+        "name": "GEIRATO 2/CARPI"
+    },
+    {
+        "id": "1367",
+        "name": "GEIRATO 3"
+    },
+    {
+        "id": "1368",
+        "name": "GEIRATO 4/PASSERELLA"
+    },
+    {
+        "id": "1369",
+        "name": "GEIRATO 5/SCUOLE"
+    },
+    {
+        "id": "1370",
+        "name": "GEIRATO 6/CODEVIOLA"
+    },
+    {
+        "id": "1371",
+        "name": "GEIRATO 7/BERNARDINI"
+    },
+    {
+        "id": "1372",
+        "name": "BERNARDINI/DI PINO"
+    },
+    {
+        "id": "1373",
+        "name": "SAN FELICE 1/MOLASSANA"
+    },
+    {
+        "id": "1374",
+        "name": "SAN FELICE 2/ARIZONA"
+    },
+    {
+        "id": "1375",
+        "name": "SAN FELICE 3/ACACIE"
+    },
+    {
+        "id": "1376",
+        "name": "SAN FELICE 4/COTELLA INFERIORE"
+    },
+    {
+        "id": "1377",
+        "name": "SAN FELICE 5/COTELLA SUPERIORE"
+    },
+    {
+        "id": "1378",
+        "name": "SAN FELICE 6/BRUGHE"
+    },
+    {
+        "id": "1379",
+        "name": "SAN FELICE 7/OLIVO"
+    },
+    {
+        "id": "1380",
+        "name": "SAN FELICE 8/FONTANELLA"
+    },
+    {
+        "id": "1381",
+        "name": "SAN FELICE 9/MANEGGIO"
+    },
+    {
+        "id": "1382",
+        "name": "SAN FELICE 10/PERDONO"
+    },
+    {
+        "id": "1383",
+        "name": "SAN FELICE 11/CADEIA"
+    },
+    {
+        "id": "1384",
+        "name": "DEL PIANO/TORTOSA"
+    },
+    {
+        "id": "1385",
+        "name": "MARASSI/STADIO"
+    },
+    {
+        "id": "1386",
+        "name": "MANDOLI/FASSICOMO"
+    },
+    {
+        "id": "1387",
+        "name": "BLIGNY/CENTRO COMMERCIALE"
+    },
+    {
+        "id": "1388",
+        "name": "TERPI 1/MOGADISCIO"
+    },
+    {
+        "id": "1389",
+        "name": "MOGADISCIO 1/MONTESIGNANO"
+    },
+    {
+        "id": "1390",
+        "name": "MOGADISCIO 2/SALITA TERPI"
+    },
+    {
+        "id": "1391",
+        "name": "MOGADISCIO 3/PASSO BUGGI"
+    },
+    {
+        "id": "1392",
+        "name": "MOGADISCIO 4/MULINO"
+    },
+    {
+        "id": "1393",
+        "name": "MOGADISCIO 5/BAIARDO"
+    },
+    {
+        "id": "1394",
+        "name": "MOGADISCIO 6/GIACALONE"
+    },
+    {
+        "id": "1395",
+        "name": "MOGADISCIO 7/ROCCHE DI BAVARI"
+    },
+    {
+        "id": "1396",
+        "name": "MOGADISCIO 8/SCUOLE"
+    },
+    {
+        "id": "1397",
+        "name": "MOGADISCIO 9/LOCALITA' MERMI"
+    },
+    {
+        "id": "1398",
+        "name": "MOGADISCIO 11/SALITA MERMI"
+    },
+    {
+        "id": "1399",
+        "name": "MOGADISCIO 12/VAL D'AVETO"
+    },
+    {
+        "id": "1401",
+        "name": "MOGADISCIO 2/VAL D'AVETO"
+    },
+    {
+        "id": "1402",
+        "name": "MOGADISCIO 3/SALITA MERMI"
+    },
+    {
+        "id": "1403",
+        "name": "MOGADISCIO 5/LOCALITA' MERMI"
+    },
+    {
+        "id": "1404",
+        "name": "MOGADISCIO 6/SCUOLE"
+    },
+    {
+        "id": "1405",
+        "name": "MOGADISCIO 7/ROCCHE DI BAVARI"
+    },
+    {
+        "id": "1406",
+        "name": "MOGADISCIO 8/GIACALONE"
+    },
+    {
+        "id": "1407",
+        "name": "MOGADISCIO 9/BAIARDO"
+    },
+    {
+        "id": "1408",
+        "name": "MOGADISCIO 10/MULINO"
+    },
+    {
+        "id": "1409",
+        "name": "MOGADISCIO 11/PASSO BUGGI"
+    },
+    {
+        "id": "1410",
+        "name": "MOGADISCIO 12/SALITA TERPI"
+    },
+    {
+        "id": "1411",
+        "name": "MOGADISCIO 13/MONTESIGNANO"
+    },
+    {
+        "id": "1412",
+        "name": "TERPI/MOGADISCIO"
+    },
+    {
+        "id": "1413",
+        "name": "BLIGNY/CENTRO COMMERCIALE"
+    },
+    {
+        "id": "1414",
+        "name": "DALMAZIA 2/GUGLIELMETTI"
+    },
+    {
+        "id": "1415",
+        "name": "PARENZO/PONTE CAMPANELLA"
+    },
+    {
+        "id": "1416",
+        "name": "MANDOLI/FASSICOMO"
+    },
+    {
+        "id": "1417",
+        "name": "MARASSI/STADIO"
+    },
+    {
+        "id": "1418",
+        "name": "TERPI 2/FARMACIA"
+    },
+    {
+        "id": "1419",
+        "name": "TERPI 3/FAMEIANO"
+    },
+    {
+        "id": "1420",
+        "name": "TERPI 4/BAILO"
+    },
+    {
+        "id": "1421",
+        "name": "TERPI 5/PAL PICCOLO"
+    },
+    {
+        "id": "1422",
+        "name": "FURLANI/MOGADISCIO"
+    },
+    {
+        "id": "1423",
+        "name": "MERLO/EDERA"
+    },
+    {
+        "id": "1424",
+        "name": "PINETTI 1/PORTAZZA"
+    },
+    {
+        "id": "1425",
+        "name": "PINETTI 2/GINESTRATO"
+    },
+    {
+        "id": "1426",
+        "name": "DANEO 1/DONATI"
+    },
+    {
+        "id": "1427",
+        "name": "DANEO 2/PEDEGOLI"
+    },
+    {
+        "id": "1428",
+        "name": "FONTANAROSSA 1/PORTAZZA"
+    },
+    {
+        "id": "1429",
+        "name": "FONTANAROSSA 2/COSTA DEI ZINI"
+    },
+    {
+        "id": "1430",
+        "name": "FONTANAROSSA 3/SALITA CHIESA"
+    },
+    {
+        "id": "1431",
+        "name": "CHIESA DI QUEZZI/CAPOLINEA"
+    },
+    {
+        "id": "1432",
+        "name": "FONTANAROSSA 1/SALITA CHIESA"
+    },
+    {
+        "id": "1433",
+        "name": "FONTANAROSSA 2/COSTA DEI ZINI"
+    },
+    {
+        "id": "1434",
+        "name": "FONTANAROSSA 3/PORTAZZA"
+    },
+    {
+        "id": "1435",
+        "name": "DANEO 1/PEDEGOLI"
+    },
+    {
+        "id": "1436",
+        "name": "DANEO 2/DONATI"
+    },
+    {
+        "id": "1437",
+        "name": "PINETTI 1/GINESTRATO"
+    },
+    {
+        "id": "1438",
+        "name": "PINETTI 2/PORTAZZA"
+    },
+    {
+        "id": "1439",
+        "name": "MERLO/CAPRIOLO"
+    },
+    {
+        "id": "1440",
+        "name": "BIANCHI 1/PERINI"
+    },
+    {
+        "id": "1441",
+        "name": "BRIGNOLE FS/CAPOLINEA"
+    },
+    {
+        "id": "1442",
+        "name": "MARTINEZ/PENDOLA"
+    },
+    {
+        "id": "1443",
+        "name": "D'ALBERTIS 2/BOZZANO"
+    },
+    {
+        "id": "1444",
+        "name": "MARCHINI 1/SOLARI"
+    },
+    {
+        "id": "1445",
+        "name": "AMARENA 1/VICO DELL'ORSO"
+    },
+    {
+        "id": "1446",
+        "name": "AMARENA 3"
+    },
+    {
+        "id": "1447",
+        "name": "AMARENA/CAPOLINEA"
+    },
+    {
+        "id": "1448",
+        "name": "AMARENA 2"
+    },
+    {
+        "id": "1449",
+        "name": "AMARENA 3/VICO DELL'ORSO"
+    },
+    {
+        "id": "1450",
+        "name": "SOLARI/CAPOLINEA"
+    },
+    {
+        "id": "1451",
+        "name": "D'ALBERTIS/BOZZANO"
+    },
+    {
+        "id": "1452",
+        "name": "CADIGHIARA 1/CASCINE"
+    },
+    {
+        "id": "1453",
+        "name": "CADIGHIARA 2/TRE PINI"
+    },
+    {
+        "id": "1454",
+        "name": "NASCHE 1/RIMESSA"
+    },
+    {
+        "id": "1455",
+        "name": "NASCHE 2/BINELLE"
+    },
+    {
+        "id": "1456",
+        "name": "NASCHE 3/COSTA"
+    },
+    {
+        "id": "1457",
+        "name": "SAN GIORGIO 1/BARILLARO"
+    },
+    {
+        "id": "1458",
+        "name": "SAN GIORGIO 2/FOSSATO"
+    },
+    {
+        "id": "1459",
+        "name": "SAN GIORGIO 3/NUELO"
+    },
+    {
+        "id": "1460",
+        "name": "SAN GIORGIO 4"
+    },
+    {
+        "id": "1461",
+        "name": "SAN GIORGIO 5/SELLA"
+    },
+    {
+        "id": "1462",
+        "name": "SAN GIORGIO 6/PIANATA"
+    },
+    {
+        "id": "1463",
+        "name": "SAN GIORGIO 7/OROBONI"
+    },
+    {
+        "id": "1464",
+        "name": "SAN GIORGIO 8/MADONNETTA"
+    },
+    {
+        "id": "1465",
+        "name": "SAN GIORGIO 9/SOTTOROCCA"
+    },
+    {
+        "id": "1466",
+        "name": "SAN GIORGIO 10/CADEROSSI"
+    },
+    {
+        "id": "1467",
+        "name": "BAVARI/FINE CORSA"
+    },
+    {
+        "id": "1468",
+        "name": "BAVARI/CHIESA"
+    },
+    {
+        "id": "1469",
+        "name": "SAN GIORGIO 1/CADEROSSI"
+    },
+    {
+        "id": "1470",
+        "name": "SAN GIORGIO 2/SOTTOROCCA"
+    },
+    {
+        "id": "1471",
+        "name": "SAN GIORGIO 3/MADONNETTA"
+    },
+    {
+        "id": "1472",
+        "name": "SAN GIORGIO 4/OROBONI"
+    },
+    {
+        "id": "1473",
+        "name": "SAN GIORGIO 5/PIANATA"
+    },
+    {
+        "id": "1474",
+        "name": "SAN GIORGIO 6/SELLA"
+    },
+    {
+        "id": "1475",
+        "name": "SAN GIORGIO 7"
+    },
+    {
+        "id": "1476",
+        "name": "SAN GIORGIO 8/NUELO"
+    },
+    {
+        "id": "1477",
+        "name": "SAN GIORGIO 9/FOSSATO"
+    },
+    {
+        "id": "1478",
+        "name": "SAN GIORGIO 10/BARILLARO"
+    },
+    {
+        "id": "1479",
+        "name": "NASCHE 3/COSTA"
+    },
+    {
+        "id": "1480",
+        "name": "NASCHE 4/BINELLE"
+    },
+    {
+        "id": "1481",
+        "name": "NASCHE 5/RIMESSA"
+    },
+    {
+        "id": "1482",
+        "name": "CADIGHIARA 2/TRE PINI"
+    },
+    {
+        "id": "1483",
+        "name": "CADIGHIARA 3/CASCINE"
+    },
+    {
+        "id": "1484",
+        "name": "ROTONDA/TANINI"
+    },
+    {
+        "id": "1485",
+        "name": "SULFUREE 2/AUTOSTRADA"
+    },
+    {
+        "id": "1486",
+        "name": "SAN DESIDERIO/CAPOLINEA"
+    },
+    {
+        "id": "1487",
+        "name": "BISAGNO/TERRE ROSSE"
+    },
+    {
+        "id": "1488",
+        "name": "NASCHE 1/CHIESA"
+    },
+    {
+        "id": "1489",
+        "name": "NASCHE 2"
+    },
+    {
+        "id": "1490",
+        "name": "PROVVIDENZA/AVEZZANA"
+    },
+    {
+        "id": "1492",
+        "name": "NASCHE 4"
+    },
+    {
+        "id": "1493",
+        "name": "NASCHE 5/CHIESA"
+    },
+    {
+        "id": "1494",
+        "name": "BISAGNO/TERRE ROSSE"
+    },
+    {
+        "id": "1495",
+        "name": "SAN DESIDERIO/FINE CORSA"
+    },
+    {
+        "id": "1496",
+        "name": "APPARIZIONE/CIMITERO"
+    },
+    {
+        "id": "1497",
+        "name": "PITTO/MONTE FASCE"
+    },
+    {
+        "id": "1498",
+        "name": "OLIVIERI 1/ORATORIO"
+    },
+    {
+        "id": "1499",
+        "name": "OLIVIERI 2/CROCE ROSSA"
+    },
+    {
+        "id": "1500",
+        "name": "OLIVIERI 3/BOCCIARDO"
+    },
+    {
+        "id": "1501",
+        "name": "MONACO SIMONE 1/BASTIA"
+    },
+    {
+        "id": "1502",
+        "name": "MONACO SIMONE 2/PENEGO"
+    },
+    {
+        "id": "1503",
+        "name": "TANINI 1/FONTANA"
+    },
+    {
+        "id": "1504",
+        "name": "TANINI 2/PONTEVECCHIO"
+    },
+    {
+        "id": "1505",
+        "name": "TANINI 3/BOCCIARDO"
+    },
+    {
+        "id": "1506",
+        "name": "TANINI 4/PICA"
+    },
+    {
+        "id": "1507",
+        "name": "TANINI 5/CIANCIULLO"
+    },
+    {
+        "id": "1508",
+        "name": "TANINI 6/POSALUNGA"
+    },
+    {
+        "id": "1509",
+        "name": "TANINI 1/POSALUNGA"
+    },
+    {
+        "id": "1510",
+        "name": "TANINI 2/CIANCIULLO"
+    },
+    {
+        "id": "1511",
+        "name": "TANINI 3/PICA"
+    },
+    {
+        "id": "1512",
+        "name": "TANINI 4/BOCCIARDO"
+    },
+    {
+        "id": "1513",
+        "name": "TANINI 5/PONTEVECCHIO"
+    },
+    {
+        "id": "1514",
+        "name": "TANINI 6/FONTANA"
+    },
+    {
+        "id": "1515",
+        "name": "MONACO SIMONE 1/PENEGO"
+    },
+    {
+        "id": "1516",
+        "name": "MONACO SIMONE 3/BASTIA"
+    },
+    {
+        "id": "1517",
+        "name": "OLIVIERI 1/BOCCIARDO"
+    },
+    {
+        "id": "1518",
+        "name": "OLIVIERI 2/CROCE ROSSA"
+    },
+    {
+        "id": "1519",
+        "name": "OLIVIERI 3/ORATORIO"
+    },
+    {
+        "id": "1520",
+        "name": "PITTO/MONTE FASCE"
+    },
+    {
+        "id": "1521",
+        "name": "GIOVANNI XXIII/CAPOLINEA"
+    },
+    {
+        "id": "1522",
+        "name": "GIOVANNI XXIII 1"
+    },
+    {
+        "id": "1523",
+        "name": "GIOVANNI XXIII 2"
+    },
+    {
+        "id": "1524",
+        "name": "GIOVANNI XXIII 3"
+    },
+    {
+        "id": "1525",
+        "name": "GIOVANNI XXIII 4"
+    },
+    {
+        "id": "1526",
+        "name": "GIOVANNI XXIII 1"
+    },
+    {
+        "id": "1527",
+        "name": "GIOVANNI XXIII 2"
+    },
+    {
+        "id": "1528",
+        "name": "GIOVANNI XXIII 3"
+    },
+    {
+        "id": "1529",
+        "name": "GIOVANNI XXIII 4"
+    },
+    {
+        "id": "1530",
+        "name": "TIGULLIO/CAMPANULE"
+    },
+    {
+        "id": "1531",
+        "name": "SAFFI 1/ORTIZ"
+    },
+    {
+        "id": "1534",
+        "name": "PRINCIPE FS/CAPOLINEA"
+    },
+    {
+        "id": "1535",
+        "name": "MENOTTI 1/SOLIMAN"
+    },
+    {
+        "id": "1537",
+        "name": "BALBI 2/SANTA BRIGIDA"
+    },
+    {
+        "id": "1538",
+        "name": "CARNIA 1/CELESIA"
+    },
+    {
+        "id": "1539",
+        "name": "CARNIA 2/TOFANE"
+    },
+    {
+        "id": "1540",
+        "name": "TOFANE 1/AUTOSTRADA"
+    },
+    {
+        "id": "1541",
+        "name": "TOFANE 2"
+    },
+    {
+        "id": "1542",
+        "name": "TOFANE 3"
+    },
+    {
+        "id": "1543",
+        "name": "PALLAVICINI/CAPOLINEA"
+    },
+    {
+        "id": "1544",
+        "name": "PIACENZA 11/RESASCO"
+    },
+    {
+        "id": "1545",
+        "name": "PIACENZA 2/RESASCO"
+    },
+    {
+        "id": "1546",
+        "name": "OBERDAN 3/PONTE DI NERVI"
+    },
+    {
+        "id": "1547",
+        "name": "BARACCA/SESTRI"
+    },
+    {
+        "id": "1549",
+        "name": "BIANCHI 2/BAGNASCO"
+    },
+    {
+        "id": "1551",
+        "name": "SOMMA 2/NOFFI"
+    },
+    {
+        "id": "1552",
+        "name": "OSPEDALE SAN MARTINO/PASTORE"
+    },
+    {
+        "id": "1553",
+        "name": "TURCHINO 1/MONTANELLA"
+    },
+    {
+        "id": "1554",
+        "name": "STALLO 3/TAVELLA"
+    },
+    {
+        "id": "1558",
+        "name": "CICLAMINI 8/ANEMONI"
+    },
+    {
+        "id": "1559",
+        "name": "ANEMONI/COSTA D'ORECCHIA"
+    },
+    {
+        "id": "1560",
+        "name": "CICLAMINI 9/ANEMONI"
+    },
+    {
+        "id": "1563",
+        "name": "DE MARI"
+    },
+    {
+        "id": "1564",
+        "name": "SANREMO/BORDIGHERA"
+    },
+    {
+        "id": "1565",
+        "name": "DIANO MARINA 3/MURTOLA"
+    },
+    {
+        "id": "1566",
+        "name": "DIANO MARINA 2"
+    },
+    {
+        "id": "1567",
+        "name": "DIANO MARINA 1/MURTOLA"
+    },
+    {
+        "id": "1568",
+        "name": "MURTOLA/SANREMO"
+    },
+    {
+        "id": "1570",
+        "name": "FERREIRA/OSSERVATORIO"
+    },
+    {
+        "id": "1571",
+        "name": "MASSUCCONE MAZZINI 3"
+    },
+    {
+        "id": "1572",
+        "name": "MASSUCCONE MAZZINI 5"
+    },
+    {
+        "id": "1573",
+        "name": "ARMELLINI 1/ISTITUTO CHIOSSONE"
+    },
+    {
+        "id": "1574",
+        "name": "DOGALI 2/KASSALA"
+    },
+    {
+        "id": "1575",
+        "name": "ASILO GARBARINO 2"
+    },
+    {
+        "id": "1576",
+        "name": "ASILO GARBARINO 4"
+    },
+    {
+        "id": "1577",
+        "name": "CANEPA 1/MALMISTRA"
+    },
+    {
+        "id": "1578",
+        "name": "CANEPA 2/MALMISTRA"
+    },
+    {
+        "id": "1580",
+        "name": "DANTE 1/DE FERRARI"
+    },
+    {
+        "id": "1581",
+        "name": "VESPUCCI/CAPOLINEA"
+    },
+    {
+        "id": "1582",
+        "name": "VESPUCCI 1/CIVITALI"
+    },
+    {
+        "id": "1583",
+        "name": "VESPUCCI 2"
+    },
+    {
+        "id": "1584",
+        "name": "VESPUCCI 3/PRESTINARI"
+    },
+    {
+        "id": "1586",
+        "name": "MARTIRI LIBERTA'/DE NICOLAY"
+    },
+    {
+        "id": "1587",
+        "name": "PONCHIELLI/PEGLI FS"
+    },
+    {
+        "id": "1588",
+        "name": "PAVIA/BONAVINO"
+    },
+    {
+        "id": "1589",
+        "name": "RICASOLI/BONAVINO"
+    },
+    {
+        "id": "1590",
+        "name": "ROVETTA/TARIGO"
+    },
+    {
+        "id": "1591",
+        "name": "PRESTINARI/RICASOLI"
+    },
+    {
+        "id": "1592",
+        "name": "VESPUCCI 1"
+    },
+    {
+        "id": "1593",
+        "name": "VESPUCCI 2/CIVITALI"
+    },
+    {
+        "id": "1595",
+        "name": "TAGGIA/PRA'"
+    },
+    {
+        "id": "1596",
+        "name": "BRANEGA 1/AUTOSTRADA"
+    },
+    {
+        "id": "1597",
+        "name": "BRANEGA 2/CAMPO SPORTIVO"
+    },
+    {
+        "id": "1598",
+        "name": "STASSANO 1"
+    },
+    {
+        "id": "1599",
+        "name": "STASSANO 2"
+    },
+    {
+        "id": "1600",
+        "name": "STASSANO/CAPOLINEA"
+    },
+    {
+        "id": "1601",
+        "name": "STASSANO 1"
+    },
+    {
+        "id": "1602",
+        "name": "STASSANO 2"
+    },
+    {
+        "id": "1603",
+        "name": "BRANEGA 1/CAMPO SPORTIVO"
+    },
+    {
+        "id": "1604",
+        "name": "BRANEGA 2/AUTOSTRADA"
+    },
+    {
+        "id": "1605",
+        "name": "TAGGIA/PRA'"
+    },
+    {
+        "id": "1606",
+        "name": "RUBENS/CERUSA"
+    },
+    {
+        "id": "1607",
+        "name": "VILLA GAVOTTI 1/GIARDINI"
+    },
+    {
+        "id": "1608",
+        "name": "VILLA GAVOTTI 2/PISCINA"
+    },
+    {
+        "id": "1609",
+        "name": "VILLA GAVOTTI/CAPOLINEA"
+    },
+    {
+        "id": "1610",
+        "name": "VILLA GAVOTTI 1/PISCINA"
+    },
+    {
+        "id": "1611",
+        "name": "VILLA GAVOTTI 2/GIARDINI"
+    },
+    {
+        "id": "1612",
+        "name": "MONNET/STADIO"
+    },
+    {
+        "id": "1613",
+        "name": "LODI 3"
+    },
+    {
+        "id": "1614",
+        "name": "VERITA'/LERDA"
+    },
+    {
+        "id": "1615",
+        "name": "ROMANA DI VOLTRI 1/NERVALLO"
+    },
+    {
+        "id": "1616",
+        "name": "ROMANA DI VOLTRI 2"
+    },
+    {
+        "id": "1617",
+        "name": "ROMANA DI VOLTRI 3/SORIA"
+    },
+    {
+        "id": "1618",
+        "name": "ROMANA DI VOLTRI 4"
+    },
+    {
+        "id": "1619",
+        "name": "ROMANA DI VOLTRI 5/CANEPA"
+    },
+    {
+        "id": "1620",
+        "name": "NUOVA DI CREVARI 1"
+    },
+    {
+        "id": "1621",
+        "name": "NUOVA DI CREVARI 2"
+    },
+    {
+        "id": "1622",
+        "name": "NUOVA DI CREVARI 3/GAINOTTI"
+    },
+    {
+        "id": "1623",
+        "name": "NUOVA DI CREVARI 4"
+    },
+    {
+        "id": "1624",
+        "name": "NUOVA DI CREVARI 5/FONTANA"
+    },
+    {
+        "id": "1625",
+        "name": "CREVARI/FINE CORSA"
+    },
+    {
+        "id": "1626",
+        "name": "CREVARI/CAPOLINEA"
+    },
+    {
+        "id": "1627",
+        "name": "NUOVA DI CREVARI 1/FONTANA"
+    },
+    {
+        "id": "1628",
+        "name": "NUOVA DI CREVARI 2"
+    },
+    {
+        "id": "1629",
+        "name": "NUOVA DI CREVARI 3/GAINOTTI"
+    },
+    {
+        "id": "1630",
+        "name": "NUOVA DI CREVARI 4"
+    },
+    {
+        "id": "1631",
+        "name": "NUOVA DI CREVARI 5"
+    },
+    {
+        "id": "1632",
+        "name": "ROMANA DI VOLTRI 1/CANEPA"
+    },
+    {
+        "id": "1633",
+        "name": "ROMANA DI VOLTRI 2"
+    },
+    {
+        "id": "1634",
+        "name": "ROMANA DI VOLTRI 3/SORIA"
+    },
+    {
+        "id": "1635",
+        "name": "ROMANA DI VOLTRI 4"
+    },
+    {
+        "id": "1636",
+        "name": "ROMANA DI VOLTRI 5/NERVALLO"
+    },
+    {
+        "id": "1637",
+        "name": "FABBRICHE 1"
+    },
+    {
+        "id": "1638",
+        "name": "FABBRICHE 2"
+    },
+    {
+        "id": "1639",
+        "name": "FABBRICHE 3/BRIGNA"
+    },
+    {
+        "id": "1640",
+        "name": "FABBRICHE 4/ACQUEDOTTO"
+    },
+    {
+        "id": "1641",
+        "name": "FABBRICHE 5"
+    },
+    {
+        "id": "1642",
+        "name": "FABBRICHE 6/CHIALE"
+    },
+    {
+        "id": "1643",
+        "name": "FABBRICHE 7/CHIESA DI CHIALE"
+    },
+    {
+        "id": "1644",
+        "name": "FABBRICHE 8/AUTOSTRADA"
+    },
+    {
+        "id": "1645",
+        "name": "FABBRICHE 9"
+    },
+    {
+        "id": "1646",
+        "name": "FABBRICHE 10"
+    },
+    {
+        "id": "1647",
+        "name": "FABBRICHE 11"
+    },
+    {
+        "id": "1648",
+        "name": "FABBRICHE 12"
+    },
+    {
+        "id": "1649",
+        "name": "FABBRICHE 13"
+    },
+    {
+        "id": "1650",
+        "name": "FABBRICHE 14/SCUOLE"
+    },
+    {
+        "id": "1651",
+        "name": "FABBRICHE 15/CHIESA"
+    },
+    {
+        "id": "1652",
+        "name": "FIORINO 1/COSTA DEL VENTO"
+    },
+    {
+        "id": "1653",
+        "name": "FIORINO 2/SAMBUCO"
+    },
+    {
+        "id": "1654",
+        "name": "FIORINO 3"
+    },
+    {
+        "id": "1655",
+        "name": "FIORINO 4/TIRO A VOLO"
+    },
+    {
+        "id": "1656",
+        "name": "FIORINO 5"
+    },
+    {
+        "id": "1657",
+        "name": "FIORINO/FINE CORSA"
+    },
+    {
+        "id": "1658",
+        "name": "FIORINO/CAPOLINEA"
+    },
+    {
+        "id": "1659",
+        "name": "FIORINO 1"
+    },
+    {
+        "id": "1660",
+        "name": "FIORINO 2/TIRO A VOLO"
+    },
+    {
+        "id": "1661",
+        "name": "FIORINO 3"
+    },
+    {
+        "id": "1662",
+        "name": "FIORINO 4/SAMBUCO"
+    },
+    {
+        "id": "1663",
+        "name": "FIORINO 5/COSTA DEL VENTO"
+    },
+    {
+        "id": "1664",
+        "name": "FABBRICHE 1/CHIESA"
+    },
+    {
+        "id": "1665",
+        "name": "FABBRICHE 2/SCUOLE"
+    },
+    {
+        "id": "1666",
+        "name": "FABBRICHE 3"
+    },
+    {
+        "id": "1667",
+        "name": "FABBRICHE 4"
+    },
+    {
+        "id": "1668",
+        "name": "FABBRICHE 5"
+    },
+    {
+        "id": "1669",
+        "name": "FABBRICHE 6"
+    },
+    {
+        "id": "1670",
+        "name": "FABBRICHE 7"
+    },
+    {
+        "id": "1671",
+        "name": "FABBRICHE 8/AUTOSTRADA"
+    },
+    {
+        "id": "1672",
+        "name": "FABBRICHE 9/CHIESA DI CHIALE"
+    },
+    {
+        "id": "1673",
+        "name": "FABBRICHE 10/CHIALE"
+    },
+    {
+        "id": "1674",
+        "name": "FABBRICHE 11"
+    },
+    {
+        "id": "1675",
+        "name": "FABBRICHE 12/ACQUEDOTTO"
+    },
+    {
+        "id": "1676",
+        "name": "FABBRICHE 13/BRIGNA"
+    },
+    {
+        "id": "1677",
+        "name": "FABBRICHE 14"
+    },
+    {
+        "id": "1678",
+        "name": "FABBRICHE 15"
+    },
+    {
+        "id": "1679",
+        "name": "FABBRICHE/CAPOLINEA"
+    },
+    {
+        "id": "1680",
+        "name": "LEMERLE 1/SANT'AMBROGIO"
+    },
+    {
+        "id": "1681",
+        "name": "LEMERLE 2/AUTOSTRADA"
+    },
+    {
+        "id": "1682",
+        "name": "OVADA 1/LIBIA"
+    },
+    {
+        "id": "1683",
+        "name": "OVADA 2/CIMITERO DI VOLTRI"
+    },
+    {
+        "id": "1684",
+        "name": "OVADA 3/CORVI"
+    },
+    {
+        "id": "1685",
+        "name": "ACQUASANTA 1/OVADA"
+    },
+    {
+        "id": "1686",
+        "name": "ACQUASANTA 3"
+    },
+    {
+        "id": "1687",
+        "name": "ACQUASANTA 4"
+    },
+    {
+        "id": "1688",
+        "name": "ACQUASANTA 5/CECCA"
+    },
+    {
+        "id": "1689",
+        "name": "ACQUASANTA 6"
+    },
+    {
+        "id": "1690",
+        "name": "ACQUASANTA 7"
+    },
+    {
+        "id": "1691",
+        "name": "ACQUASANTA 8"
+    },
+    {
+        "id": "1692",
+        "name": "ACQUASANTA 9"
+    },
+    {
+        "id": "1693",
+        "name": "ACQUASANTA 10"
+    },
+    {
+        "id": "1694",
+        "name": "ACQUASANTA 11/CORZETTI"
+    },
+    {
+        "id": "1695",
+        "name": "ACQUASANTA 12/BAIARDA"
+    },
+    {
+        "id": "1696",
+        "name": "ACQUASANTA/SANTUARIO"
+    },
+    {
+        "id": "1697",
+        "name": "ACQUASANTA 1/BAIARDA"
+    },
+    {
+        "id": "1698",
+        "name": "ACQUASANTA 2/CORZETTI"
+    },
+    {
+        "id": "1699",
+        "name": "ACQUASANTA 3"
+    },
+    {
+        "id": "1700",
+        "name": "ACQUASANTA 4"
+    },
+    {
+        "id": "1701",
+        "name": "ACQUASANTA 5"
+    },
+    {
+        "id": "1702",
+        "name": "ACQUASANTA 6"
+    },
+    {
+        "id": "1703",
+        "name": "ACQUASANTA 7"
+    },
+    {
+        "id": "1704",
+        "name": "ACQUASANTA 8/CECCA"
+    },
+    {
+        "id": "1705",
+        "name": "ACQUASANTA 9"
+    },
+    {
+        "id": "1706",
+        "name": "ACQUASANTA 10"
+    },
+    {
+        "id": "1707",
+        "name": "ACQUASANTA 12/OVADA"
+    },
+    {
+        "id": "1708",
+        "name": "OVADA 1/CORVI"
+    },
+    {
+        "id": "1709",
+        "name": "OVADA 2/CIMITERO DI VOLTRI"
+    },
+    {
+        "id": "1710",
+        "name": "OVADA 3/LIBIA"
+    },
+    {
+        "id": "1711",
+        "name": "LEMERLE/AUTOSTRADA"
+    },
+    {
+        "id": "1712",
+        "name": "BUFFA 1/POERIO"
+    },
+    {
+        "id": "1713",
+        "name": "BUFFA 2/SCUOLA D'ALBERTIS"
+    },
+    {
+        "id": "1718",
+        "name": "AEROPORTO/ARRIVI"
+    },
+    {
+        "id": "1720",
+        "name": "SAVIO/CORNIGLIANO FS"
+    },
+    {
+        "id": "1725",
+        "name": "SESSANTA/CAPOLINEA"
+    },
+    {
+        "id": "1726",
+        "name": "SESSANTA 1"
+    },
+    {
+        "id": "1727",
+        "name": "SESSANTA 2/ELSA"
+    },
+    {
+        "id": "1728",
+        "name": "MALASPINA 1/SALITA SESSANTA"
+    },
+    {
+        "id": "1729",
+        "name": "MALASPINA 2/TONALE"
+    },
+    {
+        "id": "1730",
+        "name": "TONALE/DUFOUR"
+    },
+    {
+        "id": "1731",
+        "name": "PELLIZZARI/CORNIGLIANO"
+    },
+    {
+        "id": "1734",
+        "name": "ROLLA/CAPOLINEA"
+    },
+    {
+        "id": "1737",
+        "name": "DUFOUR/CORNIGLIANO"
+    },
+    {
+        "id": "1738",
+        "name": "TONALE/DUFOUR"
+    },
+    {
+        "id": "1739",
+        "name": "MALASPINA"
+    },
+    {
+        "id": "1740",
+        "name": "SESSANTA 1/MALASPINA"
+    },
+    {
+        "id": "1741",
+        "name": "SESSANTA 2/ELSA"
+    },
+    {
+        "id": "1742",
+        "name": "SESSANTA 3"
+    },
+    {
+        "id": "1743",
+        "name": "FANTI 1/SCASSI"
+    },
+    {
+        "id": "1744",
+        "name": "FANTI 2/CARREA"
+    },
+    {
+        "id": "1745",
+        "name": "FANTI 3"
+    },
+    {
+        "id": "1746",
+        "name": "FANTI 4/CONTE DANTE"
+    },
+    {
+        "id": "1747",
+        "name": "CARREA 1/FANTI"
+    },
+    {
+        "id": "1748",
+        "name": "CARREA 2"
+    },
+    {
+        "id": "1749",
+        "name": "CARREA 3/DERCHI"
+    },
+    {
+        "id": "1750",
+        "name": "FANTI 5/SCASSI"
+    },
+    {
+        "id": "1751",
+        "name": "SAN TOMMASO/RIGON"
+    },
+    {
+        "id": "1752",
+        "name": "TARELLO/BRISCATA"
+    },
+    {
+        "id": "1753",
+        "name": "SERY 1/NEGROPONTE"
+    },
+    {
+        "id": "1754",
+        "name": "SERY 2/CATALDI"
+    },
+    {
+        "id": "1755",
+        "name": "SANTA MARIA COSTA 1/AUTOSTRADA"
+    },
+    {
+        "id": "1756",
+        "name": "SANTA MARIA COSTA 2/BONFADIO"
+    },
+    {
+        "id": "1757",
+        "name": "SANTA MARIA COSTA 2/BONFADIO"
+    },
+    {
+        "id": "1758",
+        "name": "SANTA MARIA COSTA 3/AUTOSTRADA"
+    },
+    {
+        "id": "1759",
+        "name": "S.G. BATTISTA 3/CATALDI"
+    },
+    {
+        "id": "1760",
+        "name": "SERY 1/NEGROPONTE"
+    },
+    {
+        "id": "1761",
+        "name": "SERY 2/TARELLO"
+    },
+    {
+        "id": "1762",
+        "name": "SAN TOMMASO 1/DE NOTARIS"
+    },
+    {
+        "id": "1763",
+        "name": "SAN TOMMASO 2/VADO"
+    },
+    {
+        "id": "1764",
+        "name": "DI VITTORIO/CAPOLINEA"
+    },
+    {
+        "id": "1765",
+        "name": "TOSCANELLI/RIO MALTEMPO"
+    },
+    {
+        "id": "1766",
+        "name": "S.G. BATTISTA 1/SCUOLA"
+    },
+    {
+        "id": "1767",
+        "name": "S.G. BATTISTA 2/GIORDANO"
+    },
+    {
+        "id": "1768",
+        "name": "COSTA 1/CORRADI"
+    },
+    {
+        "id": "1769",
+        "name": "COSTA 2/ORIANI"
+    },
+    {
+        "id": "1771",
+        "name": "DA PERSICO/CORRADI"
+    },
+    {
+        "id": "1772",
+        "name": "S.G. BATTISTA 1/GIORDANO"
+    },
+    {
+        "id": "1773",
+        "name": "S.G. BATTISTA 2/SCUOLA"
+    },
+    {
+        "id": "1774",
+        "name": "TOSCANELLI/RIO MALTEMPO"
+    },
+    {
+        "id": "1775",
+        "name": "PRA' 4/CORDANIERI"
+    },
+    {
+        "id": "1776",
+        "name": "CORDANIERI 1/DE CRISTOFORIS"
+    },
+    {
+        "id": "1777",
+        "name": "CORDANIERI 2/TORRAZZA"
+    },
+    {
+        "id": "1778",
+        "name": "CORDANIERI 3/FINALE"
+    },
+    {
+        "id": "1779",
+        "name": "FINALE"
+    },
+    {
+        "id": "1780",
+        "name": "QUASIMODO 1/FINALE"
+    },
+    {
+        "id": "1781",
+        "name": "QUASIMODO 2"
+    },
+    {
+        "id": "1782",
+        "name": "PAVESE 1"
+    },
+    {
+        "id": "1783",
+        "name": "PAVESE 2"
+    },
+    {
+        "id": "1784",
+        "name": "VITTORINI 1"
+    },
+    {
+        "id": "1785",
+        "name": "VITTORINI 2"
+    },
+    {
+        "id": "1786",
+        "name": "QUASIMODO 3"
+    },
+    {
+        "id": "1787",
+        "name": "QUASIMODO 4/FINALE"
+    },
+    {
+        "id": "1788",
+        "name": "UNGARETTI 6"
+    },
+    {
+        "id": "1789",
+        "name": "UNGARETTI 8/PRA'"
+    },
+    {
+        "id": "1790",
+        "name": "PEGLI FS/PONCHIELLI"
+    },
+    {
+        "id": "1791",
+        "name": "ROVETTA/MARTIRI DELLA LIBERTA'"
+    },
+    {
+        "id": "1792",
+        "name": "RIZZO 1/REXELLO"
+    },
+    {
+        "id": "1793",
+        "name": "RIZZO 2/SALGARI"
+    },
+    {
+        "id": "1794",
+        "name": "RIZZO 3/GIARDINO FIORITO"
+    },
+    {
+        "id": "1795",
+        "name": "GLICINI"
+    },
+    {
+        "id": "1796",
+        "name": "SALGARI 2"
+    },
+    {
+        "id": "1797",
+        "name": "SALGARI 3"
+    },
+    {
+        "id": "1798",
+        "name": "SALGARI 4"
+    },
+    {
+        "id": "1799",
+        "name": "SALGARI 5/UNGARETTI"
+    },
+    {
+        "id": "1800",
+        "name": "SALGARI 6/LORENZINI"
+    },
+    {
+        "id": "1801",
+        "name": "SALGARI 7"
+    },
+    {
+        "id": "1802",
+        "name": "SALGARI 8/LORENZINI"
+    },
+    {
+        "id": "1803",
+        "name": "SALGARI 9"
+    },
+    {
+        "id": "1804",
+        "name": "SALGARI 10"
+    },
+    {
+        "id": "1805",
+        "name": "SALGARI 11"
+    },
+    {
+        "id": "1806",
+        "name": "SALGARI 12"
+    },
+    {
+        "id": "1807",
+        "name": "SALGARI 13"
+    },
+    {
+        "id": "1808",
+        "name": "SALGARI 14/UNGARETTI"
+    },
+    {
+        "id": "1809",
+        "name": "SALGARI 15"
+    },
+    {
+        "id": "1810",
+        "name": "SALGARI 16"
+    },
+    {
+        "id": "1811",
+        "name": "SALGARI 17"
+    },
+    {
+        "id": "1812",
+        "name": "RIZZO 1/SALGARI"
+    },
+    {
+        "id": "1813",
+        "name": "RIZZO 2/REXELLO"
+    },
+    {
+        "id": "1814",
+        "name": "CALDESI/OSPEDALE"
+    },
+    {
+        "id": "1815",
+        "name": "LAVIOSA 1"
+    },
+    {
+        "id": "1816",
+        "name": "LAVIOSA 2"
+    },
+    {
+        "id": "1817",
+        "name": "LAVIOSA 3/UNGARETTI"
+    },
+    {
+        "id": "1818",
+        "name": "UNGARETTI 1"
+    },
+    {
+        "id": "1819",
+        "name": "UNGARETTI 2/SCARPANTO"
+    },
+    {
+        "id": "1820",
+        "name": "UNGARETTI 3"
+    },
+    {
+        "id": "1821",
+        "name": "UNGARETTI 5/SABA"
+    },
+    {
+        "id": "1822",
+        "name": "AQUILEIA/OLIVA"
+    },
+    {
+        "id": "1823",
+        "name": "MODUGNO/PORTICCIOLO"
+    },
+    {
+        "id": "1824",
+        "name": "CAMOZZINI/CERUSA"
+    },
+    {
+        "id": "1825",
+        "name": "TOSONOTTI"
+    },
+    {
+        "id": "1826",
+        "name": "GIANASSO/MORSELLI"
+    },
+    {
+        "id": "1827",
+        "name": "TURCHINO 2/PODESTA'"
+    },
+    {
+        "id": "1828",
+        "name": "TURCHINO 3/CROCE AZZURRA"
+    },
+    {
+        "id": "1829",
+        "name": "OLIVA/OSPEDALE DI SESTRI"
+    },
+    {
+        "id": "1830",
+        "name": "TURCHINO 5/SALVEMINI"
+    },
+    {
+        "id": "1831",
+        "name": "SALVEMINI 1"
+    },
+    {
+        "id": "1832",
+        "name": "SALVEMINI 2"
+    },
+    {
+        "id": "1833",
+        "name": "SALVEMINI 3/DE SANCTIS"
+    },
+    {
+        "id": "1834",
+        "name": "DE SANCTIS 1/FUNICOLARE"
+    },
+    {
+        "id": "1835",
+        "name": "DORIA/METRO' PRINCIPE"
+    },
+    {
+        "id": "1836",
+        "name": "DUE DICEMBRE 1/ADAGLIO"
+    },
+    {
+        "id": "1837",
+        "name": "DUE DICEMBRE 2"
+    },
+    {
+        "id": "1838",
+        "name": "DUE DICEMBRE 3/FARMACIA"
+    },
+    {
+        "id": "1839",
+        "name": "TURCHINO 9"
+    },
+    {
+        "id": "1840",
+        "name": "TURCHINO 10/SCUOLE"
+    },
+    {
+        "id": "1841",
+        "name": "TURCHINO 11/VIADOTTO"
+    },
+    {
+        "id": "1842",
+        "name": "TURCHINO 12/SALVEMINI"
+    },
+    {
+        "id": "1843",
+        "name": "TURCHINO 13/CRAVASCO"
+    },
+    {
+        "id": "1844",
+        "name": "TURCHINO 14/CROCE AZZURRA"
+    },
+    {
+        "id": "1845",
+        "name": "TURCHINO 15/PODESTA'"
+    },
+    {
+        "id": "1847",
+        "name": "BUFFA/CAPOLINEA"
+    },
+    {
+        "id": "1848",
+        "name": "VENTIMIGLIA 1/BUFFA"
+    },
+    {
+        "id": "1849",
+        "name": "VENTIMIGLIA 2/CHIESA"
+    },
+    {
+        "id": "1850",
+        "name": "CRAVASCO 1/CHIESA"
+    },
+    {
+        "id": "1851",
+        "name": "CRAVASCO 2"
+    },
+    {
+        "id": "1852",
+        "name": "MONTANELLA 1/CAPOLINEA"
+    },
+    {
+        "id": "1853",
+        "name": "SULFUREE/CRAVASCO"
+    },
+    {
+        "id": "1854",
+        "name": "CRAVASCO 1"
+    },
+    {
+        "id": "1855",
+        "name": "CRAVASCO 2/CHIESA"
+    },
+    {
+        "id": "1856",
+        "name": "VENTIMIGLIA 1/CHIESA"
+    },
+    {
+        "id": "1857",
+        "name": "VENTIMIGLIA 2/BUFFA"
+    },
+    {
+        "id": "1858",
+        "name": "TURCHINO 4/CRAVASCO"
+    },
+    {
+        "id": "1859",
+        "name": "TURCHINO 6/VIADOTTO"
+    },
+    {
+        "id": "1860",
+        "name": "TURCHINO 7/SCUOLE"
+    },
+    {
+        "id": "1861",
+        "name": "TURCHINO 8"
+    },
+    {
+        "id": "1862",
+        "name": "DUE DICEMBRE 1/FARMACIA"
+    },
+    {
+        "id": "1863",
+        "name": "DUE DICEMBRE 2"
+    },
+    {
+        "id": "1864",
+        "name": "DUE DICEMBRE 3/ADAGLIO"
+    },
+    {
+        "id": "1865",
+        "name": "DE SANCTIS 2/NOVELLA"
+    },
+    {
+        "id": "1866",
+        "name": "DE SANCTIS 3/FUNICOLARE"
+    },
+    {
+        "id": "1867",
+        "name": "SALVEMINI 4/DE SANCTIS"
+    },
+    {
+        "id": "1868",
+        "name": "SALVEMINI 5"
+    },
+    {
+        "id": "1869",
+        "name": "SALVEMINI 6"
+    },
+    {
+        "id": "1870",
+        "name": "PIETRA LIGURE 1/CRAVASCO"
+    },
+    {
+        "id": "1871",
+        "name": "PIETRA LIGURE 2/BARBAROSSA"
+    },
+    {
+        "id": "1872",
+        "name": "VALLECROSIA"
+    },
+    {
+        "id": "1873",
+        "name": "CALAMANDREI 1/VALLECROSIA"
+    },
+    {
+        "id": "1874",
+        "name": "CALAMANDREI 2/SCUOLE"
+    },
+    {
+        "id": "1875",
+        "name": "CALAMANDREI 3"
+    },
+    {
+        "id": "1876",
+        "name": "CALAMANDREI 4/PASTORE"
+    },
+    {
+        "id": "1877",
+        "name": "CALAMANDREI 5"
+    },
+    {
+        "id": "1878",
+        "name": "BENEDICTA 1"
+    },
+    {
+        "id": "1879",
+        "name": "BENEDICTA 2/POSTE"
+    },
+    {
+        "id": "1880",
+        "name": "VALLECROSIA"
+    },
+    {
+        "id": "1881",
+        "name": "CAMOZZINI 1/CERUSA"
+    },
+    {
+        "id": "1882",
+        "name": "CANEPA 1/DEL CARRETTO"
+    },
+    {
+        "id": "1883",
+        "name": "ACQUASANTA 11/PICCARDO"
+    },
+    {
+        "id": "1884",
+        "name": "BENEDICTA 1/POSTE"
+    },
+    {
+        "id": "1885",
+        "name": "BENEDICTA 2"
+    },
+    {
+        "id": "1886",
+        "name": "CALAMANDREI 1"
+    },
+    {
+        "id": "1887",
+        "name": "CALAMANDREI 2/PASTORE"
+    },
+    {
+        "id": "1888",
+        "name": "CALAMANDREI 3"
+    },
+    {
+        "id": "1889",
+        "name": "CALAMANDREI 4/SCUOLE"
+    },
+    {
+        "id": "1890",
+        "name": "CALAMANDREI 5/VALLECROSIA"
+    },
+    {
+        "id": "1891",
+        "name": "PIETRA LIGURE 1/BARBAROSSA"
+    },
+    {
+        "id": "1892",
+        "name": "PIETRA LIGURE 2/CHIVASSO"
+    },
+    {
+        "id": "1893",
+        "name": "PIETRA LIGURE 3/CRAVASCO"
+    },
+    {
+        "id": "1894",
+        "name": "VEZZANI 1/AUTOSTRADA"
+    },
+    {
+        "id": "1895",
+        "name": "WAGNER/CIMITERO DI RIVAROLO"
+    },
+    {
+        "id": "1896",
+        "name": "LINNEO 1/RESPIGHI"
+    },
+    {
+        "id": "1897",
+        "name": "LINNEO 2/ALBINONI"
+    },
+    {
+        "id": "1898",
+        "name": "LINNEO 3/CHERUBINI"
+    },
+    {
+        "id": "1899",
+        "name": "LINNEO 4/SCUOLE"
+    },
+    {
+        "id": "1900",
+        "name": "LINNEO 5/BIZET"
+    },
+    {
+        "id": "1901",
+        "name": "LINNEO 6/FERMI"
+    },
+    {
+        "id": "1902",
+        "name": "LINNEO 7/S.G. BATTISTA"
+    },
+    {
+        "id": "1903",
+        "name": "MARITANO 1/VIGLIERO"
+    },
+    {
+        "id": "1904",
+        "name": "MARITANO 2/BROCCHI"
+    },
+    {
+        "id": "1905",
+        "name": "MARITANO 4/CECHOV"
+    },
+    {
+        "id": "1906",
+        "name": "MARITANO 5"
+    },
+    {
+        "id": "1907",
+        "name": "MARITANO 6/CAMPO SPORTIVO"
+    },
+    {
+        "id": "1908",
+        "name": "MARITANO 7/ORTIGARA"
+    },
+    {
+        "id": "1909",
+        "name": "MARITANO 8/AUTOSTRADA"
+    },
+    {
+        "id": "1911",
+        "name": "BOLZANETO 1/ZAMPERINI"
+    },
+    {
+        "id": "1912",
+        "name": "BOLZANETO 2/CHIESA"
+    },
+    {
+        "id": "1913",
+        "name": "MARITANO 1/TEGLIA"
+    },
+    {
+        "id": "1914",
+        "name": "MARITANO 2/AUTOSTRADA"
+    },
+    {
+        "id": "1915",
+        "name": "MARITANO 3/ORTIGARA"
+    },
+    {
+        "id": "1916",
+        "name": "MARITANO 4/CAMPO SPORTIVO"
+    },
+    {
+        "id": "1917",
+        "name": "MARITANO 5"
+    },
+    {
+        "id": "1918",
+        "name": "MARITANO 6/CECHOV"
+    },
+    {
+        "id": "1919",
+        "name": "MARITANO 8/BROCCHI"
+    },
+    {
+        "id": "1920",
+        "name": "MARITANO 9/VIGLIERO"
+    },
+    {
+        "id": "1922",
+        "name": "LINNEO 2/FERMI"
+    },
+    {
+        "id": "1923",
+        "name": "LINNEO 3/BIZET"
+    },
+    {
+        "id": "1924",
+        "name": "LINNEO 4/SCUOLE"
+    },
+    {
+        "id": "1925",
+        "name": "LINNEO 6/ALBINONI"
+    },
+    {
+        "id": "1926",
+        "name": "LINNEO 7/RESPIGHI"
+    },
+    {
+        "id": "1927",
+        "name": "WAGNER/CIMITERO DI RIVAROLO"
+    },
+    {
+        "id": "1928",
+        "name": "CAMBIASO 1/VEZZANI"
+    },
+    {
+        "id": "1929",
+        "name": "CAMBIASO 2/CHIESA DI RIVAROLO"
+    },
+    {
+        "id": "1930",
+        "name": "CAMBIASO 3"
+    },
+    {
+        "id": "1931",
+        "name": "CAMBIASO 4/LINNEO"
+    },
+    {
+        "id": "1932",
+        "name": "CAMBIASO 5/OSPEDALE CELESIA"
+    },
+    {
+        "id": "1933",
+        "name": "CAMBIASO 6"
+    },
+    {
+        "id": "1934",
+        "name": "CAMBIASO 7/TOFANE"
+    },
+    {
+        "id": "1935",
+        "name": "CAMBIASO 8/RICCIOTTI"
+    },
+    {
+        "id": "1936",
+        "name": "CAMBIASO 9/BRIGNOLE"
+    },
+    {
+        "id": "1937",
+        "name": "CAMBIASO 10"
+    },
+    {
+        "id": "1938",
+        "name": "CAMBIASO 12/COSTA DI TEGLIA"
+    },
+    {
+        "id": "1939",
+        "name": "CAMBIASO 13/S.G. BATTISTA"
+    },
+    {
+        "id": "1940",
+        "name": "CAMBIASO 14/CANEVA"
+    },
+    {
+        "id": "1941",
+        "name": "CAMBIASO 15/KASMAN"
+    },
+    {
+        "id": "1942",
+        "name": "CAMBIASO 16/CANEVA ALTA"
+    },
+    {
+        "id": "1943",
+        "name": "CAMBIASO 17/CANDIA"
+    },
+    {
+        "id": "1944",
+        "name": "CAMBIASO 18/SOLEGGIATA"
+    },
+    {
+        "id": "1945",
+        "name": "CAMBIASO 19"
+    },
+    {
+        "id": "1946",
+        "name": "CAMBIASO 20"
+    },
+    {
+        "id": "1947",
+        "name": "BEGATO/CAPOLINEA"
+    },
+    {
+        "id": "1948",
+        "name": "CAMBIASO 1"
+    },
+    {
+        "id": "1949",
+        "name": "CAMBIASO 2"
+    },
+    {
+        "id": "1950",
+        "name": "CAMBIASO 3/SOLEGGIATA"
+    },
+    {
+        "id": "1951",
+        "name": "CAMBIASO 4/CANDIA"
+    },
+    {
+        "id": "1952",
+        "name": "CAMBIASO 5/CANEVA ALTA"
+    },
+    {
+        "id": "1953",
+        "name": "CAMBIASO 6/KASMAN"
+    },
+    {
+        "id": "1954",
+        "name": "CAMBIASO 7/CANEVA"
+    },
+    {
+        "id": "1955",
+        "name": "CAMBIASO 8/S.G. BATTISTA"
+    },
+    {
+        "id": "1956",
+        "name": "CAMBIASO 9/COSTA DI TEGLIA"
+    },
+    {
+        "id": "1957",
+        "name": "CAMBIASO 11"
+    },
+    {
+        "id": "1958",
+        "name": "CAMBIASO 12/BRIGNOLE"
+    },
+    {
+        "id": "1959",
+        "name": "CAMBIASO 13/RICCIOTTI"
+    },
+    {
+        "id": "1960",
+        "name": "CAMBIASO 14/TOFANE"
+    },
+    {
+        "id": "1961",
+        "name": "CAMBIASO 15"
+    },
+    {
+        "id": "1962",
+        "name": "CAMBIASO 16/OSPEDALE CELESIA"
+    },
+    {
+        "id": "1963",
+        "name": "CAMBIASO 17/LINNEO"
+    },
+    {
+        "id": "1964",
+        "name": "CAMBIASO 18"
+    },
+    {
+        "id": "1965",
+        "name": "CAMBIASO 19/CHIESA DI RIVAROLO"
+    },
+    {
+        "id": "1966",
+        "name": "CAMBIASO 20/VEZZANI"
+    },
+    {
+        "id": "1967",
+        "name": "BROCCHI/CAPOLINEA"
+    },
+    {
+        "id": "1968",
+        "name": "BROCCHI 1/PINOLLA"
+    },
+    {
+        "id": "1969",
+        "name": "BROCCHI 2/ACQUAMARSA"
+    },
+    {
+        "id": "1970",
+        "name": "BROCCHI 1/ACQUAMARSA"
+    },
+    {
+        "id": "1971",
+        "name": "BROCCHI 2/PINOLLA"
+    },
+    {
+        "id": "1972",
+        "name": "CAMPORA/CAPOLINEA"
+    },
+    {
+        "id": "1973",
+        "name": "CHIESA GEMINIANO 1"
+    },
+    {
+        "id": "1974",
+        "name": "CHIESA GEMINIANO 2"
+    },
+    {
+        "id": "1975",
+        "name": "CHIESA GEMINIANO 3"
+    },
+    {
+        "id": "1976",
+        "name": "CHIESA GEMINIANO 4"
+    },
+    {
+        "id": "1977",
+        "name": "CHIESA GEMINIANO 5/FERRARI"
+    },
+    {
+        "id": "1978",
+        "name": "CHIESA GEMINIANO 6/SCUOLA"
+    },
+    {
+        "id": "1979",
+        "name": "CHIESA GEMINIANO 7"
+    },
+    {
+        "id": "1980",
+        "name": "CHIESA GEMINIANO 8"
+    },
+    {
+        "id": "1981",
+        "name": "CHIESA GEMINIANO 9/CHIAPPERINO"
+    },
+    {
+        "id": "1982",
+        "name": "CHIESA GEMINIANO 10"
+    },
+    {
+        "id": "1983",
+        "name": "CHIESA GEMINIANO 11"
+    },
+    {
+        "id": "1984",
+        "name": "GEMINIANO 1/PINOLLA"
+    },
+    {
+        "id": "1985",
+        "name": "GEMINIANO 2/BRASILE"
+    },
+    {
+        "id": "1987",
+        "name": "GIRO DEL VENTO/GEMINIANO"
+    },
+    {
+        "id": "1988",
+        "name": "GEMINIANO 2/PINOLLA"
+    },
+    {
+        "id": "1989",
+        "name": "CHIESA GEMINIANO 1"
+    },
+    {
+        "id": "1990",
+        "name": "CHIESA GEMINIANO 2"
+    },
+    {
+        "id": "1991",
+        "name": "CHIESA GEMINIANO 3/CHIAPPERINO"
+    },
+    {
+        "id": "1992",
+        "name": "CHIESA GEMINIANO 4"
+    },
+    {
+        "id": "1993",
+        "name": "CHIESA GEMINIANO 5"
+    },
+    {
+        "id": "1994",
+        "name": "CHIESA GEMINIANO 6/SCUOLA"
+    },
+    {
+        "id": "1995",
+        "name": "CHIESA GEMINIANO 7/FERRARI"
+    },
+    {
+        "id": "1996",
+        "name": "CHIESA GEMINIANO 8"
+    },
+    {
+        "id": "1997",
+        "name": "CHIESA GEMINIANO 9"
+    },
+    {
+        "id": "1998",
+        "name": "CHIESA GEMINIANO 10"
+    },
+    {
+        "id": "1999",
+        "name": "CHIESA GEMINIANO 11"
+    },
+    {
+        "id": "2000",
+        "name": "CHIESA GEMINIANO/CAPOLINEA"
+    },
+    {
+        "id": "2001",
+        "name": "CHIESA DI MOREGO/CAPOLINEA"
+    },
+    {
+        "id": "2002",
+        "name": "MOREGO 2"
+    },
+    {
+        "id": "2003",
+        "name": "MOREGO 4/BORNETO"
+    },
+    {
+        "id": "2004",
+        "name": "GEMINIANO 1/BRASILE"
+    },
+    {
+        "id": "2005",
+        "name": "SAN BIAGIO 3"
+    },
+    {
+        "id": "2006",
+        "name": "SAN BIAGIO 4"
+    },
+    {
+        "id": "2007",
+        "name": "SAN BIAGIO 5/CHIESA"
+    },
+    {
+        "id": "2008",
+        "name": "SAN BIAGIO/CAPOLINEA"
+    },
+    {
+        "id": "2009",
+        "name": "SAN BIAGIO 1/CHIESA"
+    },
+    {
+        "id": "2010",
+        "name": "SAN BIAGIO 2"
+    },
+    {
+        "id": "2011",
+        "name": "SAN BIAGIO 3"
+    },
+    {
+        "id": "2012",
+        "name": "MOREGO 1/MORIGALLO"
+    },
+    {
+        "id": "2013",
+        "name": "MOREGO 2/BORNETO"
+    },
+    {
+        "id": "2014",
+        "name": "MOREGO 4"
+    },
+    {
+        "id": "2015",
+        "name": "MOREGO 6/CHIESA"
+    },
+    {
+        "id": "2016",
+        "name": "MOREGO 7/PORCILE"
+    },
+    {
+        "id": "2020",
+        "name": "SPINOLA/BASSI"
+    },
+    {
+        "id": "2021",
+        "name": "SARDORELLA 2/MAFFEI"
+    },
+    {
+        "id": "2022",
+        "name": "SARDORELLA 3/BOCCHETTINA"
+    },
+    {
+        "id": "2023",
+        "name": "SARDORELLA 4/PONTE CIAI"
+    },
+    {
+        "id": "2024",
+        "name": "SARDORELLA 5/BELGRANO"
+    },
+    {
+        "id": "2025",
+        "name": "BELGRANO 1/SOCIETA' OPERAIA"
+    },
+    {
+        "id": "2026",
+        "name": "BELGRANO 2"
+    },
+    {
+        "id": "2027",
+        "name": "BELGRANO 3"
+    },
+    {
+        "id": "2028",
+        "name": "CHIESA DI CREMENO/CAPOLINEA"
+    },
+    {
+        "id": "2036",
+        "name": "PAGANINI/PONTE CAFFARO"
+    },
+    {
+        "id": "2037",
+        "name": "PIAZZA DANTE/FIESCHI"
+    },
+    {
+        "id": "2038",
+        "name": "N.S. DEL GAZZO/CAPOLINEA"
+    },
+    {
+        "id": "2040",
+        "name": "ALLENDE 2"
+    },
+    {
+        "id": "2041",
+        "name": "ALLENDE 3/SCUOLE"
+    },
+    {
+        "id": "2044",
+        "name": "OPISSO 2/PIANDILUCCO"
+    },
+    {
+        "id": "2045",
+        "name": "MOLASSANA/CAPOLINEA"
+    },
+    {
+        "id": "2046",
+        "name": "MOLASSANA/CAPOLINEA"
+    },
+    {
+        "id": "2047",
+        "name": "FONTANEGLI/CHIESA"
+    },
+    {
+        "id": "2048",
+        "name": "ADAMOLI 4/MERELLO"
+    },
+    {
+        "id": "2049",
+        "name": "LODI 9"
+    },
+    {
+        "id": "2050",
+        "name": "DINEGRO/CAPOLINEA"
+    },
+    {
+        "id": "2051",
+        "name": "SAN TEODORO/FASSOLO"
+    },
+    {
+        "id": "2052",
+        "name": "ASILO GARBARINO 1/CHIABRERA"
+    },
+    {
+        "id": "2053",
+        "name": "ASILO GARBARINO 3"
+    },
+    {
+        "id": "2054",
+        "name": "ASILO GARBARINO 4/FORLI'"
+    },
+    {
+        "id": "2055",
+        "name": "ASILO GARBARINO/CAPOLINEA"
+    },
+    {
+        "id": "2056",
+        "name": "ASILO GARBARINO 2/FORLI'"
+    },
+    {
+        "id": "2057",
+        "name": "ASILO GARBARINO 3"
+    },
+    {
+        "id": "2058",
+        "name": "ASILO GARBARINO 5/CHIABRERA"
+    },
+    {
+        "id": "2059",
+        "name": "PESTARINO/CAPOLINEA"
+    },
+    {
+        "id": "2060",
+        "name": "BIANCO 1"
+    },
+    {
+        "id": "2061",
+        "name": "BIANCO 2"
+    },
+    {
+        "id": "2062",
+        "name": "BIANCO 3/SAN MARINO"
+    },
+    {
+        "id": "2063",
+        "name": "BIANCO 5/MURA DI GRANAROLO"
+    },
+    {
+        "id": "2064",
+        "name": "MURA DI GRANAROLO 1/BIANCO"
+    },
+    {
+        "id": "2065",
+        "name": "MURA DI GRANAROLO 2/BEGATO"
+    },
+    {
+        "id": "2066",
+        "name": "PIANI DI FREGOSO 1/FORTI"
+    },
+    {
+        "id": "2067",
+        "name": "PIANI DI FREGOSO 2"
+    },
+    {
+        "id": "2068",
+        "name": "PIANI DI FREGOSO 3"
+    },
+    {
+        "id": "2069",
+        "name": "FREGOSO/CAPOLINEA"
+    },
+    {
+        "id": "2070",
+        "name": "PIANI DI FREGOSO 1"
+    },
+    {
+        "id": "2071",
+        "name": "PIANI DI FREGOSO 2"
+    },
+    {
+        "id": "2072",
+        "name": "PIANI DI FREGOSO 3/FORTI"
+    },
+    {
+        "id": "2073",
+        "name": "MURA DI GRANAROLO 1/BEGATO"
+    },
+    {
+        "id": "2074",
+        "name": "MURA DI GRANAROLO 2/BIANCO"
+    },
+    {
+        "id": "2075",
+        "name": "BIANCO 6/MURA DI GRANAROLO"
+    },
+    {
+        "id": "2076",
+        "name": "BIANCO 7/SAN MARINO"
+    },
+    {
+        "id": "2077",
+        "name": "BIANCO 8"
+    },
+    {
+        "id": "2078",
+        "name": "BIANCO 9"
+    },
+    {
+        "id": "2079",
+        "name": "GRANAROLO"
+    },
+    {
+        "id": "2081",
+        "name": "BRACELLI 1/SCALINATA BRACELLI"
+    },
+    {
+        "id": "2082",
+        "name": "BRACELLI 2/LAMBOGLIA"
+    },
+    {
+        "id": "2083",
+        "name": "BRACELLI 3/CAPRIOLO"
+    },
+    {
+        "id": "2084",
+        "name": "BRACELLI 4/COPPEDE'"
+    },
+    {
+        "id": "2085",
+        "name": "BRACELLI 5/SALITA DELL'AQUILA"
+    },
+    {
+        "id": "2086",
+        "name": "BRACELLI 6/ROBINO"
+    },
+    {
+        "id": "2087",
+        "name": "LORIA 1/MAGRETTI"
+    },
+    {
+        "id": "2088",
+        "name": "LORIA 2/FEA"
+    },
+    {
+        "id": "2089",
+        "name": "LORIA 3/FRATELLI CERVI"
+    },
+    {
+        "id": "2090",
+        "name": "LORIA 4/BISCIONE 1"
+    },
+    {
+        "id": "2091",
+        "name": "LORIA 5/BISCIONE 2"
+    },
+    {
+        "id": "2092",
+        "name": "LORIA 6/BISCIONE 3"
+    },
+    {
+        "id": "2093",
+        "name": "FEA 1/BISCIONE 4"
+    },
+    {
+        "id": "2094",
+        "name": "FEA 2/BISCIONE 5"
+    },
+    {
+        "id": "2095",
+        "name": "FEA 3/BISCIONE 6"
+    },
+    {
+        "id": "2096",
+        "name": "FEA 4/EMERY"
+    },
+    {
+        "id": "2097",
+        "name": "FEA 5/LORIA"
+    },
+    {
+        "id": "2098",
+        "name": "BRACELLI 1/ROBINO"
+    },
+    {
+        "id": "2099",
+        "name": "BRACELLI 2/SALITA DELL'AQUILA"
+    },
+    {
+        "id": "2100",
+        "name": "BRACELLI 3/COPPEDE'"
+    },
+    {
+        "id": "2101",
+        "name": "BRACELLI 4/CAPRIOLO"
+    },
+    {
+        "id": "2102",
+        "name": "BRACELLI 5/LAMBOGLIA"
+    },
+    {
+        "id": "2103",
+        "name": "BRACELLI 6/PASSO BRACELLI"
+    },
+    {
+        "id": "2104",
+        "name": "CHIESA SAN CIPRIANO"
+    },
+    {
+        "id": "2105",
+        "name": "CHIESA SAN CIPRIANO"
+    },
+    {
+        "id": "2106",
+        "name": "ITALIA 6/BOCCADASSE"
+    },
+    {
+        "id": "2107",
+        "name": "MOREGO 3/IIT"
+    },
+    {
+        "id": "2108",
+        "name": "MOREGO 3/IIT"
+    },
+    {
+        "id": "2110",
+        "name": "VOLTRI FS/CAPOLINEA"
+    },
+    {
+        "id": "2111",
+        "name": "FIRENZE 1/CARBONARA"
+    },
+    {
+        "id": "2112",
+        "name": "STROZZI/FIRENZE"
+    },
+    {
+        "id": "2113",
+        "name": "STALLO 1/GUIDOBONO"
+    },
+    {
+        "id": "2114",
+        "name": "AUSONIA"
+    },
+    {
+        "id": "2115",
+        "name": "STALLO 2/AUSONIA"
+    },
+    {
+        "id": "2116",
+        "name": "STALLO 4/AUSONIA"
+    },
+    {
+        "id": "2117",
+        "name": "STROZZI/FIRENZE"
+    },
+    {
+        "id": "2118",
+        "name": "FEREGGIANO 2/BIGA"
+    },
+    {
+        "id": "2119",
+        "name": "BIGA 1"
+    },
+    {
+        "id": "2120",
+        "name": "BIGA 2/ONORATO"
+    },
+    {
+        "id": "2121",
+        "name": "BIGA 3/MASINA"
+    },
+    {
+        "id": "2122",
+        "name": "BIGA 4/BELLOTTI"
+    },
+    {
+        "id": "2123",
+        "name": "AMARENA 1/SALITA DELL'ORSO"
+    },
+    {
+        "id": "2125",
+        "name": "MARCHINI 2/AYROLI"
+    },
+    {
+        "id": "2126",
+        "name": "AYROLI/PAVERANO"
+    },
+    {
+        "id": "2127",
+        "name": "GALILEO FERRARIS/SCUOLE"
+    },
+    {
+        "id": "2128",
+        "name": "MARASSI/ROSMINI"
+    },
+    {
+        "id": "2129",
+        "name": "ROBINO 2"
+    },
+    {
+        "id": "2130",
+        "name": "ROBINO 3/ZENA"
+    },
+    {
+        "id": "2131",
+        "name": "ROBINO 4"
+    },
+    {
+        "id": "2132",
+        "name": "ROBINO 5"
+    },
+    {
+        "id": "2133",
+        "name": "ROBINO 6/FARMACIA"
+    },
+    {
+        "id": "2134",
+        "name": "ROBINO 7/GIGLIOLI"
+    },
+    {
+        "id": "2135",
+        "name": "ROBINO 8"
+    },
+    {
+        "id": "2136",
+        "name": "ROBINO 9/BRACELLI"
+    },
+    {
+        "id": "2137",
+        "name": "IMPERIALE/CAPOLINEA"
+    },
+    {
+        "id": "2138",
+        "name": "IMPERIALE 1/FASSICOMO"
+    },
+    {
+        "id": "2139",
+        "name": "DONAVER 1/IMPERIALE"
+    },
+    {
+        "id": "2140",
+        "name": "DONAVER 2/FERRETTO"
+    },
+    {
+        "id": "2141",
+        "name": "FERRETTO/SAVELLI"
+    },
+    {
+        "id": "2142",
+        "name": "TORTI/TERRALBA"
+    },
+    {
+        "id": "2143",
+        "name": "D'ALBERTIS 1/REVELLI"
+    },
+    {
+        "id": "2144",
+        "name": "SOLARI/SAVELLI"
+    },
+    {
+        "id": "2145",
+        "name": "DONAVER 1/BOZZANO"
+    },
+    {
+        "id": "2146",
+        "name": "DONAVER 2/N.S. DEL MONTE"
+    },
+    {
+        "id": "2147",
+        "name": "DONAVER 3/SAVELLI"
+    },
+    {
+        "id": "2148",
+        "name": "DONAVER 4/FERRETTO"
+    },
+    {
+        "id": "2149",
+        "name": "DONAVER 5/IMPERIALE"
+    },
+    {
+        "id": "2150",
+        "name": "IMPERIALE 1/FASSICOMO"
+    },
+    {
+        "id": "2151",
+        "name": "SAN BENEDETTO/AMBA ALAGI"
+    },
+    {
+        "id": "2154",
+        "name": "TORTONA 1"
+    },
+    {
+        "id": "2155",
+        "name": "TORTONA 2"
+    },
+    {
+        "id": "2156",
+        "name": "TORTONA 3"
+    },
+    {
+        "id": "2157",
+        "name": "TORTONA 4/ROVERETO"
+    },
+    {
+        "id": "2158",
+        "name": "TORTONA 5"
+    },
+    {
+        "id": "2159",
+        "name": "ROVERETO 1/TORTONA"
+    },
+    {
+        "id": "2160",
+        "name": "ROVERETO 2/MONTENERO"
+    },
+    {
+        "id": "2161",
+        "name": "MONTENERO 1"
+    },
+    {
+        "id": "2162",
+        "name": "MONTENERO 2/MONTE ROSA"
+    },
+    {
+        "id": "2163",
+        "name": "COSTA/PLATANI"
+    },
+    {
+        "id": "2164",
+        "name": "GARASSINI/CAPOLINEA"
+    },
+    {
+        "id": "2165",
+        "name": "BOBBIO/DA PASSANO"
+    },
+    {
+        "id": "2167",
+        "name": "SAN MARTINO STRUPPA/CAPOLINEA"
+    },
+    {
+        "id": "2168",
+        "name": "TROSSARELLI 1/GAVE"
+    },
+    {
+        "id": "2169",
+        "name": "TROSSARELLI 3/CA' DI COSTA"
+    },
+    {
+        "id": "2170",
+        "name": "TROSSARELLI 4/LOILA'"
+    },
+    {
+        "id": "2171",
+        "name": "TROSSARELLI 5/PAXO"
+    },
+    {
+        "id": "2172",
+        "name": "TROSSARELLI 6"
+    },
+    {
+        "id": "2173",
+        "name": "TROSSARELLI 7/CHIAPPA"
+    },
+    {
+        "id": "2174",
+        "name": "TROSSARELLI 8/CA' DRIELLA"
+    },
+    {
+        "id": "2175",
+        "name": "TROSSARELLI 9/SAN COSIMO"
+    },
+    {
+        "id": "2176",
+        "name": "TROSSARELLI 10/SCUOLE"
+    },
+    {
+        "id": "2177",
+        "name": "TROSSARELLI 11"
+    },
+    {
+        "id": "2178",
+        "name": "TROSSARELLI 12/CALANCA"
+    },
+    {
+        "id": "2179",
+        "name": "TROSSARELLI 13/LOGGIA"
+    },
+    {
+        "id": "2180",
+        "name": "TROSSARELLI 14/FILTRI"
+    },
+    {
+        "id": "2181",
+        "name": "TROSSARELLI 15"
+    },
+    {
+        "id": "2182",
+        "name": "TROSSARELLI 16/NOCETI"
+    },
+    {
+        "id": "2183",
+        "name": "TROSSARELLI 17/FAZIO"
+    },
+    {
+        "id": "2184",
+        "name": "TROSSARELLI 18/GAMBONIA"
+    },
+    {
+        "id": "2185",
+        "name": "CANEPA 1/ROSATA"
+    },
+    {
+        "id": "2186",
+        "name": "CANEPA 2/TORRE DI BAVARI"
+    },
+    {
+        "id": "2187",
+        "name": "CANEPA 3/COSTA"
+    },
+    {
+        "id": "2188",
+        "name": "VERRAZZANO 1"
+    },
+    {
+        "id": "2189",
+        "name": "VERRAZZANO 2/CASTAGNELLO"
+    },
+    {
+        "id": "2190",
+        "name": "VERRAZZANO 3"
+    },
+    {
+        "id": "2191",
+        "name": "VERRAZZANO 4/FUNDEGA"
+    },
+    {
+        "id": "2192",
+        "name": "VERRAZZANO 5/VILLA FERRETTO"
+    },
+    {
+        "id": "2193",
+        "name": "VERRAZZANO 6/SCUOLA"
+    },
+    {
+        "id": "2194",
+        "name": "VERRAZZANO 7/TRINCHI"
+    },
+    {
+        "id": "2195",
+        "name": "VERRAZZANO 8"
+    },
+    {
+        "id": "2196",
+        "name": "CIMITERO DI CORONATA/CAPOLINEA"
+    },
+    {
+        "id": "2197",
+        "name": "VERRAZZANO 1"
+    },
+    {
+        "id": "2198",
+        "name": "VERRAZZANO 2/TRINCHI"
+    },
+    {
+        "id": "2199",
+        "name": "VERRAZZANO 3/SCUOLA"
+    },
+    {
+        "id": "2200",
+        "name": "VERRAZZANO 4/VILLA FERRETTO"
+    },
+    {
+        "id": "2201",
+        "name": "VERRAZZANO 5/FUNDEGA"
+    },
+    {
+        "id": "2202",
+        "name": "VERRAZZANO 6"
+    },
+    {
+        "id": "2203",
+        "name": "VERRAZZANO 7/CASTAGNELLO"
+    },
+    {
+        "id": "2204",
+        "name": "VERRAZZANO 8"
+    },
+    {
+        "id": "2205",
+        "name": "CANEPA 1/COSTA"
+    },
+    {
+        "id": "2206",
+        "name": "CANEPA 2/TORRE DI BAVARI"
+    },
+    {
+        "id": "2207",
+        "name": "CANEPA 3/ROSATA"
+    },
+    {
+        "id": "2208",
+        "name": "TROSSARELLI 1/RITALE"
+    },
+    {
+        "id": "2209",
+        "name": "TROSSARELLI 2/GAMBONIA"
+    },
+    {
+        "id": "2210",
+        "name": "TROSSARELLI 3/FAZIO"
+    },
+    {
+        "id": "2211",
+        "name": "TROSSARELLI 4/NOCETI"
+    },
+    {
+        "id": "2212",
+        "name": "TROSSARELLI 5"
+    },
+    {
+        "id": "2213",
+        "name": "TROSSARELLI 6/FILTRI"
+    },
+    {
+        "id": "2214",
+        "name": "TROSSARELLI 7/LOGGIA"
+    },
+    {
+        "id": "2215",
+        "name": "TROSSARELLI 8/CALANCA"
+    },
+    {
+        "id": "2216",
+        "name": "TROSSARELLI 9"
+    },
+    {
+        "id": "2217",
+        "name": "TROSSARELLI 10/SCUOLE"
+    },
+    {
+        "id": "2218",
+        "name": "TROSSARELLI 11/SAN COSIMO"
+    },
+    {
+        "id": "2219",
+        "name": "TROSSARELLI 12/CA' DRIELLA"
+    },
+    {
+        "id": "2220",
+        "name": "TROSSARELLI 13/CHIAPPA"
+    },
+    {
+        "id": "2221",
+        "name": "TROSSARELLI 14"
+    },
+    {
+        "id": "2222",
+        "name": "TROSSARELLI 15/PAXO"
+    },
+    {
+        "id": "2223",
+        "name": "TROSSARELLI 16/LOILA'"
+    },
+    {
+        "id": "2224",
+        "name": "TROSSARELLI 17/CA' DI COSTA"
+    },
+    {
+        "id": "2225",
+        "name": "TROSSARELLI 19/GAVE"
+    },
+    {
+        "id": "2226",
+        "name": "PRELI/CAPOLINEA"
+    },
+    {
+        "id": "2227",
+        "name": "LODI 1/SECONDA CADALE"
+    },
+    {
+        "id": "2228",
+        "name": "LODI 2/PRIMA CADALE"
+    },
+    {
+        "id": "2229",
+        "name": "LODI 4"
+    },
+    {
+        "id": "2230",
+        "name": "LODI 5"
+    },
+    {
+        "id": "2231",
+        "name": "LODI 6/ASILO"
+    },
+    {
+        "id": "2232",
+        "name": "LODI 7"
+    },
+    {
+        "id": "2233",
+        "name": "LODI 8"
+    },
+    {
+        "id": "2234",
+        "name": "LODI 9"
+    },
+    {
+        "id": "2235",
+        "name": "LODI 11/SCUOLA MAZZINI"
+    },
+    {
+        "id": "2236",
+        "name": "MOGADISCIO 10/MERMI"
+    },
+    {
+        "id": "2238",
+        "name": "LODI 3"
+    },
+    {
+        "id": "2239",
+        "name": "LODI 4"
+    },
+    {
+        "id": "2240",
+        "name": "LODI 5"
+    },
+    {
+        "id": "2241",
+        "name": "LODI 6/ASILO"
+    },
+    {
+        "id": "2242",
+        "name": "LODI 7"
+    },
+    {
+        "id": "2243",
+        "name": "LODI 8"
+    },
+    {
+        "id": "2244",
+        "name": "LODI 10/PRIMA CADALE"
+    },
+    {
+        "id": "2245",
+        "name": "LODI 11/SECONDA CADALE"
+    },
+    {
+        "id": "2246",
+        "name": "RIOMAGGIORE 1/SAN GIACOMO"
+    },
+    {
+        "id": "2247",
+        "name": "RIOMAGGIORE 2"
+    },
+    {
+        "id": "2248",
+        "name": "RIOMAGGIORE 3"
+    },
+    {
+        "id": "2249",
+        "name": "RIOMAGGIORE 4"
+    },
+    {
+        "id": "2250",
+        "name": "RIOMAGGIORE 5/SAN GIACOMO"
+    },
+    {
+        "id": "2251",
+        "name": "RIOMAGGIORE 6/CADATO DI PINO"
+    },
+    {
+        "id": "2252",
+        "name": "RIOMAGGIORE 7/SCIARRETTA"
+    },
+    {
+        "id": "2253",
+        "name": "CASTELLO DI PINO 1"
+    },
+    {
+        "id": "2254",
+        "name": "CASTELLO DI PINO 2"
+    },
+    {
+        "id": "2255",
+        "name": "CASTELLO DI PINO"
+    },
+    {
+        "id": "2256",
+        "name": "CASTELLO DI PINO 1"
+    },
+    {
+        "id": "2257",
+        "name": "CASTELLO DI PINO 2"
+    },
+    {
+        "id": "2258",
+        "name": "RIOMAGGIORE 1/SCIARRETTA"
+    },
+    {
+        "id": "2259",
+        "name": "RIOMAGGIORE 2/CADATO DI PINO"
+    },
+    {
+        "id": "2260",
+        "name": "RIOMAGGIORE 3/SAN GIACOMO"
+    },
+    {
+        "id": "2261",
+        "name": "RIOMAGGIORE 4"
+    },
+    {
+        "id": "2262",
+        "name": "RIOMAGGIORE 5"
+    },
+    {
+        "id": "2263",
+        "name": "RIOMAGGIORE 6"
+    },
+    {
+        "id": "2264",
+        "name": "RIOMAGGIORE 7/SAN GIACOMO"
+    },
+    {
+        "id": "2265",
+        "name": "MONTELUNGO 1/CASTAGNATO"
+    },
+    {
+        "id": "2266",
+        "name": "MONTELUNGO 2"
+    },
+    {
+        "id": "2267",
+        "name": "MONTELUNGO 3/SALITA SERINO"
+    },
+    {
+        "id": "2268",
+        "name": "MONTELUNGO 4/SERINO"
+    },
+    {
+        "id": "2269",
+        "name": "MONTELUNGO 5/SUPERIORE ROSATA"
+    },
+    {
+        "id": "2270",
+        "name": "MONTELUNGO 6/SERRATO"
+    },
+    {
+        "id": "2271",
+        "name": "MONTELUNGO 7/CADATO"
+    },
+    {
+        "id": "2272",
+        "name": "MONTELUNGO 8"
+    },
+    {
+        "id": "2273",
+        "name": "MONTELUNGO 9/POGGIONE"
+    },
+    {
+        "id": "2274",
+        "name": "MONTELUNGO 10/BAVARI"
+    },
+    {
+        "id": "2275",
+        "name": "SAN COLOMBANO 1/COSTA BAVARI"
+    },
+    {
+        "id": "2276",
+        "name": "SAN COLOMBANO 2"
+    },
+    {
+        "id": "2277",
+        "name": "SAN COLOMBANO 3/VIGO DI FASSA"
+    },
+    {
+        "id": "2278",
+        "name": "SAN COLOMBANO 4"
+    },
+    {
+        "id": "2279",
+        "name": "FONTANEGLI/CHIESA"
+    },
+    {
+        "id": "2281",
+        "name": "SAN COLOMBANO 1"
+    },
+    {
+        "id": "2282",
+        "name": "SAN COLOMBANO 2/VIGO DI FASSA"
+    },
+    {
+        "id": "2283",
+        "name": "SAN COLOMBANO 3"
+    },
+    {
+        "id": "2284",
+        "name": "SAN COLOMBANO 4/COSTA BAVARI"
+    },
+    {
+        "id": "2285",
+        "name": "MONTELUNGO 1/BAVARI"
+    },
+    {
+        "id": "2286",
+        "name": "MONTELUNGO 2/POGGIONE"
+    },
+    {
+        "id": "2287",
+        "name": "MONTELUNGO 3"
+    },
+    {
+        "id": "2288",
+        "name": "MONTELUNGO 4/CADATO"
+    },
+    {
+        "id": "2289",
+        "name": "MONTELUNGO 5/SERRATO"
+    },
+    {
+        "id": "2290",
+        "name": "MONTELUNGO 6/SUPERIORE ROSATA"
+    },
+    {
+        "id": "2291",
+        "name": "MONTELUNGO 7/SERINO"
+    },
+    {
+        "id": "2292",
+        "name": "MONTELUNGO 8/SALITA SERINO"
+    },
+    {
+        "id": "2293",
+        "name": "MONTELUNGO 9"
+    },
+    {
+        "id": "2294",
+        "name": "MONTELUNGO 10/CASTAGNATO"
+    },
+    {
+        "id": "2295",
+        "name": "PINO SOPRANO/CHIESA"
+    },
+    {
+        "id": "2296",
+        "name": "PINO 2/COSTA DI PINO"
+    },
+    {
+        "id": "2297",
+        "name": "PINO 3/SALITA RIO MAGGIORE"
+    },
+    {
+        "id": "2298",
+        "name": "PINO 4"
+    },
+    {
+        "id": "2299",
+        "name": "PINO 5/CARPENERA"
+    },
+    {
+        "id": "2300",
+        "name": "PINO 6"
+    },
+    {
+        "id": "2301",
+        "name": "PINO 7/CA' MOSCINO"
+    },
+    {
+        "id": "2302",
+        "name": "PINO 8/CA' BERODI"
+    },
+    {
+        "id": "2303",
+        "name": "PINO 9"
+    },
+    {
+        "id": "2304",
+        "name": "PINO 10"
+    },
+    {
+        "id": "2305",
+        "name": "PINO 12/CODEVIOLA"
+    },
+    {
+        "id": "2306",
+        "name": "PINO 13/CA' DE RISSI"
+    },
+    {
+        "id": "2307",
+        "name": "ALLENDE 1/SCUOLE"
+    },
+    {
+        "id": "2308",
+        "name": "ALLENDE 2"
+    },
+    {
+        "id": "2309",
+        "name": "ALLENDE 3/PIACENZA"
+    },
+    {
+        "id": "2310",
+        "name": "PINO 1/CA' DE RISSI"
+    },
+    {
+        "id": "2311",
+        "name": "PINO 2/CODEVIOLA"
+    },
+    {
+        "id": "2312",
+        "name": "PINO 3/PINO CEMBRO"
+    },
+    {
+        "id": "2313",
+        "name": "PINO 5"
+    },
+    {
+        "id": "2314",
+        "name": "PINO 6/CA' BERODI"
+    },
+    {
+        "id": "2315",
+        "name": "PINO 7/CA' MOSCINO"
+    },
+    {
+        "id": "2316",
+        "name": "PINO 8"
+    },
+    {
+        "id": "2317",
+        "name": "PINO 9/CARPENERA"
+    },
+    {
+        "id": "2318",
+        "name": "PINO 10"
+    },
+    {
+        "id": "2319",
+        "name": "PINO 11/SALITA RIO MAGGIORE"
+    },
+    {
+        "id": "2320",
+        "name": "PINO 12/COSTA DI PINO"
+    },
+    {
+        "id": "2321",
+        "name": "PINO 14/CHIESA"
+    },
+    {
+        "id": "2322",
+        "name": "CIMITERO DI PINO"
+    },
+    {
+        "id": "2323",
+        "name": "CIMITERO DI PINO"
+    },
+    {
+        "id": "2324",
+        "name": "VALTREBBIA 1"
+    },
+    {
+        "id": "2325",
+        "name": "VALTREBBIA 2/PASSO ROCCA"
+    },
+    {
+        "id": "2326",
+        "name": "VALTREBBIA 3/CASE ROSA"
+    },
+    {
+        "id": "2327",
+        "name": "VALTREBBIA 4/GRADONI"
+    },
+    {
+        "id": "2328",
+        "name": "VALTREBBIA 5/COSTA S.EUSEBIO"
+    },
+    {
+        "id": "2329",
+        "name": "VALFONTANABUONA 1/SCIORBA"
+    },
+    {
+        "id": "2330",
+        "name": "VALFONTANABUONA 2/CAMPI"
+    },
+    {
+        "id": "2331",
+        "name": "VALFONTANABUONA 1/CAMPI"
+    },
+    {
+        "id": "2332",
+        "name": "VALFONTANABUONA 2/SCIORBA"
+    },
+    {
+        "id": "2333",
+        "name": "VALTREBBIA 1/COSTA S.EUSEBIO"
+    },
+    {
+        "id": "2334",
+        "name": "VALTREBBIA 2/GRADONI"
+    },
+    {
+        "id": "2335",
+        "name": "VALTREBBIA 3/CASE ROSA"
+    },
+    {
+        "id": "2336",
+        "name": "VALTREBBIA 4/PASSO ROCCA"
+    },
+    {
+        "id": "2337",
+        "name": "VALTREBBIA 5"
+    },
+    {
+        "id": "2338",
+        "name": "S.F. DA PAOLA"
+    },
+    {
+        "id": "2339",
+        "name": "SOLARI/CELLINI"
+    },
+    {
+        "id": "2340",
+        "name": "MARTINEZ/CAPOLINEA"
+    },
+    {
+        "id": "2346",
+        "name": "NOVELLA 1/DE SANCTIS"
+    },
+    {
+        "id": "2347",
+        "name": "NOVELLA 2/FUNICOLARE"
+    },
+    {
+        "id": "2348",
+        "name": "NOVELLA 3"
+    },
+    {
+        "id": "2349",
+        "name": "NOVELLA 1"
+    },
+    {
+        "id": "2350",
+        "name": "NOVELLA 2/FUNICOLARE"
+    },
+    {
+        "id": "2351",
+        "name": "NOVELLA 3/DE SANCTIS"
+    },
+    {
+        "id": "2352",
+        "name": "PRINCIPE FS"
+    },
+    {
+        "id": "2353",
+        "name": "BRIGNOLE FS/CAPOLINEA"
+    },
+    {
+        "id": "2354",
+        "name": "OPISSO 1/PIANDILUCCO"
+    },
+    {
+        "id": "2355",
+        "name": "CIMAROSA/GIOVANNI MAGGIO"
+    },
+    {
+        "id": "2356",
+        "name": "CAMPO 49"
+    },
+    {
+        "id": "2357",
+        "name": "BOLOGNA 2/MERCATO"
+    },
+    {
+        "id": "2358",
+        "name": "BOLOGNA 4/MERCATO"
+    },
+    {
+        "id": "2359",
+        "name": "ALMERIA/SANT'UGO"
+    },
+    {
+        "id": "2360",
+        "name": "CAMOZZINI 4/CERUSA"
+    },
+    {
+        "id": "2361",
+        "name": "DEGOLA/FIUMARA"
+    },
+    {
+        "id": "2362",
+        "name": "CICLAMINI 7/NARCISI"
+    },
+    {
+        "id": "2363",
+        "name": "SAN TEODORO/FASSOLO"
+    },
+    {
+        "id": "2365",
+        "name": "PRA' 1/BIOMEDICAL"
+    },
+    {
+        "id": "2366",
+        "name": "ASSAROTTI 3/ASL"
+    },
+    {
+        "id": "2367",
+        "name": "BAVARI/CHIESA"
+    },
+    {
+        "id": "2368",
+        "name": "MONTELUNGO 11/SAN COLOMBANO"
+    },
+    {
+        "id": "2369",
+        "name": "CANTORE 5/COL"
+    },
+    {
+        "id": "2370",
+        "name": "CARRARA 5/V MAGGIO"
+    },
+    {
+        "id": "2371",
+        "name": "CARRARA 4/GIORGIO CHIESA"
+    },
+    {
+        "id": "2372",
+        "name": "CARRARA 3/GIOVANNI MAGGIO"
+    },
+    {
+        "id": "2374",
+        "name": "CARRARA 4/TURR"
+    },
+    {
+        "id": "2375",
+        "name": "CICLAMINI 1/PRASCA"
+    },
+    {
+        "id": "2376",
+        "name": "CICLAMINI 2/DA PASSANO"
+    },
+    {
+        "id": "2377",
+        "name": "CICLAMINI 3/CAMPANULE"
+    },
+    {
+        "id": "2378",
+        "name": "CICLAMINI 4"
+    },
+    {
+        "id": "2379",
+        "name": "CICLAMINI 5/ERICHE"
+    },
+    {
+        "id": "2380",
+        "name": "CICLAMINI 6/IRIS"
+    },
+    {
+        "id": "2381",
+        "name": "CAMPANULE 3/VIOLE"
+    },
+    {
+        "id": "2382",
+        "name": "CARRARA 3/GIOVANNI MAGGIO"
+    },
+    {
+        "id": "2383",
+        "name": "CAMPANULE 2"
+    },
+    {
+        "id": "2384",
+        "name": "IRIS 3/CAMPANULE"
+    },
+    {
+        "id": "2385",
+        "name": "IRIS 2"
+    },
+    {
+        "id": "2386",
+        "name": "IRIS 1"
+    },
+    {
+        "id": "2387",
+        "name": "CICLAMINI 7/CAMPANULE"
+    },
+    {
+        "id": "2388",
+        "name": "CICLAMINI 8/DA PASSANO"
+    },
+    {
+        "id": "2390",
+        "name": "TOGLIATTI 1/EUROPA"
+    },
+    {
+        "id": "2391",
+        "name": "TOGLIATTI 2/PALLOA"
+    },
+    {
+        "id": "2392",
+        "name": "TOGLIATTI 3/DE GASPERI"
+    },
+    {
+        "id": "2393",
+        "name": "TERRACINI"
+    },
+    {
+        "id": "2394",
+        "name": "NENNI 1/PARRI"
+    },
+    {
+        "id": "2395",
+        "name": "NENNI 2/COLLE OMETTI"
+    },
+    {
+        "id": "2396",
+        "name": "DON STURZO 1"
+    },
+    {
+        "id": "2397",
+        "name": "DON STURZO 2"
+    },
+    {
+        "id": "2398",
+        "name": "TOGLIATTI 4/DE GASPERI"
+    },
+    {
+        "id": "2399",
+        "name": "TOGLIATTI 5/PALLOA"
+    },
+    {
+        "id": "2400",
+        "name": "OSPEDALE/INGRESSO PRINCIPALE"
+    },
+    {
+        "id": "2403",
+        "name": "PADIGLIONI 9-13"
+    },
+    {
+        "id": "2404",
+        "name": "MONOBLOCCO"
+    },
+    {
+        "id": "2406",
+        "name": "MARAGLIANO"
+    },
+    {
+        "id": "2408",
+        "name": "ISOLAMENTO"
+    },
+    {
+        "id": "2409",
+        "name": "DISINFEZIONE"
+    },
+    {
+        "id": "2410",
+        "name": "PADIGLIONE 8/MEDICINA"
+    },
+    {
+        "id": "2411",
+        "name": "TIMAVO/POSALUNGA"
+    },
+    {
+        "id": "2412",
+        "name": "ISONZO 1/EUROPA"
+    },
+    {
+        "id": "2413",
+        "name": "ISONZO 2/RAGAZZI DEL 99"
+    },
+    {
+        "id": "2414",
+        "name": "ISONZO 2/RAGAZZI DEL 99"
+    },
+    {
+        "id": "2415",
+        "name": "ISONZO 3/EUROPA"
+    },
+    {
+        "id": "2416",
+        "name": "TIMAVO/POSALUNGA"
+    },
+    {
+        "id": "2417",
+        "name": "CADIGHIARA/EX DAZIO"
+    },
+    {
+        "id": "2422",
+        "name": "CARRARA 2/GIORGIO CHIESA"
+    },
+    {
+        "id": "2423",
+        "name": "CARRARA 1/V MAGGIO"
+    },
+    {
+        "id": "2424",
+        "name": "MOREGO 1"
+    },
+    {
+        "id": "2425",
+        "name": "MOREGO 5"
+    },
+    {
+        "id": "2428",
+        "name": "ACQUASANTA/SANTUARIO"
+    },
+    {
+        "id": "2429",
+        "name": "ACQUASANTA FS"
+    },
+    {
+        "id": "2433",
+        "name": "CANCELLIERE 3/COSTA"
+    },
+    {
+        "id": "2435",
+        "name": "MARITANO 7/SBARBARO"
+    },
+    {
+        "id": "2436",
+        "name": "MARITANO 3/SBARBARO"
+    },
+    {
+        "id": "2443",
+        "name": "DANTE/DE FERRARI"
+    },
+    {
+        "id": "2444",
+        "name": "DANTE/DE FERRARI"
+    },
+    {
+        "id": "2445",
+        "name": "XX SETTEMBRE 1/DE FERRARI"
+    },
+    {
+        "id": "2446",
+        "name": "TROSSARELLI 18"
+    },
+    {
+        "id": "2447",
+        "name": "TROSSARELLI 2"
+    },
+    {
+        "id": "2449",
+        "name": "BARI 3/FUNICOLARE"
+    },
+    {
+        "id": "2452",
+        "name": "FORNO INCENERITORE"
+    },
+    {
+        "id": "2453",
+        "name": "CICLAMINI 10/NARCISI"
+    },
+    {
+        "id": "2454",
+        "name": "MOGADISCIO 4/MERMI"
+    },
+    {
+        "id": "2455",
+        "name": "VEILINO 2/TRENTO TRIESTE"
+    },
+    {
+        "id": "2456",
+        "name": "VEILINO 1/TOMBA ABELLO"
+    },
+    {
+        "id": "2457",
+        "name": "MONUMENTO CADUTI/CAPOLINEA"
+    },
+    {
+        "id": "2458",
+        "name": "CAMPO DELLE ROSE/CAPOLINEA"
+    },
+    {
+        "id": "2459",
+        "name": "LEVATI 2/CENTRO COMMERCIALE"
+    },
+    {
+        "id": "2464",
+        "name": "CARPENARA 6"
+    },
+    {
+        "id": "2465",
+        "name": "BRIAN 1/TOMBA MAZZINI"
+    },
+    {
+        "id": "2466",
+        "name": "CARPENARA 4"
+    },
+    {
+        "id": "2468",
+        "name": "CAMPO 21"
+    },
+    {
+        "id": "2469",
+        "name": "TESTERO 1/TOMBA MONTUORO"
+    },
+    {
+        "id": "2470",
+        "name": "TESTERO 2/TOMBA FONTANA"
+    },
+    {
+        "id": "2471",
+        "name": "BRIAN 2"
+    },
+    {
+        "id": "2472",
+        "name": "BRIAN 3"
+    },
+    {
+        "id": "2473",
+        "name": "CASARETTO 1/TOMBA CROCE"
+    },
+    {
+        "id": "2474",
+        "name": "CASARETTO 2/TOMBA PERI"
+    },
+    {
+        "id": "2475",
+        "name": "CARENA LARCO"
+    },
+    {
+        "id": "2476",
+        "name": "PARODI"
+    },
+    {
+        "id": "2477",
+        "name": "OSPEDALE/FINE CORSA"
+    },
+    {
+        "id": "2479",
+        "name": "COSTANZI 2/OSTELLO"
+    },
+    {
+        "id": "2480",
+        "name": "COSTANZI/CAPOLINEA"
+    },
+    {
+        "id": "2481",
+        "name": "LODI 2/CHIESA"
+    },
+    {
+        "id": "2482",
+        "name": "LODI 10/CHIESA"
+    },
+    {
+        "id": "2483",
+        "name": "PINO 11/PINO CEMBRO"
+    },
+    {
+        "id": "2484",
+        "name": "PINO 4"
+    },
+    {
+        "id": "2485",
+        "name": "MONTI/FARINI"
+    },
+    {
+        "id": "2486",
+        "name": "BARABINO 2/TORINO"
+    },
+    {
+        "id": "2488",
+        "name": "PASTORINO/PIAZZA SAVI"
+    },
+    {
+        "id": "2489",
+        "name": "PASTORINO/PIAZZA SAVI"
+    },
+    {
+        "id": "2492",
+        "name": "DE FERRARI/METRO'"
+    },
+    {
+        "id": "2493",
+        "name": "ROLLINO 8/FORTINI"
+    },
+    {
+        "id": "2494",
+        "name": "ROLLINO 1/FORTINI"
+    },
+    {
+        "id": "2495",
+        "name": "SAN CARLO DI CESE 9"
+    },
+    {
+        "id": "2496",
+        "name": "SAN CARLO DI CESE 1"
+    },
+    {
+        "id": "2497",
+        "name": "STRUPPA 1/BENEDETTO DA PORTO"
+    },
+    {
+        "id": "2498",
+        "name": "GNEO 1/MONTE TIMONE"
+    },
+    {
+        "id": "2499",
+        "name": "GNEO/CAPOLINEA"
+    },
+    {
+        "id": "2500",
+        "name": "EMILIA 7/MOLASSANA"
+    },
+    {
+        "id": "2501",
+        "name": "VEZZANI 5/PONTE AUTOSTRADA"
+    },
+    {
+        "id": "2502",
+        "name": "SANTA MARIA COSTA 1/SCUOLE"
+    },
+    {
+        "id": "2503",
+        "name": "SANTA MARIA COSTA 3/SCUOLE"
+    },
+    {
+        "id": "2504",
+        "name": "CAMPO 52"
+    },
+    {
+        "id": "2505",
+        "name": "GIUSSO 2/MONTANARI"
+    },
+    {
+        "id": "2506",
+        "name": "SAN BIAGIO 1/ROMAIRONE"
+    },
+    {
+        "id": "2507",
+        "name": "SAN BIAGIO 2/GARRONE"
+    },
+    {
+        "id": "2508",
+        "name": "SAN BIAGIO 4/GARRONE"
+    },
+    {
+        "id": "2509",
+        "name": "SAN BIAGIO 5/ROMAIRONE"
+    },
+    {
+        "id": "2510",
+        "name": "CANTORE 1/MATITONE"
+    },
+    {
+        "id": "2511",
+        "name": "ASILO GARBARINO 5/SCUOLA"
+    },
+    {
+        "id": "2512",
+        "name": "ASILO GARBARINO 1/SCUOLA"
+    },
+    {
+        "id": "2513",
+        "name": "SEDICI GIUGNO 2/FORNACI"
+    },
+    {
+        "id": "2514",
+        "name": "SEDICI GIUGNO 1/FORNACI"
+    },
+    {
+        "id": "2515",
+        "name": "SULFUREE 2/CRAVASCO"
+    },
+    {
+        "id": "2516",
+        "name": "SULFUREE 3/CRAVASCO"
+    },
+    {
+        "id": "2517",
+        "name": "PINO 13"
+    },
+    {
+        "id": "2518",
+        "name": "PINO 1"
+    },
+    {
+        "id": "2520",
+        "name": "CADIGHIARA 3/EX DAZIO"
+    },
+    {
+        "id": "2521",
+        "name": "CADIGHIARA 1/EX DAZIO"
+    },
+    {
+        "id": "2522",
+        "name": "MONTANELLA 2"
+    },
+    {
+        "id": "2523",
+        "name": "PRINCIPE FS/CAPOLINEA"
+    },
+    {
+        "id": "2525",
+        "name": "BERTOLOTTI/STAZIONE FS"
+    },
+    {
+        "id": "2526",
+        "name": "MINGHETTI/MERCATO"
+    },
+    {
+        "id": "2527",
+        "name": "ANSALDO/MASSENA"
+    },
+    {
+        "id": "2528",
+        "name": "PEDULLA' 3/PONTE GREEN"
+    },
+    {
+        "id": "2529",
+        "name": "MAJORANA/EUROPA"
+    },
+    {
+        "id": "2530",
+        "name": "MOGADISCIO 13/PIANI S.EUSEBIO"
+    },
+    {
+        "id": "2531",
+        "name": "MOGADISCIO 1/PIANI S.EUSEBIO"
+    },
+    {
+        "id": "2533",
+        "name": "PEGLI 3/ASL"
+    },
+    {
+        "id": "2534",
+        "name": "PINO 15/MONTE DI PINO"
+    },
+    {
+        "id": "2535",
+        "name": "MONTE DI PINO"
+    },
+    {
+        "id": "2536",
+        "name": "BRIN 2/METRO'"
+    },
+    {
+        "id": "2540",
+        "name": "BALBI 1/UNIVERSITA'"
+    },
+    {
+        "id": "2541",
+        "name": "GRAMSCI 1/COMMENDA"
+    },
+    {
+        "id": "2542",
+        "name": "CORRIDONI 2/GASTALDI"
+    },
+    {
+        "id": "2543",
+        "name": "CORRIDONI 1/GASTALDI"
+    },
+    {
+        "id": "2544",
+        "name": "PEROSIO/LEONARDO DA VINCI"
+    },
+    {
+        "id": "2545",
+        "name": "ORSINI 4/CAPRERA"
+    },
+    {
+        "id": "2546",
+        "name": "SALVAGO 1/PIAGGIO"
+    },
+    {
+        "id": "2547",
+        "name": "PIAGGIO 6/SALVAGO"
+    },
+    {
+        "id": "2548",
+        "name": "PASSO DELLO ZERBINO/GROPALLO"
+    },
+    {
+        "id": "2552",
+        "name": "DE GASPARI 1/CAVALLOTTI"
+    },
+    {
+        "id": "2553",
+        "name": "DE GASPARI 2/BRUNO"
+    },
+    {
+        "id": "2555",
+        "name": "SEMINI 4/FORESTALE"
+    },
+    {
+        "id": "2556",
+        "name": "DE STEFANIS 3/MIRTO"
+    },
+    {
+        "id": "2557",
+        "name": "CAPOLUNGO 2/VILLA GRIMALDI"
+    },
+    {
+        "id": "2558",
+        "name": "UNGARETTI 4"
+    },
+    {
+        "id": "2559",
+        "name": "V MAGGIO 5/OSPEDALE GASLINI"
+    },
+    {
+        "id": "2560",
+        "name": "THAON DI REVEL/BRIGNOLE FS"
+    },
+    {
+        "id": "2561",
+        "name": "ANFOSSI 2/STAZIONE FS"
+    },
+    {
+        "id": "2562",
+        "name": "GALLINO/CAPOLINEA"
+    },
+    {
+        "id": "2563",
+        "name": "CAMPANULE 1/PRIMULE"
+    },
+    {
+        "id": "2564",
+        "name": "PRIMULE 1/EUROPA"
+    },
+    {
+        "id": "2565",
+        "name": "PRIMULE 2/CAMPANULE"
+    },
+    {
+        "id": "2566",
+        "name": "DERMATOLOGIA"
+    },
+    {
+        "id": "2567",
+        "name": "MONACO SIMONE 2/SHELLEY"
+    },
+    {
+        "id": "2569",
+        "name": "LORENZINI/CASTELLUCCIO"
+    },
+    {
+        "id": "2570",
+        "name": "CAMBIASO 11"
+    },
+    {
+        "id": "2571",
+        "name": "CAMBIASO 10"
+    },
+    {
+        "id": "2572",
+        "name": "FANTI D'ITALIA/PRINCIPE FS"
+    },
+    {
+        "id": "2574",
+        "name": "SIFFREDI 3/ALBARETO"
+    },
+    {
+        "id": "2576",
+        "name": "AVIO/FIUMARA"
+    },
+    {
+        "id": "2578",
+        "name": "ITALIA 4/QUARNARO"
+    },
+    {
+        "id": "2579",
+        "name": "ADAMOLI 4/SCIORBA"
+    },
+    {
+        "id": "2580",
+        "name": "PEDRINI"
+    },
+    {
+        "id": "2581",
+        "name": "SIFFREDI 1/TONALE"
+    },
+    {
+        "id": "2582",
+        "name": "UNGARETTI 7/RATTO"
+    },
+    {
+        "id": "2584",
+        "name": "VITTORIO VENETO/CAPOLINEA"
+    },
+    {
+        "id": "2586",
+        "name": "ROLLINO 9"
+    },
+    {
+        "id": "2587",
+        "name": "ROLLINO 2"
+    },
+    {
+        "id": "2589",
+        "name": "BERGHINI 10"
+    },
+    {
+        "id": "2590",
+        "name": "PRA' FS/CAPOLINEA"
+    },
+    {
+        "id": "2592",
+        "name": "BERGHINI 5"
+    },
+    {
+        "id": "2593",
+        "name": "BERGHINI 8"
+    },
+    {
+        "id": "2595",
+        "name": "CECCARDI/DANTE"
+    },
+    {
+        "id": "2596",
+        "name": "CECCARDI/CARDUCCI"
+    },
+    {
+        "id": "2598",
+        "name": "PRONTO SOCCORSO"
+    },
+    {
+        "id": "2600",
+        "name": "MICROBIOLOGIA"
+    },
+    {
+        "id": "2612",
+        "name": "PEDULLA' 1/CAMPO 25 APRILE"
+    },
+    {
+        "id": "2613",
+        "name": "PEDULLA' 2/SOLIMANO"
+    },
+    {
+        "id": "2614",
+        "name": "PEDULLA' 1/SOLIMANO"
+    },
+    {
+        "id": "2615",
+        "name": "PEDULLA' 2/CAMPO 25 APRILE"
+    },
+    {
+        "id": "2616",
+        "name": "PONTE GUGLIELMETTI"
+    },
+    {
+        "id": "2621",
+        "name": "FIUME/BRIGNOLE FS"
+    },
+    {
+        "id": "2622",
+        "name": "SAFFI 5/RIVOLI"
+    },
+    {
+        "id": "2624",
+        "name": "BENEDICTA 3/NOVELLA"
+    },
+    {
+        "id": "2625",
+        "name": "SAN CARLO DI CESE 6"
+    },
+    {
+        "id": "2626",
+        "name": "SAN CARLO DI CESE 4"
+    },
+    {
+        "id": "2629",
+        "name": "DI CRETO 5/PERAGALLO"
+    },
+    {
+        "id": "2631",
+        "name": "MOLASSANA 6/ALLENDE"
+    },
+    {
+        "id": "2632",
+        "name": "MELEN 1"
+    },
+    {
+        "id": "2633",
+        "name": "MELEN 2"
+    },
+    {
+        "id": "2634",
+        "name": "MELEN 3"
+    },
+    {
+        "id": "2635",
+        "name": "MELEN 4/FINE CORSA"
+    },
+    {
+        "id": "2636",
+        "name": "ERZELLI/CAPOLINEA"
+    },
+    {
+        "id": "2637",
+        "name": "MELEN 5"
+    },
+    {
+        "id": "2638",
+        "name": "MELEN 6"
+    },
+    {
+        "id": "2639",
+        "name": "MELEN 7"
+    },
+    {
+        "id": "2640",
+        "name": "SANT'ELIA 1"
+    },
+    {
+        "id": "2641",
+        "name": "DE FERRARI/METRO'"
+    },
+    {
+        "id": "2642",
+        "name": "BARI 2/FUNICOLARE"
+    },
+    {
+        "id": "2643",
+        "name": "S.EUSEBIO/CAPOLINEA"
+    },
+    {
+        "id": "2644",
+        "name": "S.EUSEBIO/CAPOLINEA"
+    },
+    {
+        "id": "2645",
+        "name": "BRACELLI 7/SCALINATA BRACELLI"
+    },
+    {
+        "id": "2646",
+        "name": "BUSCAGLIA/STRUPPA"
+    },
+    {
+        "id": "2647",
+        "name": "DI CRETO 1/PERAGALLO"
+    },
+    {
+        "id": "2648",
+        "name": "DI CRETO 2/PASSO RENATO"
+    },
+    {
+        "id": "2649",
+        "name": "DI CRETO 3/CIMITERO"
+    },
+    {
+        "id": "2650",
+        "name": "DI CRETO 4"
+    },
+    {
+        "id": "2651",
+        "name": "DI CRETO/SAN SIRO"
+    },
+    {
+        "id": "2652",
+        "name": "DI CRETO 1/CA' BIANCA"
+    },
+    {
+        "id": "2653",
+        "name": "DI CRETO 2"
+    },
+    {
+        "id": "2654",
+        "name": "DI CRETO 3/CIMITERO"
+    },
+    {
+        "id": "2655",
+        "name": "DI CRETO 4/PASSO RENATO"
+    },
+    {
+        "id": "2656",
+        "name": "BONIFACIO/SARDEGNA"
+    },
+    {
+        "id": "2659",
+        "name": "CORNIGLIANO 3/PELLIZZARI"
+    },
+    {
+        "id": "2660",
+        "name": "BERGHINI 3"
+    }
+]}
